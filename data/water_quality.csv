@@ -1,0 +1,37 @@
+date,station,parameter,value,unit,lower_bound,upper_bound
+2024-01-01,North Fork,Dissolved oxygen,8.4,mg/L,5.0,
+2024-01-01,North Fork,pH,7.2,pH,6.5,8.5
+2024-01-01,North Fork,Turbidity,1.8,NTU,,5.0
+2024-01-01,Central Park,Dissolved oxygen,7.9,mg/L,5.0,
+2024-01-01,Central Park,pH,7.0,pH,6.5,8.5
+2024-01-01,Central Park,Turbidity,2.4,NTU,,5.0
+2024-01-01,South Outlet,Dissolved oxygen,6.2,mg/L,5.0,
+2024-01-01,South Outlet,pH,6.8,pH,6.5,8.5
+2024-01-01,South Outlet,Turbidity,4.1,NTU,,5.0
+2024-02-01,North Fork,Dissolved oxygen,8.1,mg/L,5.0,
+2024-02-01,North Fork,pH,7.3,pH,6.5,8.5
+2024-02-01,North Fork,Turbidity,2.2,NTU,,5.0
+2024-02-01,Central Park,Dissolved oxygen,7.4,mg/L,5.0,
+2024-02-01,Central Park,pH,7.1,pH,6.5,8.5
+2024-02-01,Central Park,Turbidity,2.8,NTU,,5.0
+2024-02-01,South Outlet,Dissolved oxygen,5.8,mg/L,5.0,
+2024-02-01,South Outlet,pH,6.6,pH,6.5,8.5
+2024-02-01,South Outlet,Turbidity,5.7,NTU,,5.0
+2024-03-01,North Fork,Dissolved oxygen,8.6,mg/L,5.0,
+2024-03-01,North Fork,pH,7.4,pH,6.5,8.5
+2024-03-01,North Fork,Turbidity,1.6,NTU,,5.0
+2024-03-01,Central Park,Dissolved oxygen,7.6,mg/L,5.0,
+2024-03-01,Central Park,pH,6.4,pH,6.5,8.5
+2024-03-01,Central Park,Turbidity,3.2,NTU,,5.0
+2024-03-01,South Outlet,Dissolved oxygen,4.7,mg/L,5.0,
+2024-03-01,South Outlet,pH,6.7,pH,6.5,8.5
+2024-03-01,South Outlet,Turbidity,4.8,NTU,,5.0
+2024-04-01,North Fork,Dissolved oxygen,8.0,mg/L,5.0,
+2024-04-01,North Fork,pH,7.2,pH,6.5,8.5
+2024-04-01,North Fork,Turbidity,2.0,NTU,,5.0
+2024-04-01,Central Park,Dissolved oxygen,7.2,mg/L,5.0,
+2024-04-01,Central Park,pH,7.0,pH,6.5,8.5
+2024-04-01,Central Park,Turbidity,2.6,NTU,,5.0
+2024-04-01,South Outlet,Dissolved oxygen,5.3,mg/L,5.0,
+2024-04-01,South Outlet,pH,6.5,pH,6.5,8.5
+2024-04-01,South Outlet,Turbidity,6.2,NTU,,5.0

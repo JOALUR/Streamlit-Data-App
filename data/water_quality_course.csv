@@ -1,0 +1,3160 @@
+timestamp,measurement,value,unit
+2021-10-21 10:32:34,pH,7.94,pH
+2021-10-21 10:32:34,Turbidity,-5.5,NTU
+2021-10-21 10:32:34,Chlorophyll,77.8,ug/L
+2021-10-21 10:32:34,Blue-green algae,127766,cells/mL
+2021-10-21 10:32:34,Dissolved oxygen,5.49,mg/L
+2021-10-21 10:32:34,Oxygen saturation,90,%
+2021-10-21 10:32:34,Water temperature,26.77,°C
+2021-10-21 10:32:34,Specific conductivity,70.7,mS/cm
+2021-10-21 10:32:34,Salinity,48.43,ppt
+2021-10-21 10:32:34,pH,7.94,pH
+2021-10-21 10:32:34,Turbidity,-5.5,NTU
+2021-10-21 10:32:34,Chlorophyll,77.8,ug/L
+2021-10-21 10:32:34,Blue-green algae,127766,cells/mL
+2021-10-21 10:32:34,Dissolved oxygen,5.49,mg/L
+2021-10-21 10:32:34,Oxygen saturation,90,%
+2021-10-21 10:32:34,Water temperature,26.77,°C
+2021-10-21 10:32:34,Specific conductivity,70.7,mS/cm
+2021-10-21 10:32:34,Salinity,48.43,ppt
+2021-10-21 10:32:36,pH,7.94,pH
+2021-10-21 10:32:36,Turbidity,-5.2,NTU
+2021-10-21 10:32:36,Chlorophyll,199.7,ug/L
+2021-10-21 10:32:36,Blue-green algae,103853,cells/mL
+2021-10-21 10:32:36,Dissolved oxygen,5.5,mg/L
+2021-10-21 10:32:36,Oxygen saturation,90.2,%
+2021-10-21 10:32:36,Water temperature,26.73,°C
+2021-10-21 10:32:36,Specific conductivity,70.96,mS/cm
+2021-10-21 10:32:36,Salinity,48.64,ppt
+2021-10-21 10:32:36,pH,7.94,pH
+2021-10-21 10:32:36,Turbidity,-5.2,NTU
+2021-10-21 10:32:36,Chlorophyll,199.7,ug/L
+2021-10-21 10:32:36,Blue-green algae,103853,cells/mL
+2021-10-21 10:32:36,Dissolved oxygen,5.5,mg/L
+2021-10-21 10:32:36,Oxygen saturation,90.2,%
+2021-10-21 10:32:36,Water temperature,26.73,°C
+2021-10-21 10:32:36,Specific conductivity,70.96,mS/cm
+2021-10-21 10:32:36,Salinity,48.64,ppt
+2021-10-21 10:32:38,pH,7.94,pH
+2021-10-21 10:32:38,Turbidity,-4.6,NTU
+2021-10-21 10:32:38,Chlorophyll,191.3,ug/L
+2021-10-21 10:32:38,Blue-green algae,157469,cells/mL
+2021-10-21 10:32:38,Dissolved oxygen,5.82,mg/L
+2021-10-21 10:32:38,Oxygen saturation,90.5,%
+2021-10-21 10:32:38,Water temperature,26.72,°C
+2021-10-21 10:32:38,Specific conductivity,58.65,mS/cm
+2021-10-21 10:32:38,Salinity,39.14,ppt
+2021-10-21 10:32:39,pH,7.94,pH
+2021-10-21 10:32:39,Turbidity,-4.5,NTU
+2021-10-21 10:32:39,Chlorophyll,12.5,ug/L
+2021-10-21 10:32:39,Blue-green algae,115704,cells/mL
+2021-10-21 10:32:39,Dissolved oxygen,5.53,mg/L
+2021-10-21 10:32:39,Oxygen saturation,90.6,%
+2021-10-21 10:32:39,Water temperature,26.71,°C
+2021-10-21 10:32:39,Specific conductivity,70.74,mS/cm
+2021-10-21 10:32:39,Salinity,48.46,ppt
+2021-10-21 10:32:40,pH,7.93,pH
+2021-10-21 10:32:40,Turbidity,-3,NTU
+2021-10-21 10:32:40,Chlorophyll,29.3,ug/L
+2021-10-21 10:32:40,Blue-green algae,125809,cells/mL
+2021-10-21 10:32:40,Dissolved oxygen,5.52,mg/L
+2021-10-21 10:32:40,Oxygen saturation,90.5,%
+2021-10-21 10:32:40,Water temperature,26.71,°C
+2021-10-21 10:32:40,Specific conductivity,70.77,mS/cm
+2021-10-21 10:32:40,Salinity,48.49,ppt
+2021-10-21 10:32:41,pH,7.92,pH
+2021-10-21 10:32:41,Turbidity,-4.7,NTU
+2021-10-21 10:32:41,Chlorophyll,-3.5,ug/L
+2021-10-21 10:32:41,Blue-green algae,53018,cells/mL
+2021-10-21 10:32:41,Dissolved oxygen,5.54,mg/L
+2021-10-21 10:32:41,Oxygen saturation,90.7,%
+2021-10-21 10:32:41,Water temperature,26.7,°C
+2021-10-21 10:32:41,Specific conductivity,70.5,mS/cm
+2021-10-21 10:32:41,Salinity,48.28,ppt
+2021-10-21 10:32:42,pH,7.91,pH
+2021-10-21 10:32:42,Turbidity,-2.5,NTU
+2021-10-21 10:32:42,Chlorophyll,10.9,ug/L
+2021-10-21 10:32:42,Blue-green algae,84687,cells/mL
+2021-10-21 10:32:42,Dissolved oxygen,5.53,mg/L
+2021-10-21 10:32:42,Oxygen saturation,90.7,%
+2021-10-21 10:32:42,Water temperature,26.7,°C
+2021-10-21 10:32:42,Specific conductivity,70.65,mS/cm
+2021-10-21 10:32:42,Salinity,48.39,ppt
+2021-10-21 10:32:43,pH,7.91,pH
+2021-10-21 10:32:43,Turbidity,9.2,NTU
+2021-10-21 10:32:43,Chlorophyll,-5.2,ug/L
+2021-10-21 10:32:43,Blue-green algae,16711,cells/mL
+2021-10-21 10:32:43,Dissolved oxygen,5.54,mg/L
+2021-10-21 10:32:43,Oxygen saturation,90.7,%
+2021-10-21 10:32:43,Water temperature,26.69,°C
+2021-10-21 10:32:43,Specific conductivity,70.69,mS/cm
+2021-10-21 10:32:43,Salinity,48.42,ppt
+2021-10-21 10:32:44,pH,7.91,pH
+2021-10-21 10:32:44,Turbidity,-5.2,NTU
+2021-10-21 10:32:44,Chlorophyll,46.4,ug/L
+2021-10-21 10:32:44,Blue-green algae,3323,cells/mL
+2021-10-21 10:32:44,Dissolved oxygen,5.54,mg/L
+2021-10-21 10:32:44,Oxygen saturation,90.7,%
+2021-10-21 10:32:44,Water temperature,26.69,°C
+2021-10-21 10:32:44,Specific conductivity,70.65,mS/cm
+2021-10-21 10:32:44,Salinity,48.39,ppt
+2021-10-21 10:32:45,pH,7.91,pH
+2021-10-21 10:32:45,Turbidity,-1.3,NTU
+2021-10-21 10:32:45,Chlorophyll,18.6,ug/L
+2021-10-21 10:32:45,Blue-green algae,194246,cells/mL
+2021-10-21 10:32:45,Dissolved oxygen,5.99,mg/L
+2021-10-21 10:32:45,Oxygen saturation,90.9,%
+2021-10-21 10:32:45,Water temperature,26.69,°C
+2021-10-21 10:32:45,Specific conductivity,52.68,mS/cm
+2021-10-21 10:32:45,Salinity,34.67,ppt
+2021-10-21 10:32:46,pH,7.9,pH
+2021-10-21 10:32:46,Turbidity,-3.1,NTU
+2021-10-21 10:32:46,Chlorophyll,35.4,ug/L
+2021-10-21 10:32:46,Blue-green algae,149258,cells/mL
+2021-10-21 10:32:46,Dissolved oxygen,5.56,mg/L
+2021-10-21 10:32:46,Oxygen saturation,91,%
+2021-10-21 10:32:46,Water temperature,26.69,°C
+2021-10-21 10:32:46,Specific conductivity,70.55,mS/cm
+2021-10-21 10:32:46,Salinity,48.31,ppt
+2021-10-21 10:32:47,pH,7.9,pH
+2021-10-21 10:32:47,Turbidity,-4,NTU
+2021-10-21 10:32:47,Chlorophyll,10.2,ug/L
+2021-10-21 10:32:47,Blue-green algae,159822,cells/mL
+2021-10-21 10:32:47,Dissolved oxygen,5.57,mg/L
+2021-10-21 10:32:47,Oxygen saturation,91.2,%
+2021-10-21 10:32:47,Water temperature,26.69,°C
+2021-10-21 10:32:47,Specific conductivity,70.51,mS/cm
+2021-10-21 10:32:47,Salinity,48.28,ppt
+2021-10-21 10:32:48,pH,7.91,pH
+2021-10-21 10:32:48,Turbidity,-5,NTU
+2021-10-21 10:32:48,Chlorophyll,-2.7,ug/L
+2021-10-21 10:32:48,Blue-green algae,137963,cells/mL
+2021-10-21 10:32:48,Dissolved oxygen,5.57,mg/L
+2021-10-21 10:32:48,Oxygen saturation,91.2,%
+2021-10-21 10:32:48,Water temperature,26.69,°C
+2021-10-21 10:32:48,Specific conductivity,70.36,mS/cm
+2021-10-21 10:32:48,Salinity,48.17,ppt
+2021-10-21 10:32:49,pH,7.9,pH
+2021-10-21 10:32:49,Turbidity,-3.8,NTU
+2021-10-21 10:32:49,Chlorophyll,79.4,ug/L
+2021-10-21 10:32:49,Blue-green algae,204164,cells/mL
+2021-10-21 10:32:49,Dissolved oxygen,5.58,mg/L
+2021-10-21 10:32:49,Oxygen saturation,91.3,%
+2021-10-21 10:32:49,Water temperature,26.69,°C
+2021-10-21 10:32:49,Specific conductivity,70.36,mS/cm
+2021-10-21 10:32:49,Salinity,48.17,ppt
+2021-10-21 10:32:50,pH,7.9,pH
+2021-10-21 10:32:50,Turbidity,-3.1,NTU
+2021-10-21 10:32:50,Chlorophyll,-5.9,ug/L
+2021-10-21 10:32:50,Blue-green algae,166988,cells/mL
+2021-10-21 10:32:50,Dissolved oxygen,5.59,mg/L
+2021-10-21 10:32:50,Oxygen saturation,91.4,%
+2021-10-21 10:32:50,Water temperature,26.69,°C
+2021-10-21 10:32:50,Specific conductivity,70.36,mS/cm
+2021-10-21 10:32:50,Salinity,48.17,ppt
+2021-10-21 10:32:51,pH,7.9,pH
+2021-10-21 10:32:51,Turbidity,-5.3,NTU
+2021-10-21 10:32:51,Chlorophyll,-6.7,ug/L
+2021-10-21 10:32:51,Blue-green algae,185499,cells/mL
+2021-10-21 10:32:51,Dissolved oxygen,5.59,mg/L
+2021-10-21 10:32:51,Oxygen saturation,91.4,%
+2021-10-21 10:32:51,Water temperature,26.69,°C
+2021-10-21 10:32:51,Specific conductivity,70.33,mS/cm
+2021-10-21 10:32:51,Salinity,48.14,ppt
+2021-10-21 10:32:52,pH,7.91,pH
+2021-10-21 10:32:52,Turbidity,-5.1,NTU
+2021-10-21 10:32:52,Chlorophyll,0,ug/L
+2021-10-21 10:32:52,Blue-green algae,239830,cells/mL
+2021-10-21 10:32:52,Dissolved oxygen,5.6,mg/L
+2021-10-21 10:32:52,Oxygen saturation,91.5,%
+2021-10-21 10:32:52,Water temperature,26.7,°C
+2021-10-21 10:32:52,Specific conductivity,70.22,mS/cm
+2021-10-21 10:32:52,Salinity,48.06,ppt
+2021-10-21 10:32:53,pH,7.9,pH
+2021-10-21 10:32:53,Turbidity,-4.8,NTU
+2021-10-21 10:32:53,Chlorophyll,-3.5,ug/L
+2021-10-21 10:32:53,Blue-green algae,197766,cells/mL
+2021-10-21 10:32:53,Dissolved oxygen,5.6,mg/L
+2021-10-21 10:32:53,Oxygen saturation,91.5,%
+2021-10-21 10:32:53,Water temperature,26.69,°C
+2021-10-21 10:32:53,Specific conductivity,70.23,mS/cm
+2021-10-21 10:32:53,Salinity,48.06,ppt
+2021-10-21 10:32:54,pH,7.91,pH
+2021-10-21 10:32:54,Turbidity,-5,NTU
+2021-10-21 10:32:54,Chlorophyll,-3.7,ug/L
+2021-10-21 10:32:54,Blue-green algae,166682,cells/mL
+2021-10-21 10:32:54,Dissolved oxygen,5.61,mg/L
+2021-10-21 10:32:54,Oxygen saturation,91.6,%
+2021-10-21 10:32:54,Water temperature,26.69,°C
+2021-10-21 10:32:54,Specific conductivity,70.19,mS/cm
+2021-10-21 10:32:54,Salinity,48.03,ppt
+2021-10-21 10:32:55,pH,7.91,pH
+2021-10-21 10:32:55,Turbidity,-4,NTU
+2021-10-21 10:32:55,Chlorophyll,-7.5,ug/L
+2021-10-21 10:32:55,Blue-green algae,200423,cells/mL
+2021-10-21 10:32:55,Dissolved oxygen,5.61,mg/L
+2021-10-21 10:32:55,Oxygen saturation,91.7,%
+2021-10-21 10:32:55,Water temperature,26.69,°C
+2021-10-21 10:32:55,Specific conductivity,70.13,mS/cm
+2021-10-21 10:32:55,Salinity,47.99,ppt
+2021-10-21 10:32:56,pH,7.91,pH
+2021-10-21 10:32:56,Turbidity,-4.8,NTU
+2021-10-21 10:32:56,Chlorophyll,21.8,ug/L
+2021-10-21 10:32:56,Blue-green algae,177079,cells/mL
+2021-10-21 10:32:56,Dissolved oxygen,5.99,mg/L
+2021-10-21 10:32:56,Oxygen saturation,91.8,%
+2021-10-21 10:32:56,Water temperature,26.69,°C
+2021-10-21 10:32:56,Specific conductivity,55.28,mS/cm
+2021-10-21 10:32:56,Salinity,36.6,ppt
+2021-10-21 10:32:57,pH,7.91,pH
+2021-10-21 10:32:57,Turbidity,-6,NTU
+2021-10-21 10:32:57,Chlorophyll,0.8,ug/L
+2021-10-21 10:32:57,Blue-green algae,148953,cells/mL
+2021-10-21 10:32:57,Dissolved oxygen,7.06,mg/L
+2021-10-21 10:32:57,Oxygen saturation,91.8,%
+2021-10-21 10:32:57,Water temperature,26.69,°C
+2021-10-21 10:32:57,Specific conductivity,12.79,mS/cm
+2021-10-21 10:32:57,Salinity,7.32,ppt
+2021-10-21 10:32:58,pH,7.9,pH
+2021-10-21 10:32:58,Turbidity,-4.6,NTU
+2021-10-21 10:32:58,Chlorophyll,1.8,ug/L
+2021-10-21 10:32:58,Blue-green algae,74119,cells/mL
+2021-10-21 10:32:58,Dissolved oxygen,5.62,mg/L
+2021-10-21 10:32:58,Oxygen saturation,91.7,%
+2021-10-21 10:32:58,Water temperature,26.68,°C
+2021-10-21 10:32:58,Specific conductivity,70.04,mS/cm
+2021-10-21 10:32:58,Salinity,47.92,ppt
+2021-10-21 10:33:00,pH,7.91,pH
+2021-10-21 10:33:00,Turbidity,-5.2,NTU
+2021-10-21 10:33:00,Chlorophyll,-0.4,ug/L
+2021-10-21 10:33:00,Blue-green algae,183101,cells/mL
+2021-10-21 10:33:00,Dissolved oxygen,6.73,mg/L
+2021-10-21 10:33:00,Oxygen saturation,91.9,%
+2021-10-21 10:33:00,Water temperature,26.69,°C
+2021-10-21 10:33:00,Specific conductivity,26.57,mS/cm
+2021-10-21 10:33:00,Salinity,16.23,ppt
+2021-10-21 10:33:00,pH,7.91,pH
+2021-10-21 10:33:00,Turbidity,-5.2,NTU
+2021-10-21 10:33:00,Chlorophyll,-0.4,ug/L
+2021-10-21 10:33:00,Blue-green algae,183101,cells/mL
+2021-10-21 10:33:00,Dissolved oxygen,6.73,mg/L
+2021-10-21 10:33:00,Oxygen saturation,91.9,%
+2021-10-21 10:33:00,Water temperature,26.69,°C
+2021-10-21 10:33:00,Specific conductivity,26.57,mS/cm
+2021-10-21 10:33:00,Salinity,16.23,ppt
+2021-10-21 10:33:01,pH,7.91,pH
+2021-10-21 10:33:01,Turbidity,-4.9,NTU
+2021-10-21 10:33:01,Chlorophyll,0.5,ug/L
+2021-10-21 10:33:01,Blue-green algae,3096,cells/mL
+2021-10-21 10:33:01,Dissolved oxygen,5.63,mg/L
+2021-10-21 10:33:01,Oxygen saturation,92,%
+2021-10-21 10:33:01,Water temperature,26.69,°C
+2021-10-21 10:33:01,Specific conductivity,69.95,mS/cm
+2021-10-21 10:33:01,Salinity,47.84,ppt
+2021-10-21 10:33:02,pH,7.91,pH
+2021-10-21 10:33:02,Turbidity,-3.4,NTU
+2021-10-21 10:33:02,Chlorophyll,-8.6,ug/L
+2021-10-21 10:33:02,Blue-green algae,5945,cells/mL
+2021-10-21 10:33:02,Dissolved oxygen,5.89,mg/L
+2021-10-21 10:33:02,Oxygen saturation,91.9,%
+2021-10-21 10:33:02,Water temperature,26.69,°C
+2021-10-21 10:33:02,Specific conductivity,59.36,mS/cm
+2021-10-21 10:33:02,Salinity,39.67,ppt
+2021-10-21 10:33:03,pH,7.91,pH
+2021-10-21 10:33:03,Turbidity,-6.2,NTU
+2021-10-21 10:33:03,Chlorophyll,-6,ug/L
+2021-10-21 10:33:03,Blue-green algae,620,cells/mL
+2021-10-21 10:33:03,Dissolved oxygen,5.64,mg/L
+2021-10-21 10:33:03,Oxygen saturation,92,%
+2021-10-21 10:33:03,Water temperature,26.69,°C
+2021-10-21 10:33:03,Specific conductivity,69.87,mS/cm
+2021-10-21 10:33:03,Salinity,47.78,ppt
+2021-10-21 10:33:05,pH,7.91,pH
+2021-10-21 10:33:05,Turbidity,-4.4,NTU
+2021-10-21 10:33:05,Chlorophyll,-1.4,ug/L
+2021-10-21 10:33:05,Blue-green algae,-5225,cells/mL
+2021-10-21 10:33:05,Dissolved oxygen,5.65,mg/L
+2021-10-21 10:33:05,Oxygen saturation,92.1,%
+2021-10-21 10:33:05,Water temperature,26.68,°C
+2021-10-21 10:33:05,Specific conductivity,69.82,mS/cm
+2021-10-21 10:33:05,Salinity,47.74,ppt
+2021-10-21 10:33:05,pH,7.91,pH
+2021-10-21 10:33:05,Turbidity,-4.4,NTU
+2021-10-21 10:33:05,Chlorophyll,-1.4,ug/L
+2021-10-21 10:33:05,Blue-green algae,-5225,cells/mL
+2021-10-21 10:33:05,Dissolved oxygen,5.65,mg/L
+2021-10-21 10:33:05,Oxygen saturation,92.1,%
+2021-10-21 10:33:05,Water temperature,26.68,°C
+2021-10-21 10:33:05,Specific conductivity,69.82,mS/cm
+2021-10-21 10:33:05,Salinity,47.74,ppt
+2021-10-21 10:33:06,pH,7.91,pH
+2021-10-21 10:33:06,Turbidity,-4.9,NTU
+2021-10-21 10:33:06,Chlorophyll,-3.8,ug/L
+2021-10-21 10:33:06,Blue-green algae,965,cells/mL
+2021-10-21 10:33:06,Dissolved oxygen,5.65,mg/L
+2021-10-21 10:33:06,Oxygen saturation,92.1,%
+2021-10-21 10:33:06,Water temperature,26.68,°C
+2021-10-21 10:33:06,Specific conductivity,69.79,mS/cm
+2021-10-21 10:33:06,Salinity,47.72,ppt
+2021-10-21 10:33:08,pH,7.91,pH
+2021-10-21 10:33:08,Turbidity,-3,NTU
+2021-10-21 10:33:08,Chlorophyll,-2.8,ug/L
+2021-10-21 10:33:08,Blue-green algae,-2784,cells/mL
+2021-10-21 10:33:08,Dissolved oxygen,5.66,mg/L
+2021-10-21 10:33:08,Oxygen saturation,92.2,%
+2021-10-21 10:33:08,Water temperature,26.69,°C
+2021-10-21 10:33:08,Specific conductivity,69.72,mS/cm
+2021-10-21 10:33:08,Salinity,47.67,ppt
+2021-10-21 10:33:08,pH,7.91,pH
+2021-10-21 10:33:08,Turbidity,-3,NTU
+2021-10-21 10:33:08,Chlorophyll,-2.8,ug/L
+2021-10-21 10:33:08,Blue-green algae,-2784,cells/mL
+2021-10-21 10:33:08,Dissolved oxygen,5.66,mg/L
+2021-10-21 10:33:08,Oxygen saturation,92.2,%
+2021-10-21 10:33:08,Water temperature,26.69,°C
+2021-10-21 10:33:08,Specific conductivity,69.72,mS/cm
+2021-10-21 10:33:08,Salinity,47.67,ppt
+2021-10-21 10:33:09,pH,7.91,pH
+2021-10-21 10:33:09,Turbidity,-3.8,NTU
+2021-10-21 10:33:09,Chlorophyll,-3.7,ug/L
+2021-10-21 10:33:09,Blue-green algae,1523,cells/mL
+2021-10-21 10:33:09,Dissolved oxygen,5.66,mg/L
+2021-10-21 10:33:09,Oxygen saturation,92.2,%
+2021-10-21 10:33:09,Water temperature,26.69,°C
+2021-10-21 10:33:09,Specific conductivity,69.69,mS/cm
+2021-10-21 10:33:09,Salinity,47.64,ppt
+2021-10-21 10:33:11,pH,7.91,pH
+2021-10-21 10:33:11,Turbidity,-4.3,NTU
+2021-10-21 10:33:11,Chlorophyll,-5.6,ug/L
+2021-10-21 10:33:11,Blue-green algae,-2038,cells/mL
+2021-10-21 10:33:11,Dissolved oxygen,5.66,mg/L
+2021-10-21 10:33:11,Oxygen saturation,92.3,%
+2021-10-21 10:33:11,Water temperature,26.69,°C
+2021-10-21 10:33:11,Specific conductivity,69.65,mS/cm
+2021-10-21 10:33:11,Salinity,47.61,ppt
+2021-10-21 10:33:11,pH,7.91,pH
+2021-10-21 10:33:11,Turbidity,-4.3,NTU
+2021-10-21 10:33:11,Chlorophyll,-5.6,ug/L
+2021-10-21 10:33:11,Blue-green algae,-2038,cells/mL
+2021-10-21 10:33:11,Dissolved oxygen,5.66,mg/L
+2021-10-21 10:33:11,Oxygen saturation,92.3,%
+2021-10-21 10:33:11,Water temperature,26.69,°C
+2021-10-21 10:33:11,Specific conductivity,69.65,mS/cm
+2021-10-21 10:33:11,Salinity,47.61,ppt
+2021-10-21 10:33:13,pH,7.91,pH
+2021-10-21 10:33:13,Turbidity,-6,NTU
+2021-10-21 10:33:13,Chlorophyll,-3.3,ug/L
+2021-10-21 10:33:13,Blue-green algae,5912,cells/mL
+2021-10-21 10:33:13,Dissolved oxygen,5.67,mg/L
+2021-10-21 10:33:13,Oxygen saturation,92.4,%
+2021-10-21 10:33:13,Water temperature,26.69,°C
+2021-10-21 10:33:13,Specific conductivity,69.59,mS/cm
+2021-10-21 10:33:13,Salinity,47.56,ppt
+2021-10-21 10:33:13,pH,7.91,pH
+2021-10-21 10:33:13,Turbidity,-6,NTU
+2021-10-21 10:33:13,Chlorophyll,-3.3,ug/L
+2021-10-21 10:33:13,Blue-green algae,5912,cells/mL
+2021-10-21 10:33:13,Dissolved oxygen,5.67,mg/L
+2021-10-21 10:33:13,Oxygen saturation,92.4,%
+2021-10-21 10:33:13,Water temperature,26.69,°C
+2021-10-21 10:33:13,Specific conductivity,69.59,mS/cm
+2021-10-21 10:33:13,Salinity,47.56,ppt
+2021-10-21 10:33:14,pH,7.91,pH
+2021-10-21 10:33:14,Turbidity,-5,NTU
+2021-10-21 10:33:14,Chlorophyll,-6.2,ug/L
+2021-10-21 10:33:14,Blue-green algae,-4146,cells/mL
+2021-10-21 10:33:14,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:33:14,Oxygen saturation,92.4,%
+2021-10-21 10:33:14,Water temperature,26.69,°C
+2021-10-21 10:33:14,Specific conductivity,64.08,mS/cm
+2021-10-21 10:33:14,Salinity,43.28,ppt
+2021-10-21 10:33:16,pH,7.9,pH
+2021-10-21 10:33:16,Turbidity,-4.4,NTU
+2021-10-21 10:33:16,Chlorophyll,-0.6,ug/L
+2021-10-21 10:33:16,Blue-green algae,884,cells/mL
+2021-10-21 10:33:16,Dissolved oxygen,5.68,mg/L
+2021-10-21 10:33:16,Oxygen saturation,92.6,%
+2021-10-21 10:33:16,Water temperature,26.69,°C
+2021-10-21 10:33:16,Specific conductivity,69.51,mS/cm
+2021-10-21 10:33:16,Salinity,47.5,ppt
+2021-10-21 10:33:17,pH,7.9,pH
+2021-10-21 10:33:17,Turbidity,-5.5,NTU
+2021-10-21 10:33:17,Chlorophyll,-1.9,ug/L
+2021-10-21 10:33:17,Blue-green algae,3012,cells/mL
+2021-10-21 10:33:17,Dissolved oxygen,5.68,mg/L
+2021-10-21 10:33:17,Oxygen saturation,92.6,%
+2021-10-21 10:33:17,Water temperature,26.69,°C
+2021-10-21 10:33:17,Specific conductivity,69.49,mS/cm
+2021-10-21 10:33:17,Salinity,47.48,ppt
+2021-10-21 10:33:17,pH,7.9,pH
+2021-10-21 10:33:17,Turbidity,-5.5,NTU
+2021-10-21 10:33:17,Chlorophyll,-1.9,ug/L
+2021-10-21 10:33:17,Blue-green algae,3012,cells/mL
+2021-10-21 10:33:17,Dissolved oxygen,5.68,mg/L
+2021-10-21 10:33:17,Oxygen saturation,92.6,%
+2021-10-21 10:33:17,Water temperature,26.69,°C
+2021-10-21 10:33:17,Specific conductivity,69.49,mS/cm
+2021-10-21 10:33:17,Salinity,47.48,ppt
+2021-10-21 10:33:18,pH,7.91,pH
+2021-10-21 10:33:18,Turbidity,38.4,NTU
+2021-10-21 10:33:18,Chlorophyll,-8.6,ug/L
+2021-10-21 10:33:18,Blue-green algae,9463,cells/mL
+2021-10-21 10:33:18,Dissolved oxygen,6.52,mg/L
+2021-10-21 10:33:18,Oxygen saturation,92.5,%
+2021-10-21 10:33:18,Water temperature,26.69,°C
+2021-10-21 10:33:18,Specific conductivity,36.2,mS/cm
+2021-10-21 10:33:18,Salinity,22.81,ppt
+2021-10-21 10:33:19,pH,7.9,pH
+2021-10-21 10:33:19,Turbidity,-3.4,NTU
+2021-10-21 10:33:19,Chlorophyll,-7.3,ug/L
+2021-10-21 10:33:19,Blue-green algae,1346,cells/mL
+2021-10-21 10:33:19,Dissolved oxygen,5.68,mg/L
+2021-10-21 10:33:19,Oxygen saturation,92.6,%
+2021-10-21 10:33:19,Water temperature,26.68,°C
+2021-10-21 10:33:19,Specific conductivity,69.45,mS/cm
+2021-10-21 10:33:19,Salinity,47.45,ppt
+2021-10-21 10:33:21,pH,7.9,pH
+2021-10-21 10:33:21,Turbidity,-4.2,NTU
+2021-10-21 10:33:21,Chlorophyll,8.4,ug/L
+2021-10-21 10:33:21,Blue-green algae,5095,cells/mL
+2021-10-21 10:33:21,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:33:21,Oxygen saturation,92.7,%
+2021-10-21 10:33:21,Water temperature,26.66,°C
+2021-10-21 10:33:21,Specific conductivity,66.16,mS/cm
+2021-10-21 10:33:21,Salinity,44.89,ppt
+2021-10-21 10:33:21,pH,7.9,pH
+2021-10-21 10:33:21,Turbidity,-4.2,NTU
+2021-10-21 10:33:21,Chlorophyll,8.4,ug/L
+2021-10-21 10:33:21,Blue-green algae,5095,cells/mL
+2021-10-21 10:33:21,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:33:21,Oxygen saturation,92.7,%
+2021-10-21 10:33:21,Water temperature,26.66,°C
+2021-10-21 10:33:21,Specific conductivity,66.16,mS/cm
+2021-10-21 10:33:21,Salinity,44.89,ppt
+2021-10-21 10:33:22,pH,7.9,pH
+2021-10-21 10:33:22,Turbidity,-3.2,NTU
+2021-10-21 10:33:22,Chlorophyll,0.5,ug/L
+2021-10-21 10:33:22,Blue-green algae,-5005,cells/mL
+2021-10-21 10:33:22,Dissolved oxygen,5.69,mg/L
+2021-10-21 10:33:22,Oxygen saturation,92.6,%
+2021-10-21 10:33:22,Water temperature,26.67,°C
+2021-10-21 10:33:22,Specific conductivity,69.37,mS/cm
+2021-10-21 10:33:22,Salinity,47.39,ppt
+2021-10-21 10:33:24,pH,7.9,pH
+2021-10-21 10:33:24,Turbidity,-2,NTU
+2021-10-21 10:33:24,Chlorophyll,1,ug/L
+2021-10-21 10:33:24,Blue-green algae,3759,cells/mL
+2021-10-21 10:33:24,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:33:24,Oxygen saturation,92.8,%
+2021-10-21 10:33:24,Water temperature,26.67,°C
+2021-10-21 10:33:24,Specific conductivity,69.35,mS/cm
+2021-10-21 10:33:24,Salinity,47.38,ppt
+2021-10-21 10:33:24,pH,7.9,pH
+2021-10-21 10:33:24,Turbidity,-2,NTU
+2021-10-21 10:33:24,Chlorophyll,1,ug/L
+2021-10-21 10:33:24,Blue-green algae,3759,cells/mL
+2021-10-21 10:33:24,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:33:24,Oxygen saturation,92.8,%
+2021-10-21 10:33:24,Water temperature,26.67,°C
+2021-10-21 10:33:24,Specific conductivity,69.35,mS/cm
+2021-10-21 10:33:24,Salinity,47.38,ppt
+2021-10-21 10:33:26,pH,7.9,pH
+2021-10-21 10:33:26,Turbidity,-3.7,NTU
+2021-10-21 10:33:26,Chlorophyll,80.6,ug/L
+2021-10-21 10:33:26,Blue-green algae,90706,cells/mL
+2021-10-21 10:33:26,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:33:26,Oxygen saturation,92.8,%
+2021-10-21 10:33:26,Water temperature,26.65,°C
+2021-10-21 10:33:26,Specific conductivity,69.34,mS/cm
+2021-10-21 10:33:26,Salinity,47.36,ppt
+2021-10-21 10:33:26,pH,7.9,pH
+2021-10-21 10:33:26,Turbidity,-3.7,NTU
+2021-10-21 10:33:26,Chlorophyll,80.6,ug/L
+2021-10-21 10:33:26,Blue-green algae,90706,cells/mL
+2021-10-21 10:33:26,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:33:26,Oxygen saturation,92.8,%
+2021-10-21 10:33:26,Water temperature,26.65,°C
+2021-10-21 10:33:26,Specific conductivity,69.34,mS/cm
+2021-10-21 10:33:26,Salinity,47.36,ppt
+2021-10-21 10:33:28,pH,7.9,pH
+2021-10-21 10:33:28,Turbidity,-4.7,NTU
+2021-10-21 10:33:28,Chlorophyll,1.6,ug/L
+2021-10-21 10:33:28,Blue-green algae,89815,cells/mL
+2021-10-21 10:33:28,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:33:28,Oxygen saturation,93,%
+2021-10-21 10:33:28,Water temperature,26.68,°C
+2021-10-21 10:33:28,Specific conductivity,69.27,mS/cm
+2021-10-21 10:33:28,Salinity,47.31,ppt
+2021-10-21 10:33:28,pH,7.9,pH
+2021-10-21 10:33:28,Turbidity,-4.7,NTU
+2021-10-21 10:33:28,Chlorophyll,1.6,ug/L
+2021-10-21 10:33:28,Blue-green algae,89815,cells/mL
+2021-10-21 10:33:28,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:33:28,Oxygen saturation,93,%
+2021-10-21 10:33:28,Water temperature,26.68,°C
+2021-10-21 10:33:28,Specific conductivity,69.27,mS/cm
+2021-10-21 10:33:28,Salinity,47.31,ppt
+2021-10-21 10:33:30,pH,7.9,pH
+2021-10-21 10:33:30,Turbidity,-4.1,NTU
+2021-10-21 10:33:30,Chlorophyll,3.6,ug/L
+2021-10-21 10:33:30,Blue-green algae,133515,cells/mL
+2021-10-21 10:33:30,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:33:30,Oxygen saturation,93,%
+2021-10-21 10:33:30,Water temperature,26.68,°C
+2021-10-21 10:33:30,Specific conductivity,69.21,mS/cm
+2021-10-21 10:33:30,Salinity,47.27,ppt
+2021-10-21 10:33:30,pH,7.9,pH
+2021-10-21 10:33:30,Turbidity,-4.1,NTU
+2021-10-21 10:33:30,Chlorophyll,3.6,ug/L
+2021-10-21 10:33:30,Blue-green algae,133515,cells/mL
+2021-10-21 10:33:30,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:33:30,Oxygen saturation,93,%
+2021-10-21 10:33:30,Water temperature,26.68,°C
+2021-10-21 10:33:30,Specific conductivity,69.21,mS/cm
+2021-10-21 10:33:30,Salinity,47.27,ppt
+2021-10-21 10:33:32,pH,7.9,pH
+2021-10-21 10:33:32,Turbidity,-4.2,NTU
+2021-10-21 10:33:32,Chlorophyll,0,ug/L
+2021-10-21 10:33:32,Blue-green algae,121451,cells/mL
+2021-10-21 10:33:32,Dissolved oxygen,6.56,mg/L
+2021-10-21 10:33:32,Oxygen saturation,93.1,%
+2021-10-21 10:33:32,Water temperature,26.69,°C
+2021-10-21 10:33:32,Specific conductivity,36.24,mS/cm
+2021-10-21 10:33:32,Salinity,22.84,ppt
+2021-10-21 10:33:32,pH,7.9,pH
+2021-10-21 10:33:32,Turbidity,-4.2,NTU
+2021-10-21 10:33:32,Chlorophyll,0,ug/L
+2021-10-21 10:33:32,Blue-green algae,121451,cells/mL
+2021-10-21 10:33:32,Dissolved oxygen,6.56,mg/L
+2021-10-21 10:33:32,Oxygen saturation,93.1,%
+2021-10-21 10:33:32,Water temperature,26.69,°C
+2021-10-21 10:33:32,Specific conductivity,36.24,mS/cm
+2021-10-21 10:33:32,Salinity,22.84,ppt
+2021-10-21 10:33:33,pH,7.91,pH
+2021-10-21 10:33:33,Turbidity,-4.9,NTU
+2021-10-21 10:33:33,Chlorophyll,43.7,ug/L
+2021-10-21 10:33:33,Blue-green algae,60003,cells/mL
+2021-10-21 10:33:33,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:33:33,Oxygen saturation,93,%
+2021-10-21 10:33:33,Water temperature,26.69,°C
+2021-10-21 10:33:33,Specific conductivity,69.16,mS/cm
+2021-10-21 10:33:33,Salinity,47.23,ppt
+2021-10-21 10:33:35,pH,7.91,pH
+2021-10-21 10:33:35,Turbidity,-3.6,NTU
+2021-10-21 10:33:35,Chlorophyll,27.7,ug/L
+2021-10-21 10:33:35,Blue-green algae,151231,cells/mL
+2021-10-21 10:33:35,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:33:35,Oxygen saturation,93.2,%
+2021-10-21 10:33:35,Water temperature,26.69,°C
+2021-10-21 10:33:35,Specific conductivity,69.13,mS/cm
+2021-10-21 10:33:35,Salinity,47.2,ppt
+2021-10-21 10:33:35,pH,7.91,pH
+2021-10-21 10:33:35,Turbidity,-3.6,NTU
+2021-10-21 10:33:35,Chlorophyll,27.7,ug/L
+2021-10-21 10:33:35,Blue-green algae,151231,cells/mL
+2021-10-21 10:33:35,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:33:35,Oxygen saturation,93.2,%
+2021-10-21 10:33:35,Water temperature,26.69,°C
+2021-10-21 10:33:35,Specific conductivity,69.13,mS/cm
+2021-10-21 10:33:35,Salinity,47.2,ppt
+2021-10-21 10:33:36,pH,7.91,pH
+2021-10-21 10:33:36,Turbidity,-2.9,NTU
+2021-10-21 10:33:36,Chlorophyll,45,ug/L
+2021-10-21 10:33:36,Blue-green algae,97376,cells/mL
+2021-10-21 10:33:36,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:33:36,Oxygen saturation,93,%
+2021-10-21 10:33:36,Water temperature,26.69,°C
+2021-10-21 10:33:36,Specific conductivity,68.72,mS/cm
+2021-10-21 10:33:36,Salinity,46.88,ppt
+2021-10-21 10:33:38,pH,7.91,pH
+2021-10-21 10:33:38,Turbidity,-4.7,NTU
+2021-10-21 10:33:38,Chlorophyll,8.1,ug/L
+2021-10-21 10:33:38,Blue-green algae,108444,cells/mL
+2021-10-21 10:33:38,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:33:38,Oxygen saturation,93.1,%
+2021-10-21 10:33:38,Water temperature,26.68,°C
+2021-10-21 10:33:38,Specific conductivity,69.07,mS/cm
+2021-10-21 10:33:38,Salinity,47.15,ppt
+2021-10-21 10:33:38,pH,7.91,pH
+2021-10-21 10:33:38,Turbidity,-4.7,NTU
+2021-10-21 10:33:38,Chlorophyll,8.1,ug/L
+2021-10-21 10:33:38,Blue-green algae,108444,cells/mL
+2021-10-21 10:33:38,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:33:38,Oxygen saturation,93.1,%
+2021-10-21 10:33:38,Water temperature,26.68,°C
+2021-10-21 10:33:38,Specific conductivity,69.07,mS/cm
+2021-10-21 10:33:38,Salinity,47.15,ppt
+2021-10-21 10:33:39,pH,7.91,pH
+2021-10-21 10:33:39,Turbidity,-4.9,NTU
+2021-10-21 10:33:39,Chlorophyll,3.6,ug/L
+2021-10-21 10:33:39,Blue-green algae,62182,cells/mL
+2021-10-21 10:33:39,Dissolved oxygen,7.17,mg/L
+2021-10-21 10:33:39,Oxygen saturation,93.2,%
+2021-10-21 10:33:39,Water temperature,26.68,°C
+2021-10-21 10:33:39,Specific conductivity,12.66,mS/cm
+2021-10-21 10:33:39,Salinity,7.24,ppt
+2021-10-21 10:33:40,pH,7.91,pH
+2021-10-21 10:33:40,Turbidity,-3.4,NTU
+2021-10-21 10:33:40,Chlorophyll,-6.8,ug/L
+2021-10-21 10:33:40,Blue-green algae,-5444,cells/mL
+2021-10-21 10:33:40,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:33:40,Oxygen saturation,93.2,%
+2021-10-21 10:33:40,Water temperature,26.67,°C
+2021-10-21 10:33:40,Specific conductivity,69.06,mS/cm
+2021-10-21 10:33:40,Salinity,47.15,ppt
+2021-10-21 10:33:42,pH,7.91,pH
+2021-10-21 10:33:42,Turbidity,-4,NTU
+2021-10-21 10:33:42,Chlorophyll,19.1,ug/L
+2021-10-21 10:33:42,Blue-green algae,166946,cells/mL
+2021-10-21 10:33:42,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:33:42,Oxygen saturation,93,%
+2021-10-21 10:33:42,Water temperature,26.68,°C
+2021-10-21 10:33:42,Specific conductivity,67.62,mS/cm
+2021-10-21 10:33:42,Salinity,46.02,ppt
+2021-10-21 10:33:42,pH,7.91,pH
+2021-10-21 10:33:42,Turbidity,-4,NTU
+2021-10-21 10:33:42,Chlorophyll,19.1,ug/L
+2021-10-21 10:33:42,Blue-green algae,166946,cells/mL
+2021-10-21 10:33:42,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:33:42,Oxygen saturation,93,%
+2021-10-21 10:33:42,Water temperature,26.68,°C
+2021-10-21 10:33:42,Specific conductivity,67.62,mS/cm
+2021-10-21 10:33:42,Salinity,46.02,ppt
+2021-10-21 10:33:44,pH,7.92,pH
+2021-10-21 10:33:44,Turbidity,-2.2,NTU
+2021-10-21 10:33:44,Chlorophyll,-4.7,ug/L
+2021-10-21 10:33:44,Blue-green algae,54460,cells/mL
+2021-10-21 10:33:44,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:44,Oxygen saturation,93.2,%
+2021-10-21 10:33:44,Water temperature,26.67,°C
+2021-10-21 10:33:44,Specific conductivity,68.99,mS/cm
+2021-10-21 10:33:44,Salinity,47.09,ppt
+2021-10-21 10:33:44,pH,7.92,pH
+2021-10-21 10:33:44,Turbidity,-2.2,NTU
+2021-10-21 10:33:44,Chlorophyll,-4.7,ug/L
+2021-10-21 10:33:44,Blue-green algae,54460,cells/mL
+2021-10-21 10:33:44,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:44,Oxygen saturation,93.2,%
+2021-10-21 10:33:44,Water temperature,26.67,°C
+2021-10-21 10:33:44,Specific conductivity,68.99,mS/cm
+2021-10-21 10:33:44,Salinity,47.09,ppt
+2021-10-21 10:33:46,pH,7.91,pH
+2021-10-21 10:33:46,Turbidity,-1.7,NTU
+2021-10-21 10:33:46,Chlorophyll,-5.4,ug/L
+2021-10-21 10:33:46,Blue-green algae,-11642,cells/mL
+2021-10-21 10:33:46,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:33:46,Oxygen saturation,93.5,%
+2021-10-21 10:33:46,Water temperature,26.67,°C
+2021-10-21 10:33:46,Specific conductivity,68.97,mS/cm
+2021-10-21 10:33:46,Salinity,47.08,ppt
+2021-10-21 10:33:46,pH,7.91,pH
+2021-10-21 10:33:46,Turbidity,-1.7,NTU
+2021-10-21 10:33:46,Chlorophyll,-5.4,ug/L
+2021-10-21 10:33:46,Blue-green algae,-11642,cells/mL
+2021-10-21 10:33:46,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:33:46,Oxygen saturation,93.5,%
+2021-10-21 10:33:46,Water temperature,26.67,°C
+2021-10-21 10:33:46,Specific conductivity,68.97,mS/cm
+2021-10-21 10:33:46,Salinity,47.08,ppt
+2021-10-21 10:33:48,pH,7.92,pH
+2021-10-21 10:33:48,Turbidity,-2.3,NTU
+2021-10-21 10:33:48,Chlorophyll,-4.5,ug/L
+2021-10-21 10:33:48,Blue-green algae,115372,cells/mL
+2021-10-21 10:33:48,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:48,Oxygen saturation,93.2,%
+2021-10-21 10:33:48,Water temperature,26.68,°C
+2021-10-21 10:33:48,Specific conductivity,68.93,mS/cm
+2021-10-21 10:33:48,Salinity,47.04,ppt
+2021-10-21 10:33:49,pH,7.92,pH
+2021-10-21 10:33:49,Turbidity,-2.3,NTU
+2021-10-21 10:33:49,Chlorophyll,-1.1,ug/L
+2021-10-21 10:33:49,Blue-green algae,-50,cells/mL
+2021-10-21 10:33:49,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:49,Oxygen saturation,93.3,%
+2021-10-21 10:33:49,Water temperature,26.67,°C
+2021-10-21 10:33:49,Specific conductivity,68.94,mS/cm
+2021-10-21 10:33:49,Salinity,47.05,ppt
+2021-10-21 10:33:49,pH,7.92,pH
+2021-10-21 10:33:49,Turbidity,-2.3,NTU
+2021-10-21 10:33:49,Chlorophyll,-1.1,ug/L
+2021-10-21 10:33:49,Blue-green algae,-50,cells/mL
+2021-10-21 10:33:49,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:49,Oxygen saturation,93.3,%
+2021-10-21 10:33:49,Water temperature,26.67,°C
+2021-10-21 10:33:49,Specific conductivity,68.94,mS/cm
+2021-10-21 10:33:49,Salinity,47.05,ppt
+2021-10-21 10:33:50,pH,7.92,pH
+2021-10-21 10:33:50,Turbidity,-4.3,NTU
+2021-10-21 10:33:50,Chlorophyll,60.7,ug/L
+2021-10-21 10:33:50,Blue-green algae,23980,cells/mL
+2021-10-21 10:33:50,Dissolved oxygen,7.11,mg/L
+2021-10-21 10:33:50,Oxygen saturation,93.3,%
+2021-10-21 10:33:50,Water temperature,26.67,°C
+2021-10-21 10:33:50,Specific conductivity,15.17,mS/cm
+2021-10-21 10:33:50,Salinity,8.81,ppt
+2021-10-21 10:33:51,pH,7.92,pH
+2021-10-21 10:33:51,Turbidity,-4.1,NTU
+2021-10-21 10:33:51,Chlorophyll,14.9,ug/L
+2021-10-21 10:33:51,Blue-green algae,45661,cells/mL
+2021-10-21 10:33:51,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:51,Oxygen saturation,93.2,%
+2021-10-21 10:33:51,Water temperature,26.66,°C
+2021-10-21 10:33:51,Specific conductivity,68.7,mS/cm
+2021-10-21 10:33:51,Salinity,46.87,ppt
+2021-10-21 10:33:52,pH,7.92,pH
+2021-10-21 10:33:52,Turbidity,-3.9,NTU
+2021-10-21 10:33:52,Chlorophyll,-1.7,ug/L
+2021-10-21 10:33:52,Blue-green algae,992,cells/mL
+2021-10-21 10:33:52,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:52,Oxygen saturation,93.2,%
+2021-10-21 10:33:52,Water temperature,26.67,°C
+2021-10-21 10:33:52,Specific conductivity,68.9,mS/cm
+2021-10-21 10:33:52,Salinity,47.03,ppt
+2021-10-21 10:33:54,pH,7.92,pH
+2021-10-21 10:33:54,Turbidity,-4.4,NTU
+2021-10-21 10:33:54,Chlorophyll,20.7,ug/L
+2021-10-21 10:33:54,Blue-green algae,64022,cells/mL
+2021-10-21 10:33:54,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:54,Oxygen saturation,93.3,%
+2021-10-21 10:33:54,Water temperature,26.68,°C
+2021-10-21 10:33:54,Specific conductivity,68.84,mS/cm
+2021-10-21 10:33:54,Salinity,46.97,ppt
+2021-10-21 10:33:54,pH,7.92,pH
+2021-10-21 10:33:54,Turbidity,-4.4,NTU
+2021-10-21 10:33:54,Chlorophyll,20.7,ug/L
+2021-10-21 10:33:54,Blue-green algae,64022,cells/mL
+2021-10-21 10:33:54,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:54,Oxygen saturation,93.3,%
+2021-10-21 10:33:54,Water temperature,26.68,°C
+2021-10-21 10:33:54,Specific conductivity,68.84,mS/cm
+2021-10-21 10:33:54,Salinity,46.97,ppt
+2021-10-21 10:33:55,pH,7.93,pH
+2021-10-21 10:33:55,Turbidity,-3.6,NTU
+2021-10-21 10:33:55,Chlorophyll,-16.6,ug/L
+2021-10-21 10:33:55,Blue-green algae,27958,cells/mL
+2021-10-21 10:33:55,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:33:55,Oxygen saturation,93.3,%
+2021-10-21 10:33:55,Water temperature,26.69,°C
+2021-10-21 10:33:55,Specific conductivity,68.61,mS/cm
+2021-10-21 10:33:55,Salinity,46.79,ppt
+2021-10-21 10:33:57,pH,7.93,pH
+2021-10-21 10:33:57,Turbidity,-3.2,NTU
+2021-10-21 10:33:57,Chlorophyll,-5.6,ug/L
+2021-10-21 10:33:57,Blue-green algae,2661,cells/mL
+2021-10-21 10:33:57,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:57,Oxygen saturation,93.3,%
+2021-10-21 10:33:57,Water temperature,26.68,°C
+2021-10-21 10:33:57,Specific conductivity,68.83,mS/cm
+2021-10-21 10:33:57,Salinity,46.96,ppt
+2021-10-21 10:33:57,pH,7.93,pH
+2021-10-21 10:33:57,Turbidity,-3.2,NTU
+2021-10-21 10:33:57,Chlorophyll,-5.6,ug/L
+2021-10-21 10:33:57,Blue-green algae,2661,cells/mL
+2021-10-21 10:33:57,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:33:57,Oxygen saturation,93.3,%
+2021-10-21 10:33:57,Water temperature,26.68,°C
+2021-10-21 10:33:57,Specific conductivity,68.83,mS/cm
+2021-10-21 10:33:57,Salinity,46.96,ppt
+2021-10-21 10:33:58,pH,7.93,pH
+2021-10-21 10:33:58,Turbidity,-2.8,NTU
+2021-10-21 10:33:58,Chlorophyll,-2,ug/L
+2021-10-21 10:33:58,Blue-green algae,7315,cells/mL
+2021-10-21 10:33:58,Dissolved oxygen,6.19,mg/L
+2021-10-21 10:33:58,Oxygen saturation,93.3,%
+2021-10-21 10:33:58,Water temperature,26.68,°C
+2021-10-21 10:33:58,Specific conductivity,51.4,mS/cm
+2021-10-21 10:33:58,Salinity,33.73,ppt
+2021-10-21 10:34:00,pH,7.93,pH
+2021-10-21 10:34:00,Turbidity,-2.5,NTU
+2021-10-21 10:34:00,Chlorophyll,12.9,ug/L
+2021-10-21 10:34:00,Blue-green algae,-3130,cells/mL
+2021-10-21 10:34:00,Dissolved oxygen,5.92,mg/L
+2021-10-21 10:34:00,Oxygen saturation,93.3,%
+2021-10-21 10:34:00,Water temperature,26.68,°C
+2021-10-21 10:34:00,Specific conductivity,61.75,mS/cm
+2021-10-21 10:34:00,Salinity,41.5,ppt
+2021-10-21 10:34:00,pH,7.93,pH
+2021-10-21 10:34:00,Turbidity,-2.5,NTU
+2021-10-21 10:34:00,Chlorophyll,12.9,ug/L
+2021-10-21 10:34:00,Blue-green algae,-3130,cells/mL
+2021-10-21 10:34:00,Dissolved oxygen,5.92,mg/L
+2021-10-21 10:34:00,Oxygen saturation,93.3,%
+2021-10-21 10:34:00,Water temperature,26.68,°C
+2021-10-21 10:34:00,Specific conductivity,61.75,mS/cm
+2021-10-21 10:34:00,Salinity,41.5,ppt
+2021-10-21 10:34:01,pH,7.93,pH
+2021-10-21 10:34:01,Turbidity,-5.3,NTU
+2021-10-21 10:34:01,Chlorophyll,-6.6,ug/L
+2021-10-21 10:34:01,Blue-green algae,-4616,cells/mL
+2021-10-21 10:34:01,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:01,Oxygen saturation,93.4,%
+2021-10-21 10:34:01,Water temperature,26.68,°C
+2021-10-21 10:34:01,Specific conductivity,68.8,mS/cm
+2021-10-21 10:34:01,Salinity,46.94,ppt
+2021-10-21 10:34:03,pH,7.93,pH
+2021-10-21 10:34:03,Turbidity,-5,NTU
+2021-10-21 10:34:03,Chlorophyll,-0.3,ug/L
+2021-10-21 10:34:03,Blue-green algae,75924,cells/mL
+2021-10-21 10:34:03,Dissolved oxygen,6.41,mg/L
+2021-10-21 10:34:03,Oxygen saturation,93.4,%
+2021-10-21 10:34:03,Water temperature,26.68,°C
+2021-10-21 10:34:03,Specific conductivity,43.25,mS/cm
+2021-10-21 10:34:03,Salinity,27.8,ppt
+2021-10-21 10:34:03,pH,7.93,pH
+2021-10-21 10:34:03,Turbidity,-5,NTU
+2021-10-21 10:34:03,Chlorophyll,-0.3,ug/L
+2021-10-21 10:34:03,Blue-green algae,75924,cells/mL
+2021-10-21 10:34:03,Dissolved oxygen,6.41,mg/L
+2021-10-21 10:34:03,Oxygen saturation,93.4,%
+2021-10-21 10:34:03,Water temperature,26.68,°C
+2021-10-21 10:34:03,Specific conductivity,43.25,mS/cm
+2021-10-21 10:34:03,Salinity,27.8,ppt
+2021-10-21 10:34:04,pH,7.93,pH
+2021-10-21 10:34:04,Turbidity,-4.3,NTU
+2021-10-21 10:34:04,Chlorophyll,-6.2,ug/L
+2021-10-21 10:34:04,Blue-green algae,1240,cells/mL
+2021-10-21 10:34:04,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:04,Oxygen saturation,93.4,%
+2021-10-21 10:34:04,Water temperature,26.67,°C
+2021-10-21 10:34:04,Specific conductivity,68.78,mS/cm
+2021-10-21 10:34:04,Salinity,46.93,ppt
+2021-10-21 10:34:06,pH,7.93,pH
+2021-10-21 10:34:06,Turbidity,-3,NTU
+2021-10-21 10:34:06,Chlorophyll,0.5,ug/L
+2021-10-21 10:34:06,Blue-green algae,99031,cells/mL
+2021-10-21 10:34:06,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:06,Oxygen saturation,93.4,%
+2021-10-21 10:34:06,Water temperature,26.64,°C
+2021-10-21 10:34:06,Specific conductivity,68.8,mS/cm
+2021-10-21 10:34:06,Salinity,46.94,ppt
+2021-10-21 10:34:06,pH,7.93,pH
+2021-10-21 10:34:06,Turbidity,-3,NTU
+2021-10-21 10:34:06,Chlorophyll,0.5,ug/L
+2021-10-21 10:34:06,Blue-green algae,99031,cells/mL
+2021-10-21 10:34:06,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:06,Oxygen saturation,93.4,%
+2021-10-21 10:34:06,Water temperature,26.64,°C
+2021-10-21 10:34:06,Specific conductivity,68.8,mS/cm
+2021-10-21 10:34:06,Salinity,46.94,ppt
+2021-10-21 10:34:07,pH,7.93,pH
+2021-10-21 10:34:07,Turbidity,-4.4,NTU
+2021-10-21 10:34:07,Chlorophyll,-5.3,ug/L
+2021-10-21 10:34:07,Blue-green algae,3087,cells/mL
+2021-10-21 10:34:07,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:07,Oxygen saturation,93.3,%
+2021-10-21 10:34:07,Water temperature,26.66,°C
+2021-10-21 10:34:07,Specific conductivity,68.77,mS/cm
+2021-10-21 10:34:07,Salinity,46.92,ppt
+2021-10-21 10:34:09,pH,7.94,pH
+2021-10-21 10:34:09,Turbidity,-2.9,NTU
+2021-10-21 10:34:09,Chlorophyll,-4,ug/L
+2021-10-21 10:34:09,Blue-green algae,164560,cells/mL
+2021-10-21 10:34:09,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:09,Oxygen saturation,93.4,%
+2021-10-21 10:34:09,Water temperature,26.68,°C
+2021-10-21 10:34:09,Specific conductivity,68.72,mS/cm
+2021-10-21 10:34:09,Salinity,46.88,ppt
+2021-10-21 10:34:10,pH,7.94,pH
+2021-10-21 10:34:10,Turbidity,-5.5,NTU
+2021-10-21 10:34:10,Chlorophyll,-1.4,ug/L
+2021-10-21 10:34:10,Blue-green algae,10784,cells/mL
+2021-10-21 10:34:10,Dissolved oxygen,5.82,mg/L
+2021-10-21 10:34:10,Oxygen saturation,93.5,%
+2021-10-21 10:34:10,Water temperature,26.68,°C
+2021-10-21 10:34:10,Specific conductivity,66.42,mS/cm
+2021-10-21 10:34:10,Salinity,45.09,ppt
+2021-10-21 10:34:10,pH,7.94,pH
+2021-10-21 10:34:10,Turbidity,-5.5,NTU
+2021-10-21 10:34:10,Chlorophyll,-1.4,ug/L
+2021-10-21 10:34:10,Blue-green algae,10784,cells/mL
+2021-10-21 10:34:10,Dissolved oxygen,5.82,mg/L
+2021-10-21 10:34:10,Oxygen saturation,93.5,%
+2021-10-21 10:34:10,Water temperature,26.68,°C
+2021-10-21 10:34:10,Specific conductivity,66.42,mS/cm
+2021-10-21 10:34:10,Salinity,45.09,ppt
+2021-10-21 10:34:11,pH,7.94,pH
+2021-10-21 10:34:11,Turbidity,-4.2,NTU
+2021-10-21 10:34:11,Chlorophyll,-0.3,ug/L
+2021-10-21 10:34:11,Blue-green algae,39492,cells/mL
+2021-10-21 10:34:11,Dissolved oxygen,6.23,mg/L
+2021-10-21 10:34:11,Oxygen saturation,93.4,%
+2021-10-21 10:34:11,Water temperature,26.69,°C
+2021-10-21 10:34:11,Specific conductivity,50.17,mS/cm
+2021-10-21 10:34:11,Salinity,32.82,ppt
+2021-10-21 10:34:13,pH,7.94,pH
+2021-10-21 10:34:13,Turbidity,-4.3,NTU
+2021-10-21 10:34:13,Chlorophyll,-2.3,ug/L
+2021-10-21 10:34:13,Blue-green algae,-2421,cells/mL
+2021-10-21 10:34:13,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:13,Oxygen saturation,93.4,%
+2021-10-21 10:34:13,Water temperature,26.69,°C
+2021-10-21 10:34:13,Specific conductivity,68.67,mS/cm
+2021-10-21 10:34:13,Salinity,46.84,ppt
+2021-10-21 10:34:13,pH,7.94,pH
+2021-10-21 10:34:13,Turbidity,-4.3,NTU
+2021-10-21 10:34:13,Chlorophyll,-2.3,ug/L
+2021-10-21 10:34:13,Blue-green algae,-2421,cells/mL
+2021-10-21 10:34:13,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:13,Oxygen saturation,93.4,%
+2021-10-21 10:34:13,Water temperature,26.69,°C
+2021-10-21 10:34:13,Specific conductivity,68.67,mS/cm
+2021-10-21 10:34:13,Salinity,46.84,ppt
+2021-10-21 10:34:15,pH,7.94,pH
+2021-10-21 10:34:15,Turbidity,-4.9,NTU
+2021-10-21 10:34:15,Chlorophyll,0,ug/L
+2021-10-21 10:34:15,Blue-green algae,23686,cells/mL
+2021-10-21 10:34:15,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:15,Oxygen saturation,93.4,%
+2021-10-21 10:34:15,Water temperature,26.66,°C
+2021-10-21 10:34:15,Specific conductivity,68.68,mS/cm
+2021-10-21 10:34:15,Salinity,46.85,ppt
+2021-10-21 10:34:15,pH,7.94,pH
+2021-10-21 10:34:15,Turbidity,-4.9,NTU
+2021-10-21 10:34:15,Chlorophyll,0,ug/L
+2021-10-21 10:34:15,Blue-green algae,23686,cells/mL
+2021-10-21 10:34:15,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:15,Oxygen saturation,93.4,%
+2021-10-21 10:34:15,Water temperature,26.66,°C
+2021-10-21 10:34:15,Specific conductivity,68.68,mS/cm
+2021-10-21 10:34:15,Salinity,46.85,ppt
+2021-10-21 10:34:16,pH,7.94,pH
+2021-10-21 10:34:16,Turbidity,-4.5,NTU
+2021-10-21 10:34:16,Chlorophyll,-7.9,ug/L
+2021-10-21 10:34:16,Blue-green algae,7283,cells/mL
+2021-10-21 10:34:16,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:16,Oxygen saturation,93.4,%
+2021-10-21 10:34:16,Water temperature,26.68,°C
+2021-10-21 10:34:16,Specific conductivity,68.59,mS/cm
+2021-10-21 10:34:16,Salinity,46.78,ppt
+2021-10-21 10:34:17,pH,7.94,pH
+2021-10-21 10:34:17,Turbidity,-4.4,NTU
+2021-10-21 10:34:17,Chlorophyll,3.4,ug/L
+2021-10-21 10:34:17,Blue-green algae,9720,cells/mL
+2021-10-21 10:34:17,Dissolved oxygen,6.52,mg/L
+2021-10-21 10:34:17,Oxygen saturation,93.4,%
+2021-10-21 10:34:17,Water temperature,26.68,°C
+2021-10-21 10:34:17,Specific conductivity,38.65,mS/cm
+2021-10-21 10:34:17,Salinity,24.53,ppt
+2021-10-21 10:34:19,pH,7.94,pH
+2021-10-21 10:34:19,Turbidity,-4.8,NTU
+2021-10-21 10:34:19,Chlorophyll,0.6,ug/L
+2021-10-21 10:34:19,Blue-green algae,483,cells/mL
+2021-10-21 10:34:19,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:19,Oxygen saturation,93.5,%
+2021-10-21 10:34:19,Water temperature,26.66,°C
+2021-10-21 10:34:19,Specific conductivity,68.64,mS/cm
+2021-10-21 10:34:19,Salinity,46.82,ppt
+2021-10-21 10:34:19,pH,7.94,pH
+2021-10-21 10:34:19,Turbidity,-4.8,NTU
+2021-10-21 10:34:19,Chlorophyll,0.6,ug/L
+2021-10-21 10:34:19,Blue-green algae,483,cells/mL
+2021-10-21 10:34:19,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:19,Oxygen saturation,93.5,%
+2021-10-21 10:34:19,Water temperature,26.66,°C
+2021-10-21 10:34:19,Specific conductivity,68.64,mS/cm
+2021-10-21 10:34:19,Salinity,46.82,ppt
+2021-10-21 10:34:20,pH,7.94,pH
+2021-10-21 10:34:20,Turbidity,8.2,NTU
+2021-10-21 10:34:20,Chlorophyll,-0.2,ug/L
+2021-10-21 10:34:20,Blue-green algae,80179,cells/mL
+2021-10-21 10:34:20,Dissolved oxygen,6.8,mg/L
+2021-10-21 10:34:20,Oxygen saturation,93.4,%
+2021-10-21 10:34:20,Water temperature,26.67,°C
+2021-10-21 10:34:20,Specific conductivity,27.79,mS/cm
+2021-10-21 10:34:20,Salinity,17.04,ppt
+2021-10-21 10:34:22,pH,7.94,pH
+2021-10-21 10:34:22,Turbidity,-3.1,NTU
+2021-10-21 10:34:22,Chlorophyll,-7.6,ug/L
+2021-10-21 10:34:22,Blue-green algae,1738,cells/mL
+2021-10-21 10:34:22,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:22,Oxygen saturation,93.4,%
+2021-10-21 10:34:22,Water temperature,26.66,°C
+2021-10-21 10:34:22,Specific conductivity,68.57,mS/cm
+2021-10-21 10:34:22,Salinity,46.76,ppt
+2021-10-21 10:34:22,pH,7.94,pH
+2021-10-21 10:34:22,Turbidity,-3.1,NTU
+2021-10-21 10:34:22,Chlorophyll,-7.6,ug/L
+2021-10-21 10:34:22,Blue-green algae,1738,cells/mL
+2021-10-21 10:34:22,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:22,Oxygen saturation,93.4,%
+2021-10-21 10:34:22,Water temperature,26.66,°C
+2021-10-21 10:34:22,Specific conductivity,68.57,mS/cm
+2021-10-21 10:34:22,Salinity,46.76,ppt
+2021-10-21 10:34:24,pH,7.94,pH
+2021-10-21 10:34:24,Turbidity,-4.4,NTU
+2021-10-21 10:34:24,Chlorophyll,-3.2,ug/L
+2021-10-21 10:34:24,Blue-green algae,-533,cells/mL
+2021-10-21 10:34:24,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:24,Oxygen saturation,93.3,%
+2021-10-21 10:34:24,Water temperature,26.67,°C
+2021-10-21 10:34:24,Specific conductivity,68.6,mS/cm
+2021-10-21 10:34:24,Salinity,46.79,ppt
+2021-10-21 10:34:25,pH,7.94,pH
+2021-10-21 10:34:25,Turbidity,-5.2,NTU
+2021-10-21 10:34:25,Chlorophyll,-2.8,ug/L
+2021-10-21 10:34:25,Blue-green algae,-1729,cells/mL
+2021-10-21 10:34:25,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:25,Oxygen saturation,93.3,%
+2021-10-21 10:34:25,Water temperature,26.66,°C
+2021-10-21 10:34:25,Specific conductivity,68.44,mS/cm
+2021-10-21 10:34:25,Salinity,46.66,ppt
+2021-10-21 10:34:26,pH,7.95,pH
+2021-10-21 10:34:26,Turbidity,-4.6,NTU
+2021-10-21 10:34:26,Chlorophyll,-5.2,ug/L
+2021-10-21 10:34:26,Blue-green algae,2705,cells/mL
+2021-10-21 10:34:26,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:26,Oxygen saturation,93.3,%
+2021-10-21 10:34:26,Water temperature,26.66,°C
+2021-10-21 10:34:26,Specific conductivity,68.6,mS/cm
+2021-10-21 10:34:26,Salinity,46.79,ppt
+2021-10-21 10:34:27,pH,7.95,pH
+2021-10-21 10:34:27,Turbidity,-1.1,NTU
+2021-10-21 10:34:27,Chlorophyll,-5.5,ug/L
+2021-10-21 10:34:27,Blue-green algae,58912,cells/mL
+2021-10-21 10:34:27,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:27,Oxygen saturation,93.2,%
+2021-10-21 10:34:27,Water temperature,26.68,°C
+2021-10-21 10:34:27,Specific conductivity,68.58,mS/cm
+2021-10-21 10:34:27,Salinity,46.77,ppt
+2021-10-21 10:34:28,pH,7.95,pH
+2021-10-21 10:34:28,Turbidity,-5.9,NTU
+2021-10-21 10:34:28,Chlorophyll,-6.9,ug/L
+2021-10-21 10:34:28,Blue-green algae,520,cells/mL
+2021-10-21 10:34:28,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:34:28,Oxygen saturation,93.4,%
+2021-10-21 10:34:28,Water temperature,26.69,°C
+2021-10-21 10:34:28,Specific conductivity,68.54,mS/cm
+2021-10-21 10:34:28,Salinity,46.74,ppt
+2021-10-21 10:34:29,pH,7.95,pH
+2021-10-21 10:34:29,Turbidity,-5.7,NTU
+2021-10-21 10:34:29,Chlorophyll,-10.4,ug/L
+2021-10-21 10:34:29,Blue-green algae,11587,cells/mL
+2021-10-21 10:34:29,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:29,Oxygen saturation,93.4,%
+2021-10-21 10:34:29,Water temperature,26.69,°C
+2021-10-21 10:34:29,Specific conductivity,68.55,mS/cm
+2021-10-21 10:34:29,Salinity,46.75,ppt
+2021-10-21 10:34:30,pH,7.95,pH
+2021-10-21 10:34:30,Turbidity,-3.1,NTU
+2021-10-21 10:34:30,Chlorophyll,-7.9,ug/L
+2021-10-21 10:34:30,Blue-green algae,94194,cells/mL
+2021-10-21 10:34:30,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:34:30,Oxygen saturation,93.6,%
+2021-10-21 10:34:30,Water temperature,26.69,°C
+2021-10-21 10:34:30,Specific conductivity,67.37,mS/cm
+2021-10-21 10:34:30,Salinity,45.83,ppt
+2021-10-21 10:34:31,pH,7.95,pH
+2021-10-21 10:34:31,Turbidity,-6,NTU
+2021-10-21 10:34:31,Chlorophyll,-4.8,ug/L
+2021-10-21 10:34:31,Blue-green algae,5746,cells/mL
+2021-10-21 10:34:31,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:31,Oxygen saturation,93.5,%
+2021-10-21 10:34:31,Water temperature,26.67,°C
+2021-10-21 10:34:31,Specific conductivity,68.55,mS/cm
+2021-10-21 10:34:31,Salinity,46.75,ppt
+2021-10-21 10:34:32,pH,7.95,pH
+2021-10-21 10:34:32,Turbidity,-3.6,NTU
+2021-10-21 10:34:32,Chlorophyll,0.7,ug/L
+2021-10-21 10:34:32,Blue-green algae,1720,cells/mL
+2021-10-21 10:34:32,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:34:32,Oxygen saturation,93.6,%
+2021-10-21 10:34:32,Water temperature,26.68,°C
+2021-10-21 10:34:32,Specific conductivity,67.03,mS/cm
+2021-10-21 10:34:32,Salinity,45.56,ppt
+2021-10-21 10:34:33,pH,7.95,pH
+2021-10-21 10:34:33,Turbidity,-5.5,NTU
+2021-10-21 10:34:33,Chlorophyll,-3.6,ug/L
+2021-10-21 10:34:33,Blue-green algae,16999,cells/mL
+2021-10-21 10:34:33,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:33,Oxygen saturation,93.5,%
+2021-10-21 10:34:33,Water temperature,26.68,°C
+2021-10-21 10:34:33,Specific conductivity,68.53,mS/cm
+2021-10-21 10:34:33,Salinity,46.73,ppt
+2021-10-21 10:34:34,pH,7.95,pH
+2021-10-21 10:34:34,Turbidity,26.7,NTU
+2021-10-21 10:34:34,Chlorophyll,-5.5,ug/L
+2021-10-21 10:34:34,Blue-green algae,-1103,cells/mL
+2021-10-21 10:34:34,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:34,Oxygen saturation,93.5,%
+2021-10-21 10:34:34,Water temperature,26.68,°C
+2021-10-21 10:34:34,Specific conductivity,68.52,mS/cm
+2021-10-21 10:34:34,Salinity,46.73,ppt
+2021-10-21 10:34:35,pH,7.95,pH
+2021-10-21 10:34:35,Turbidity,-4.8,NTU
+2021-10-21 10:34:35,Chlorophyll,-7,ug/L
+2021-10-21 10:34:35,Blue-green algae,885,cells/mL
+2021-10-21 10:34:35,Dissolved oxygen,6.01,mg/L
+2021-10-21 10:34:35,Oxygen saturation,93.6,%
+2021-10-21 10:34:35,Water temperature,26.67,°C
+2021-10-21 10:34:35,Specific conductivity,59.24,mS/cm
+2021-10-21 10:34:35,Salinity,39.59,ppt
+2021-10-21 10:34:36,pH,7.95,pH
+2021-10-21 10:34:36,Turbidity,-5.8,NTU
+2021-10-21 10:34:36,Chlorophyll,-2.2,ug/L
+2021-10-21 10:34:36,Blue-green algae,-187,cells/mL
+2021-10-21 10:34:36,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:34:36,Oxygen saturation,93.6,%
+2021-10-21 10:34:36,Water temperature,26.68,°C
+2021-10-21 10:34:36,Specific conductivity,67.8,mS/cm
+2021-10-21 10:34:36,Salinity,46.16,ppt
+2021-10-21 10:34:37,pH,7.95,pH
+2021-10-21 10:34:37,Turbidity,-4.6,NTU
+2021-10-21 10:34:37,Chlorophyll,-6.3,ug/L
+2021-10-21 10:34:37,Blue-green algae,895,cells/mL
+2021-10-21 10:34:37,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:37,Oxygen saturation,93.6,%
+2021-10-21 10:34:37,Water temperature,26.68,°C
+2021-10-21 10:34:37,Specific conductivity,68.5,mS/cm
+2021-10-21 10:34:37,Salinity,46.71,ppt
+2021-10-21 10:34:38,pH,7.95,pH
+2021-10-21 10:34:38,Turbidity,-3.9,NTU
+2021-10-21 10:34:38,Chlorophyll,-4.2,ug/L
+2021-10-21 10:34:38,Blue-green algae,-7076,cells/mL
+2021-10-21 10:34:38,Dissolved oxygen,5.97,mg/L
+2021-10-21 10:34:38,Oxygen saturation,93.7,%
+2021-10-21 10:34:38,Water temperature,26.67,°C
+2021-10-21 10:34:38,Specific conductivity,61.2,mS/cm
+2021-10-21 10:34:38,Salinity,41.07,ppt
+2021-10-21 10:34:39,pH,7.95,pH
+2021-10-21 10:34:39,Turbidity,-5.6,NTU
+2021-10-21 10:34:39,Chlorophyll,1.9,ug/L
+2021-10-21 10:34:39,Blue-green algae,-1764,cells/mL
+2021-10-21 10:34:39,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:34:39,Oxygen saturation,93.7,%
+2021-10-21 10:34:39,Water temperature,26.68,°C
+2021-10-21 10:34:39,Specific conductivity,67.95,mS/cm
+2021-10-21 10:34:39,Salinity,46.28,ppt
+2021-10-21 10:34:40,pH,7.95,pH
+2021-10-21 10:34:40,Turbidity,-3.2,NTU
+2021-10-21 10:34:40,Chlorophyll,-2.1,ug/L
+2021-10-21 10:34:40,Blue-green algae,-582,cells/mL
+2021-10-21 10:34:40,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:40,Oxygen saturation,93.6,%
+2021-10-21 10:34:40,Water temperature,26.67,°C
+2021-10-21 10:34:40,Specific conductivity,68.5,mS/cm
+2021-10-21 10:34:40,Salinity,46.71,ppt
+2021-10-21 10:34:41,pH,7.95,pH
+2021-10-21 10:34:41,Turbidity,-4.7,NTU
+2021-10-21 10:34:41,Chlorophyll,-2.1,ug/L
+2021-10-21 10:34:41,Blue-green algae,6288,cells/mL
+2021-10-21 10:34:41,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:41,Oxygen saturation,93.6,%
+2021-10-21 10:34:41,Water temperature,26.68,°C
+2021-10-21 10:34:41,Specific conductivity,68.49,mS/cm
+2021-10-21 10:34:41,Salinity,46.7,ppt
+2021-10-21 10:34:42,pH,7.95,pH
+2021-10-21 10:34:42,Turbidity,-5.2,NTU
+2021-10-21 10:34:42,Chlorophyll,-2.5,ug/L
+2021-10-21 10:34:42,Blue-green algae,475,cells/mL
+2021-10-21 10:34:42,Dissolved oxygen,6.01,mg/L
+2021-10-21 10:34:42,Oxygen saturation,93.5,%
+2021-10-21 10:34:42,Water temperature,26.69,°C
+2021-10-21 10:34:42,Specific conductivity,58.99,mS/cm
+2021-10-21 10:34:42,Salinity,39.4,ppt
+2021-10-21 10:34:43,pH,7.95,pH
+2021-10-21 10:34:43,Turbidity,-3.6,NTU
+2021-10-21 10:34:43,Chlorophyll,-8.3,ug/L
+2021-10-21 10:34:43,Blue-green algae,2510,cells/mL
+2021-10-21 10:34:43,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:43,Oxygen saturation,93.5,%
+2021-10-21 10:34:43,Water temperature,26.69,°C
+2021-10-21 10:34:43,Specific conductivity,68.47,mS/cm
+2021-10-21 10:34:43,Salinity,46.68,ppt
+2021-10-21 10:34:44,pH,7.95,pH
+2021-10-21 10:34:44,Turbidity,-4.3,NTU
+2021-10-21 10:34:44,Chlorophyll,-3.7,ug/L
+2021-10-21 10:34:44,Blue-green algae,2581,cells/mL
+2021-10-21 10:34:44,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:44,Oxygen saturation,93.6,%
+2021-10-21 10:34:44,Water temperature,26.67,°C
+2021-10-21 10:34:44,Specific conductivity,68.47,mS/cm
+2021-10-21 10:34:44,Salinity,46.69,ppt
+2021-10-21 10:34:45,pH,7.95,pH
+2021-10-21 10:34:45,Turbidity,-6,NTU
+2021-10-21 10:34:45,Chlorophyll,-12.1,ug/L
+2021-10-21 10:34:45,Blue-green algae,20062,cells/mL
+2021-10-21 10:34:45,Dissolved oxygen,6.46,mg/L
+2021-10-21 10:34:45,Oxygen saturation,93.6,%
+2021-10-21 10:34:45,Water temperature,26.69,°C
+2021-10-21 10:34:45,Specific conductivity,41.54,mS/cm
+2021-10-21 10:34:45,Salinity,26.58,ppt
+2021-10-21 10:34:46,pH,7.95,pH
+2021-10-21 10:34:46,Turbidity,-4.3,NTU
+2021-10-21 10:34:46,Chlorophyll,-5.4,ug/L
+2021-10-21 10:34:46,Blue-green algae,-6135,cells/mL
+2021-10-21 10:34:46,Dissolved oxygen,5.99,mg/L
+2021-10-21 10:34:46,Oxygen saturation,93.5,%
+2021-10-21 10:34:46,Water temperature,26.68,°C
+2021-10-21 10:34:46,Specific conductivity,59.64,mS/cm
+2021-10-21 10:34:46,Salinity,39.89,ppt
+2021-10-21 10:34:47,pH,7.95,pH
+2021-10-21 10:34:47,Turbidity,-4.2,NTU
+2021-10-21 10:34:47,Chlorophyll,0.4,ug/L
+2021-10-21 10:34:47,Blue-green algae,4520,cells/mL
+2021-10-21 10:34:47,Dissolved oxygen,6.55,mg/L
+2021-10-21 10:34:47,Oxygen saturation,93.5,%
+2021-10-21 10:34:47,Water temperature,26.69,°C
+2021-10-21 10:34:47,Specific conductivity,37.84,mS/cm
+2021-10-21 10:34:47,Salinity,23.96,ppt
+2021-10-21 10:34:48,pH,7.95,pH
+2021-10-21 10:34:48,Turbidity,-5.5,NTU
+2021-10-21 10:34:48,Chlorophyll,-2,ug/L
+2021-10-21 10:34:48,Blue-green algae,2660,cells/mL
+2021-10-21 10:34:48,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:48,Oxygen saturation,93.5,%
+2021-10-21 10:34:48,Water temperature,26.67,°C
+2021-10-21 10:34:48,Specific conductivity,68.45,mS/cm
+2021-10-21 10:34:48,Salinity,46.67,ppt
+2021-10-21 10:34:49,pH,7.95,pH
+2021-10-21 10:34:49,Turbidity,-4.4,NTU
+2021-10-21 10:34:49,Chlorophyll,-3.7,ug/L
+2021-10-21 10:34:49,Blue-green algae,37812,cells/mL
+2021-10-21 10:34:49,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:49,Oxygen saturation,93.5,%
+2021-10-21 10:34:49,Water temperature,26.68,°C
+2021-10-21 10:34:49,Specific conductivity,68.43,mS/cm
+2021-10-21 10:34:49,Salinity,46.66,ppt
+2021-10-21 10:34:50,pH,7.95,pH
+2021-10-21 10:34:50,Turbidity,-4.7,NTU
+2021-10-21 10:34:50,Chlorophyll,-1.6,ug/L
+2021-10-21 10:34:50,Blue-green algae,-316,cells/mL
+2021-10-21 10:34:50,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:50,Oxygen saturation,93.6,%
+2021-10-21 10:34:50,Water temperature,26.69,°C
+2021-10-21 10:34:50,Specific conductivity,68.42,mS/cm
+2021-10-21 10:34:50,Salinity,46.65,ppt
+2021-10-21 10:34:51,pH,7.95,pH
+2021-10-21 10:34:51,Turbidity,-4.4,NTU
+2021-10-21 10:34:51,Chlorophyll,-2.3,ug/L
+2021-10-21 10:34:51,Blue-green algae,39543,cells/mL
+2021-10-21 10:34:51,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:34:51,Oxygen saturation,93.5,%
+2021-10-21 10:34:51,Water temperature,26.7,°C
+2021-10-21 10:34:51,Specific conductivity,68.41,mS/cm
+2021-10-21 10:34:51,Salinity,46.64,ppt
+2021-10-21 10:34:52,pH,7.95,pH
+2021-10-21 10:34:52,Turbidity,-4.9,NTU
+2021-10-21 10:34:52,Chlorophyll,0.4,ug/L
+2021-10-21 10:34:52,Blue-green algae,1189,cells/mL
+2021-10-21 10:34:52,Dissolved oxygen,5.87,mg/L
+2021-10-21 10:34:52,Oxygen saturation,93.6,%
+2021-10-21 10:34:52,Water temperature,26.69,°C
+2021-10-21 10:34:52,Specific conductivity,64.66,mS/cm
+2021-10-21 10:34:52,Salinity,43.73,ppt
+2021-10-21 10:34:53,pH,7.96,pH
+2021-10-21 10:34:53,Turbidity,-5.7,NTU
+2021-10-21 10:34:53,Chlorophyll,-4.2,ug/L
+2021-10-21 10:34:53,Blue-green algae,13325,cells/mL
+2021-10-21 10:34:53,Dissolved oxygen,6.72,mg/L
+2021-10-21 10:34:53,Oxygen saturation,93.6,%
+2021-10-21 10:34:53,Water temperature,26.69,°C
+2021-10-21 10:34:53,Specific conductivity,31.51,mS/cm
+2021-10-21 10:34:53,Salinity,19.57,ppt
+2021-10-21 10:34:54,pH,7.95,pH
+2021-10-21 10:34:54,Turbidity,-3.3,NTU
+2021-10-21 10:34:54,Chlorophyll,-5.1,ug/L
+2021-10-21 10:34:54,Blue-green algae,83286,cells/mL
+2021-10-21 10:34:54,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:34:54,Oxygen saturation,93.7,%
+2021-10-21 10:34:54,Water temperature,26.68,°C
+2021-10-21 10:34:54,Specific conductivity,68.42,mS/cm
+2021-10-21 10:34:54,Salinity,46.64,ppt
+2021-10-21 10:34:55,pH,7.95,pH
+2021-10-21 10:34:55,Turbidity,-4.5,NTU
+2021-10-21 10:34:55,Chlorophyll,-1.5,ug/L
+2021-10-21 10:34:55,Blue-green algae,-3238,cells/mL
+2021-10-21 10:34:55,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:34:55,Oxygen saturation,93.7,%
+2021-10-21 10:34:55,Water temperature,26.69,°C
+2021-10-21 10:34:55,Specific conductivity,68.38,mS/cm
+2021-10-21 10:34:55,Salinity,46.61,ppt
+2021-10-21 10:34:56,pH,7.95,pH
+2021-10-21 10:34:56,Turbidity,-4.7,NTU
+2021-10-21 10:34:56,Chlorophyll,-7.3,ug/L
+2021-10-21 10:34:56,Blue-green algae,3028,cells/mL
+2021-10-21 10:34:56,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:34:56,Oxygen saturation,93.6,%
+2021-10-21 10:34:56,Water temperature,26.7,°C
+2021-10-21 10:34:56,Specific conductivity,68.13,mS/cm
+2021-10-21 10:34:56,Salinity,46.42,ppt
+2021-10-21 10:34:57,pH,7.95,pH
+2021-10-21 10:34:57,Turbidity,-5,NTU
+2021-10-21 10:34:57,Chlorophyll,-3.5,ug/L
+2021-10-21 10:34:57,Blue-green algae,57,cells/mL
+2021-10-21 10:34:57,Dissolved oxygen,6.02,mg/L
+2021-10-21 10:34:57,Oxygen saturation,93.4,%
+2021-10-21 10:34:57,Water temperature,26.7,°C
+2021-10-21 10:34:57,Specific conductivity,58.21,mS/cm
+2021-10-21 10:34:57,Salinity,38.81,ppt
+2021-10-21 10:34:58,pH,7.95,pH
+2021-10-21 10:34:58,Turbidity,-4.8,NTU
+2021-10-21 10:34:58,Chlorophyll,1.6,ug/L
+2021-10-21 10:34:58,Blue-green algae,7648,cells/mL
+2021-10-21 10:34:58,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:58,Oxygen saturation,93.3,%
+2021-10-21 10:34:58,Water temperature,26.7,°C
+2021-10-21 10:34:58,Specific conductivity,68.37,mS/cm
+2021-10-21 10:34:58,Salinity,46.6,ppt
+2021-10-21 10:34:59,pH,7.95,pH
+2021-10-21 10:34:59,Turbidity,-2.4,NTU
+2021-10-21 10:34:59,Chlorophyll,0,ug/L
+2021-10-21 10:34:59,Blue-green algae,-3366,cells/mL
+2021-10-21 10:34:59,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:34:59,Oxygen saturation,93.4,%
+2021-10-21 10:34:59,Water temperature,26.69,°C
+2021-10-21 10:34:59,Specific conductivity,68.37,mS/cm
+2021-10-21 10:34:59,Salinity,46.61,ppt
+2021-10-21 10:35:00,pH,7.95,pH
+2021-10-21 10:35:00,Turbidity,-5.7,NTU
+2021-10-21 10:35:00,Chlorophyll,-6.8,ug/L
+2021-10-21 10:35:00,Blue-green algae,3456,cells/mL
+2021-10-21 10:35:00,Dissolved oxygen,6.07,mg/L
+2021-10-21 10:35:00,Oxygen saturation,93.4,%
+2021-10-21 10:35:00,Water temperature,26.7,°C
+2021-10-21 10:35:00,Specific conductivity,56.14,mS/cm
+2021-10-21 10:35:00,Salinity,37.25,ppt
+2021-10-21 10:35:01,pH,7.95,pH
+2021-10-21 10:35:01,Turbidity,-4.1,NTU
+2021-10-21 10:35:01,Chlorophyll,-2.4,ug/L
+2021-10-21 10:35:01,Blue-green algae,26124,cells/mL
+2021-10-21 10:35:01,Dissolved oxygen,5.85,mg/L
+2021-10-21 10:35:01,Oxygen saturation,93.4,%
+2021-10-21 10:35:01,Water temperature,26.7,°C
+2021-10-21 10:35:01,Specific conductivity,64.77,mS/cm
+2021-10-21 10:35:01,Salinity,43.81,ppt
+2021-10-21 10:35:02,pH,7.96,pH
+2021-10-21 10:35:02,Turbidity,-4.5,NTU
+2021-10-21 10:35:02,Chlorophyll,-1.5,ug/L
+2021-10-21 10:35:02,Blue-green algae,-3582,cells/mL
+2021-10-21 10:35:02,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:35:02,Oxygen saturation,93.4,%
+2021-10-21 10:35:02,Water temperature,26.69,°C
+2021-10-21 10:35:02,Specific conductivity,68.36,mS/cm
+2021-10-21 10:35:02,Salinity,46.6,ppt
+2021-10-21 10:35:03,pH,7.95,pH
+2021-10-21 10:35:03,Turbidity,-5,NTU
+2021-10-21 10:35:03,Chlorophyll,-1.1,ug/L
+2021-10-21 10:35:03,Blue-green algae,4984,cells/mL
+2021-10-21 10:35:03,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:35:03,Oxygen saturation,93.5,%
+2021-10-21 10:35:03,Water temperature,26.68,°C
+2021-10-21 10:35:03,Specific conductivity,66.78,mS/cm
+2021-10-21 10:35:03,Salinity,45.37,ppt
+2021-10-21 10:35:04,pH,7.95,pH
+2021-10-21 10:35:04,Turbidity,-0.5,NTU
+2021-10-21 10:35:04,Chlorophyll,1.3,ug/L
+2021-10-21 10:35:04,Blue-green algae,134347,cells/mL
+2021-10-21 10:35:04,Dissolved oxygen,5.93,mg/L
+2021-10-21 10:35:04,Oxygen saturation,93.4,%
+2021-10-21 10:35:04,Water temperature,26.69,°C
+2021-10-21 10:35:04,Specific conductivity,61.76,mS/cm
+2021-10-21 10:35:04,Salinity,41.51,ppt
+2021-10-21 10:35:06,pH,7.95,pH
+2021-10-21 10:35:06,Turbidity,-4,NTU
+2021-10-21 10:35:06,Chlorophyll,-2,ug/L
+2021-10-21 10:35:06,Blue-green algae,955,cells/mL
+2021-10-21 10:35:06,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:06,Oxygen saturation,93.4,%
+2021-10-21 10:35:06,Water temperature,26.67,°C
+2021-10-21 10:35:06,Specific conductivity,68.17,mS/cm
+2021-10-21 10:35:06,Salinity,46.45,ppt
+2021-10-21 10:35:06,pH,7.95,pH
+2021-10-21 10:35:06,Turbidity,-4,NTU
+2021-10-21 10:35:06,Chlorophyll,-2,ug/L
+2021-10-21 10:35:06,Blue-green algae,955,cells/mL
+2021-10-21 10:35:06,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:06,Oxygen saturation,93.4,%
+2021-10-21 10:35:06,Water temperature,26.67,°C
+2021-10-21 10:35:06,Specific conductivity,68.17,mS/cm
+2021-10-21 10:35:06,Salinity,46.45,ppt
+2021-10-21 10:35:07,pH,7.95,pH
+2021-10-21 10:35:07,Turbidity,-4.2,NTU
+2021-10-21 10:35:07,Chlorophyll,-0.7,ug/L
+2021-10-21 10:35:07,Blue-green algae,-249,cells/mL
+2021-10-21 10:35:07,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:07,Oxygen saturation,93.4,%
+2021-10-21 10:35:07,Water temperature,26.66,°C
+2021-10-21 10:35:07,Specific conductivity,68.1,mS/cm
+2021-10-21 10:35:07,Salinity,46.4,ppt
+2021-10-21 10:35:09,pH,7.95,pH
+2021-10-21 10:35:09,Turbidity,-3.5,NTU
+2021-10-21 10:35:09,Chlorophyll,67.9,ug/L
+2021-10-21 10:35:09,Blue-green algae,147621,cells/mL
+2021-10-21 10:35:09,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:09,Oxygen saturation,93.5,%
+2021-10-21 10:35:09,Water temperature,26.67,°C
+2021-10-21 10:35:09,Specific conductivity,68.21,mS/cm
+2021-10-21 10:35:09,Salinity,46.48,ppt
+2021-10-21 10:35:09,pH,7.95,pH
+2021-10-21 10:35:09,Turbidity,-3.5,NTU
+2021-10-21 10:35:09,Chlorophyll,67.9,ug/L
+2021-10-21 10:35:09,Blue-green algae,147621,cells/mL
+2021-10-21 10:35:09,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:09,Oxygen saturation,93.5,%
+2021-10-21 10:35:09,Water temperature,26.67,°C
+2021-10-21 10:35:09,Specific conductivity,68.21,mS/cm
+2021-10-21 10:35:09,Salinity,46.48,ppt
+2021-10-21 10:35:10,pH,7.95,pH
+2021-10-21 10:35:10,Turbidity,-4.5,NTU
+2021-10-21 10:35:10,Chlorophyll,19,ug/L
+2021-10-21 10:35:10,Blue-green algae,57885,cells/mL
+2021-10-21 10:35:10,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:10,Oxygen saturation,93.5,%
+2021-10-21 10:35:10,Water temperature,26.68,°C
+2021-10-21 10:35:10,Specific conductivity,68.34,mS/cm
+2021-10-21 10:35:10,Salinity,46.59,ppt
+2021-10-21 10:35:12,pH,7.95,pH
+2021-10-21 10:35:12,Turbidity,-5.3,NTU
+2021-10-21 10:35:12,Chlorophyll,-1.5,ug/L
+2021-10-21 10:35:12,Blue-green algae,283,cells/mL
+2021-10-21 10:35:12,Dissolved oxygen,6.08,mg/L
+2021-10-21 10:35:12,Oxygen saturation,93.6,%
+2021-10-21 10:35:12,Water temperature,26.68,°C
+2021-10-21 10:35:12,Specific conductivity,56.4,mS/cm
+2021-10-21 10:35:12,Salinity,37.44,ppt
+2021-10-21 10:35:12,pH,7.95,pH
+2021-10-21 10:35:12,Turbidity,-5.3,NTU
+2021-10-21 10:35:12,Chlorophyll,-1.5,ug/L
+2021-10-21 10:35:12,Blue-green algae,283,cells/mL
+2021-10-21 10:35:12,Dissolved oxygen,6.08,mg/L
+2021-10-21 10:35:12,Oxygen saturation,93.6,%
+2021-10-21 10:35:12,Water temperature,26.68,°C
+2021-10-21 10:35:12,Specific conductivity,56.4,mS/cm
+2021-10-21 10:35:12,Salinity,37.44,ppt
+2021-10-21 10:35:13,pH,7.96,pH
+2021-10-21 10:35:13,Turbidity,-4.5,NTU
+2021-10-21 10:35:13,Chlorophyll,-3.9,ug/L
+2021-10-21 10:35:13,Blue-green algae,-6422,cells/mL
+2021-10-21 10:35:13,Dissolved oxygen,6.83,mg/L
+2021-10-21 10:35:13,Oxygen saturation,93.6,%
+2021-10-21 10:35:13,Water temperature,26.68,°C
+2021-10-21 10:35:13,Specific conductivity,27.36,mS/cm
+2021-10-21 10:35:13,Salinity,16.75,ppt
+2021-10-21 10:35:14,pH,7.95,pH
+2021-10-21 10:35:14,Turbidity,-4.7,NTU
+2021-10-21 10:35:14,Chlorophyll,-6.3,ug/L
+2021-10-21 10:35:14,Blue-green algae,-1579,cells/mL
+2021-10-21 10:35:14,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:14,Oxygen saturation,93.5,%
+2021-10-21 10:35:14,Water temperature,26.66,°C
+2021-10-21 10:35:14,Specific conductivity,68.35,mS/cm
+2021-10-21 10:35:14,Salinity,46.59,ppt
+2021-10-21 10:35:16,pH,7.95,pH
+2021-10-21 10:35:16,Turbidity,-5.2,NTU
+2021-10-21 10:35:16,Chlorophyll,0.9,ug/L
+2021-10-21 10:35:16,Blue-green algae,2352,cells/mL
+2021-10-21 10:35:16,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:35:16,Oxygen saturation,93.6,%
+2021-10-21 10:35:16,Water temperature,26.66,°C
+2021-10-21 10:35:16,Specific conductivity,68.33,mS/cm
+2021-10-21 10:35:16,Salinity,46.58,ppt
+2021-10-21 10:35:16,pH,7.95,pH
+2021-10-21 10:35:16,Turbidity,-5.2,NTU
+2021-10-21 10:35:16,Chlorophyll,0.9,ug/L
+2021-10-21 10:35:16,Blue-green algae,2352,cells/mL
+2021-10-21 10:35:16,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:35:16,Oxygen saturation,93.6,%
+2021-10-21 10:35:16,Water temperature,26.66,°C
+2021-10-21 10:35:16,Specific conductivity,68.33,mS/cm
+2021-10-21 10:35:16,Salinity,46.58,ppt
+2021-10-21 10:35:17,pH,7.95,pH
+2021-10-21 10:35:17,Turbidity,-5.8,NTU
+2021-10-21 10:35:17,Chlorophyll,-6,ug/L
+2021-10-21 10:35:17,Blue-green algae,-1943,cells/mL
+2021-10-21 10:35:17,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:17,Oxygen saturation,93.6,%
+2021-10-21 10:35:17,Water temperature,26.66,°C
+2021-10-21 10:35:17,Specific conductivity,68.32,mS/cm
+2021-10-21 10:35:17,Salinity,46.57,ppt
+2021-10-21 10:35:19,pH,7.95,pH
+2021-10-21 10:35:19,Turbidity,-3.6,NTU
+2021-10-21 10:35:19,Chlorophyll,-3.5,ug/L
+2021-10-21 10:35:19,Blue-green algae,5377,cells/mL
+2021-10-21 10:35:19,Dissolved oxygen,6.19,mg/L
+2021-10-21 10:35:19,Oxygen saturation,93.6,%
+2021-10-21 10:35:19,Water temperature,26.69,°C
+2021-10-21 10:35:19,Specific conductivity,52.13,mS/cm
+2021-10-21 10:35:19,Salinity,34.26,ppt
+2021-10-21 10:35:19,pH,7.95,pH
+2021-10-21 10:35:19,Turbidity,-3.6,NTU
+2021-10-21 10:35:19,Chlorophyll,-3.5,ug/L
+2021-10-21 10:35:19,Blue-green algae,5377,cells/mL
+2021-10-21 10:35:19,Dissolved oxygen,6.19,mg/L
+2021-10-21 10:35:19,Oxygen saturation,93.6,%
+2021-10-21 10:35:19,Water temperature,26.69,°C
+2021-10-21 10:35:19,Specific conductivity,52.13,mS/cm
+2021-10-21 10:35:19,Salinity,34.26,ppt
+2021-10-21 10:35:20,pH,7.95,pH
+2021-10-21 10:35:20,Turbidity,-4.3,NTU
+2021-10-21 10:35:20,Chlorophyll,-6.9,ug/L
+2021-10-21 10:35:20,Blue-green algae,-2179,cells/mL
+2021-10-21 10:35:20,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:35:20,Oxygen saturation,93.6,%
+2021-10-21 10:35:20,Water temperature,26.68,°C
+2021-10-21 10:35:20,Specific conductivity,68.31,mS/cm
+2021-10-21 10:35:20,Salinity,46.56,ppt
+2021-10-21 10:35:22,pH,7.95,pH
+2021-10-21 10:35:22,Turbidity,-4.5,NTU
+2021-10-21 10:35:22,Chlorophyll,-2.9,ug/L
+2021-10-21 10:35:22,Blue-green algae,-3886,cells/mL
+2021-10-21 10:35:22,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:22,Oxygen saturation,93.4,%
+2021-10-21 10:35:22,Water temperature,26.68,°C
+2021-10-21 10:35:22,Specific conductivity,68.16,mS/cm
+2021-10-21 10:35:22,Salinity,46.44,ppt
+2021-10-21 10:35:22,pH,7.95,pH
+2021-10-21 10:35:22,Turbidity,-4.5,NTU
+2021-10-21 10:35:22,Chlorophyll,-2.9,ug/L
+2021-10-21 10:35:22,Blue-green algae,-3886,cells/mL
+2021-10-21 10:35:22,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:22,Oxygen saturation,93.4,%
+2021-10-21 10:35:22,Water temperature,26.68,°C
+2021-10-21 10:35:22,Specific conductivity,68.16,mS/cm
+2021-10-21 10:35:22,Salinity,46.44,ppt
+2021-10-21 10:35:23,pH,7.95,pH
+2021-10-21 10:35:23,Turbidity,-4.9,NTU
+2021-10-21 10:35:23,Chlorophyll,-4.5,ug/L
+2021-10-21 10:35:23,Blue-green algae,-2146,cells/mL
+2021-10-21 10:35:23,Dissolved oxygen,6.5,mg/L
+2021-10-21 10:35:23,Oxygen saturation,93.4,%
+2021-10-21 10:35:23,Water temperature,26.69,°C
+2021-10-21 10:35:23,Specific conductivity,39.72,mS/cm
+2021-10-21 10:35:23,Salinity,25.28,ppt
+2021-10-21 10:35:25,pH,7.95,pH
+2021-10-21 10:35:25,Turbidity,2.8,NTU
+2021-10-21 10:35:25,Chlorophyll,-6.1,ug/L
+2021-10-21 10:35:25,Blue-green algae,102649,cells/mL
+2021-10-21 10:35:25,Dissolved oxygen,6.74,mg/L
+2021-10-21 10:35:25,Oxygen saturation,93.5,%
+2021-10-21 10:35:25,Water temperature,26.69,°C
+2021-10-21 10:35:25,Specific conductivity,30.33,mS/cm
+2021-10-21 10:35:25,Salinity,18.77,ppt
+2021-10-21 10:35:25,pH,7.95,pH
+2021-10-21 10:35:25,Turbidity,2.8,NTU
+2021-10-21 10:35:25,Chlorophyll,-6.1,ug/L
+2021-10-21 10:35:25,Blue-green algae,102649,cells/mL
+2021-10-21 10:35:25,Dissolved oxygen,6.74,mg/L
+2021-10-21 10:35:25,Oxygen saturation,93.5,%
+2021-10-21 10:35:25,Water temperature,26.69,°C
+2021-10-21 10:35:25,Specific conductivity,30.33,mS/cm
+2021-10-21 10:35:25,Salinity,18.77,ppt
+2021-10-21 10:35:26,pH,7.95,pH
+2021-10-21 10:35:26,Turbidity,-4.8,NTU
+2021-10-21 10:35:26,Chlorophyll,-1.5,ug/L
+2021-10-21 10:35:26,Blue-green algae,26255,cells/mL
+2021-10-21 10:35:26,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:26,Oxygen saturation,93.5,%
+2021-10-21 10:35:26,Water temperature,26.67,°C
+2021-10-21 10:35:26,Specific conductivity,68.29,mS/cm
+2021-10-21 10:35:26,Salinity,46.55,ppt
+2021-10-21 10:35:28,pH,7.95,pH
+2021-10-21 10:35:28,Turbidity,-3.8,NTU
+2021-10-21 10:35:28,Chlorophyll,-0.9,ug/L
+2021-10-21 10:35:28,Blue-green algae,-6991,cells/mL
+2021-10-21 10:35:28,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:28,Oxygen saturation,93.5,%
+2021-10-21 10:35:28,Water temperature,26.66,°C
+2021-10-21 10:35:28,Specific conductivity,68.31,mS/cm
+2021-10-21 10:35:28,Salinity,46.56,ppt
+2021-10-21 10:35:28,pH,7.95,pH
+2021-10-21 10:35:28,Turbidity,-3.8,NTU
+2021-10-21 10:35:28,Chlorophyll,-0.9,ug/L
+2021-10-21 10:35:28,Blue-green algae,-6991,cells/mL
+2021-10-21 10:35:28,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:28,Oxygen saturation,93.5,%
+2021-10-21 10:35:28,Water temperature,26.66,°C
+2021-10-21 10:35:28,Specific conductivity,68.31,mS/cm
+2021-10-21 10:35:28,Salinity,46.56,ppt
+2021-10-21 10:35:29,pH,7.95,pH
+2021-10-21 10:35:29,Turbidity,-5.7,NTU
+2021-10-21 10:35:29,Chlorophyll,-6.6,ug/L
+2021-10-21 10:35:29,Blue-green algae,414,cells/mL
+2021-10-21 10:35:29,Dissolved oxygen,5.82,mg/L
+2021-10-21 10:35:29,Oxygen saturation,93.6,%
+2021-10-21 10:35:29,Water temperature,26.63,°C
+2021-10-21 10:35:29,Specific conductivity,66.59,mS/cm
+2021-10-21 10:35:29,Salinity,45.23,ppt
+2021-10-21 10:35:31,pH,7.95,pH
+2021-10-21 10:35:31,Turbidity,-5.4,NTU
+2021-10-21 10:35:31,Chlorophyll,-1.6,ug/L
+2021-10-21 10:35:31,Blue-green algae,-597,cells/mL
+2021-10-21 10:35:31,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:31,Oxygen saturation,93.5,%
+2021-10-21 10:35:31,Water temperature,26.65,°C
+2021-10-21 10:35:31,Specific conductivity,68.32,mS/cm
+2021-10-21 10:35:31,Salinity,46.57,ppt
+2021-10-21 10:35:31,pH,7.95,pH
+2021-10-21 10:35:31,Turbidity,-5.4,NTU
+2021-10-21 10:35:31,Chlorophyll,-1.6,ug/L
+2021-10-21 10:35:31,Blue-green algae,-597,cells/mL
+2021-10-21 10:35:31,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:31,Oxygen saturation,93.5,%
+2021-10-21 10:35:31,Water temperature,26.65,°C
+2021-10-21 10:35:31,Specific conductivity,68.32,mS/cm
+2021-10-21 10:35:31,Salinity,46.57,ppt
+2021-10-21 10:35:32,pH,7.95,pH
+2021-10-21 10:35:32,Turbidity,-4.4,NTU
+2021-10-21 10:35:32,Chlorophyll,-8.6,ug/L
+2021-10-21 10:35:32,Blue-green algae,1256,cells/mL
+2021-10-21 10:35:32,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:32,Oxygen saturation,93.5,%
+2021-10-21 10:35:32,Water temperature,26.68,°C
+2021-10-21 10:35:32,Specific conductivity,68.27,mS/cm
+2021-10-21 10:35:32,Salinity,46.53,ppt
+2021-10-21 10:35:34,pH,7.95,pH
+2021-10-21 10:35:34,Turbidity,-4.6,NTU
+2021-10-21 10:35:34,Chlorophyll,-2.3,ug/L
+2021-10-21 10:35:34,Blue-green algae,8842,cells/mL
+2021-10-21 10:35:34,Dissolved oxygen,6.32,mg/L
+2021-10-21 10:35:34,Oxygen saturation,93.5,%
+2021-10-21 10:35:34,Water temperature,26.68,°C
+2021-10-21 10:35:34,Specific conductivity,46.78,mS/cm
+2021-10-21 10:35:34,Salinity,30.34,ppt
+2021-10-21 10:35:34,pH,7.95,pH
+2021-10-21 10:35:34,Turbidity,-4.6,NTU
+2021-10-21 10:35:34,Chlorophyll,-2.3,ug/L
+2021-10-21 10:35:34,Blue-green algae,8842,cells/mL
+2021-10-21 10:35:34,Dissolved oxygen,6.32,mg/L
+2021-10-21 10:35:34,Oxygen saturation,93.5,%
+2021-10-21 10:35:34,Water temperature,26.68,°C
+2021-10-21 10:35:34,Specific conductivity,46.78,mS/cm
+2021-10-21 10:35:34,Salinity,30.34,ppt
+2021-10-21 10:35:35,pH,7.95,pH
+2021-10-21 10:35:35,Turbidity,-5.4,NTU
+2021-10-21 10:35:35,Chlorophyll,-0.5,ug/L
+2021-10-21 10:35:35,Blue-green algae,2483,cells/mL
+2021-10-21 10:35:35,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:35,Oxygen saturation,93.5,%
+2021-10-21 10:35:35,Water temperature,26.68,°C
+2021-10-21 10:35:35,Specific conductivity,68.27,mS/cm
+2021-10-21 10:35:35,Salinity,46.53,ppt
+2021-10-21 10:35:37,pH,7.95,pH
+2021-10-21 10:35:37,Turbidity,-5.4,NTU
+2021-10-21 10:35:37,Chlorophyll,-2.9,ug/L
+2021-10-21 10:35:37,Blue-green algae,9158,cells/mL
+2021-10-21 10:35:37,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:35:37,Oxygen saturation,93.4,%
+2021-10-21 10:35:37,Water temperature,26.68,°C
+2021-10-21 10:35:37,Specific conductivity,68.26,mS/cm
+2021-10-21 10:35:37,Salinity,46.52,ppt
+2021-10-21 10:35:37,pH,7.95,pH
+2021-10-21 10:35:37,Turbidity,-5.4,NTU
+2021-10-21 10:35:37,Chlorophyll,-2.9,ug/L
+2021-10-21 10:35:37,Blue-green algae,9158,cells/mL
+2021-10-21 10:35:37,Dissolved oxygen,5.76,mg/L
+2021-10-21 10:35:37,Oxygen saturation,93.4,%
+2021-10-21 10:35:37,Water temperature,26.68,°C
+2021-10-21 10:35:37,Specific conductivity,68.26,mS/cm
+2021-10-21 10:35:37,Salinity,46.52,ppt
+2021-10-21 10:35:39,pH,7.95,pH
+2021-10-21 10:35:39,Turbidity,-3.6,NTU
+2021-10-21 10:35:39,Chlorophyll,-4.6,ug/L
+2021-10-21 10:35:39,Blue-green algae,12089,cells/mL
+2021-10-21 10:35:39,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:39,Oxygen saturation,93.5,%
+2021-10-21 10:35:39,Water temperature,26.67,°C
+2021-10-21 10:35:39,Specific conductivity,68.27,mS/cm
+2021-10-21 10:35:39,Salinity,46.53,ppt
+2021-10-21 10:35:39,pH,7.95,pH
+2021-10-21 10:35:39,Turbidity,-3.6,NTU
+2021-10-21 10:35:39,Chlorophyll,-4.6,ug/L
+2021-10-21 10:35:39,Blue-green algae,12089,cells/mL
+2021-10-21 10:35:39,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:39,Oxygen saturation,93.5,%
+2021-10-21 10:35:39,Water temperature,26.67,°C
+2021-10-21 10:35:39,Specific conductivity,68.27,mS/cm
+2021-10-21 10:35:39,Salinity,46.53,ppt
+2021-10-21 10:35:40,pH,7.94,pH
+2021-10-21 10:35:40,Turbidity,-5.2,NTU
+2021-10-21 10:35:40,Chlorophyll,-5.3,ug/L
+2021-10-21 10:35:40,Blue-green algae,4638,cells/mL
+2021-10-21 10:35:40,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:35:40,Oxygen saturation,93.4,%
+2021-10-21 10:35:40,Water temperature,26.67,°C
+2021-10-21 10:35:40,Specific conductivity,66.95,mS/cm
+2021-10-21 10:35:40,Salinity,45.5,ppt
+2021-10-21 10:35:41,pH,7.94,pH
+2021-10-21 10:35:41,Turbidity,-5.5,NTU
+2021-10-21 10:35:41,Chlorophyll,14.5,ug/L
+2021-10-21 10:35:41,Blue-green algae,86832,cells/mL
+2021-10-21 10:35:41,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:41,Oxygen saturation,93.4,%
+2021-10-21 10:35:41,Water temperature,26.67,°C
+2021-10-21 10:35:41,Specific conductivity,68.26,mS/cm
+2021-10-21 10:35:41,Salinity,46.52,ppt
+2021-10-21 10:35:43,pH,7.95,pH
+2021-10-21 10:35:43,Turbidity,-3.9,NTU
+2021-10-21 10:35:43,Chlorophyll,-1.4,ug/L
+2021-10-21 10:35:43,Blue-green algae,121012,cells/mL
+2021-10-21 10:35:43,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:35:43,Oxygen saturation,93.5,%
+2021-10-21 10:35:43,Water temperature,26.67,°C
+2021-10-21 10:35:43,Specific conductivity,67.58,mS/cm
+2021-10-21 10:35:43,Salinity,45.99,ppt
+2021-10-21 10:35:43,pH,7.95,pH
+2021-10-21 10:35:43,Turbidity,-3.9,NTU
+2021-10-21 10:35:43,Chlorophyll,-1.4,ug/L
+2021-10-21 10:35:43,Blue-green algae,121012,cells/mL
+2021-10-21 10:35:43,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:35:43,Oxygen saturation,93.5,%
+2021-10-21 10:35:43,Water temperature,26.67,°C
+2021-10-21 10:35:43,Specific conductivity,67.58,mS/cm
+2021-10-21 10:35:43,Salinity,45.99,ppt
+2021-10-21 10:35:45,pH,7.94,pH
+2021-10-21 10:35:45,Turbidity,-3.9,NTU
+2021-10-21 10:35:45,Chlorophyll,-1.1,ug/L
+2021-10-21 10:35:45,Blue-green algae,81497,cells/mL
+2021-10-21 10:35:45,Dissolved oxygen,5.89,mg/L
+2021-10-21 10:35:45,Oxygen saturation,93.8,%
+2021-10-21 10:35:45,Water temperature,26.67,°C
+2021-10-21 10:35:45,Specific conductivity,64.44,mS/cm
+2021-10-21 10:35:45,Salinity,43.56,ppt
+2021-10-21 10:35:45,pH,7.94,pH
+2021-10-21 10:35:45,Turbidity,-3.9,NTU
+2021-10-21 10:35:45,Chlorophyll,-1.1,ug/L
+2021-10-21 10:35:45,Blue-green algae,81497,cells/mL
+2021-10-21 10:35:45,Dissolved oxygen,5.89,mg/L
+2021-10-21 10:35:45,Oxygen saturation,93.8,%
+2021-10-21 10:35:45,Water temperature,26.67,°C
+2021-10-21 10:35:45,Specific conductivity,64.44,mS/cm
+2021-10-21 10:35:45,Salinity,43.56,ppt
+2021-10-21 10:35:46,pH,7.95,pH
+2021-10-21 10:35:46,Turbidity,-4.4,NTU
+2021-10-21 10:35:46,Chlorophyll,1.7,ug/L
+2021-10-21 10:35:46,Blue-green algae,91204,cells/mL
+2021-10-21 10:35:46,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:35:46,Oxygen saturation,93.9,%
+2021-10-21 10:35:46,Water temperature,26.67,°C
+2021-10-21 10:35:46,Specific conductivity,68.18,mS/cm
+2021-10-21 10:35:46,Salinity,46.46,ppt
+2021-10-21 10:35:48,pH,7.94,pH
+2021-10-21 10:35:48,Turbidity,-5.6,NTU
+2021-10-21 10:35:48,Chlorophyll,-2,ug/L
+2021-10-21 10:35:48,Blue-green algae,5637,cells/mL
+2021-10-21 10:35:48,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:35:48,Oxygen saturation,93.6,%
+2021-10-21 10:35:48,Water temperature,26.67,°C
+2021-10-21 10:35:48,Specific conductivity,68.26,mS/cm
+2021-10-21 10:35:48,Salinity,46.52,ppt
+2021-10-21 10:35:48,pH,7.94,pH
+2021-10-21 10:35:48,Turbidity,-5.6,NTU
+2021-10-21 10:35:48,Chlorophyll,-2,ug/L
+2021-10-21 10:35:48,Blue-green algae,5637,cells/mL
+2021-10-21 10:35:48,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:35:48,Oxygen saturation,93.6,%
+2021-10-21 10:35:48,Water temperature,26.67,°C
+2021-10-21 10:35:48,Specific conductivity,68.26,mS/cm
+2021-10-21 10:35:48,Salinity,46.52,ppt
+2021-10-21 10:35:50,pH,7.94,pH
+2021-10-21 10:35:50,Turbidity,-4.9,NTU
+2021-10-21 10:35:50,Chlorophyll,-3.8,ug/L
+2021-10-21 10:35:50,Blue-green algae,102990,cells/mL
+2021-10-21 10:35:50,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:35:50,Oxygen saturation,93.5,%
+2021-10-21 10:35:50,Water temperature,26.67,°C
+2021-10-21 10:35:50,Specific conductivity,68.16,mS/cm
+2021-10-21 10:35:50,Salinity,46.44,ppt
+2021-10-21 10:35:50,pH,7.94,pH
+2021-10-21 10:35:50,Turbidity,-4.9,NTU
+2021-10-21 10:35:50,Chlorophyll,-3.8,ug/L
+2021-10-21 10:35:50,Blue-green algae,102990,cells/mL
+2021-10-21 10:35:50,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:35:50,Oxygen saturation,93.5,%
+2021-10-21 10:35:50,Water temperature,26.67,°C
+2021-10-21 10:35:50,Specific conductivity,68.16,mS/cm
+2021-10-21 10:35:50,Salinity,46.44,ppt
+2021-10-21 10:35:51,pH,7.94,pH
+2021-10-21 10:35:51,Turbidity,-4.8,NTU
+2021-10-21 10:35:51,Chlorophyll,8.8,ug/L
+2021-10-21 10:35:51,Blue-green algae,19667,cells/mL
+2021-10-21 10:35:51,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:51,Oxygen saturation,93.5,%
+2021-10-21 10:35:51,Water temperature,26.66,°C
+2021-10-21 10:35:51,Specific conductivity,68.27,mS/cm
+2021-10-21 10:35:51,Salinity,46.53,ppt
+2021-10-21 10:35:53,pH,7.94,pH
+2021-10-21 10:35:53,Turbidity,-4.7,NTU
+2021-10-21 10:35:53,Chlorophyll,21.1,ug/L
+2021-10-21 10:35:53,Blue-green algae,71469,cells/mL
+2021-10-21 10:35:53,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:53,Oxygen saturation,93.4,%
+2021-10-21 10:35:53,Water temperature,26.68,°C
+2021-10-21 10:35:53,Specific conductivity,68.25,mS/cm
+2021-10-21 10:35:53,Salinity,46.51,ppt
+2021-10-21 10:35:53,pH,7.94,pH
+2021-10-21 10:35:53,Turbidity,-4.7,NTU
+2021-10-21 10:35:53,Chlorophyll,21.1,ug/L
+2021-10-21 10:35:53,Blue-green algae,71469,cells/mL
+2021-10-21 10:35:53,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:53,Oxygen saturation,93.4,%
+2021-10-21 10:35:53,Water temperature,26.68,°C
+2021-10-21 10:35:53,Specific conductivity,68.25,mS/cm
+2021-10-21 10:35:53,Salinity,46.51,ppt
+2021-10-21 10:35:54,pH,7.94,pH
+2021-10-21 10:35:54,Turbidity,-5.6,NTU
+2021-10-21 10:35:54,Chlorophyll,-7.4,ug/L
+2021-10-21 10:35:54,Blue-green algae,8175,cells/mL
+2021-10-21 10:35:54,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:35:54,Oxygen saturation,93.5,%
+2021-10-21 10:35:54,Water temperature,26.68,°C
+2021-10-21 10:35:54,Specific conductivity,68.24,mS/cm
+2021-10-21 10:35:54,Salinity,46.51,ppt
+2021-10-21 10:35:56,pH,7.94,pH
+2021-10-21 10:35:56,Turbidity,-4.2,NTU
+2021-10-21 10:35:56,Chlorophyll,7.2,ug/L
+2021-10-21 10:35:56,Blue-green algae,45305,cells/mL
+2021-10-21 10:35:56,Dissolved oxygen,5.99,mg/L
+2021-10-21 10:35:56,Oxygen saturation,93.5,%
+2021-10-21 10:35:56,Water temperature,26.67,°C
+2021-10-21 10:35:56,Specific conductivity,59.81,mS/cm
+2021-10-21 10:35:56,Salinity,40.02,ppt
+2021-10-21 10:35:56,pH,7.94,pH
+2021-10-21 10:35:56,Turbidity,-4.2,NTU
+2021-10-21 10:35:56,Chlorophyll,7.2,ug/L
+2021-10-21 10:35:56,Blue-green algae,45305,cells/mL
+2021-10-21 10:35:56,Dissolved oxygen,5.99,mg/L
+2021-10-21 10:35:56,Oxygen saturation,93.5,%
+2021-10-21 10:35:56,Water temperature,26.67,°C
+2021-10-21 10:35:56,Specific conductivity,59.81,mS/cm
+2021-10-21 10:35:56,Salinity,40.02,ppt
+2021-10-21 10:35:57,pH,7.94,pH
+2021-10-21 10:35:57,Turbidity,-5.1,NTU
+2021-10-21 10:35:57,Chlorophyll,-2.8,ug/L
+2021-10-21 10:35:57,Blue-green algae,3556,cells/mL
+2021-10-21 10:35:57,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:35:57,Oxygen saturation,93.7,%
+2021-10-21 10:35:57,Water temperature,26.67,°C
+2021-10-21 10:35:57,Specific conductivity,68.24,mS/cm
+2021-10-21 10:35:57,Salinity,46.51,ppt
+2021-10-21 10:35:59,pH,7.94,pH
+2021-10-21 10:35:59,Turbidity,-4.9,NTU
+2021-10-21 10:35:59,Chlorophyll,-6.2,ug/L
+2021-10-21 10:35:59,Blue-green algae,125665,cells/mL
+2021-10-21 10:35:59,Dissolved oxygen,5.83,mg/L
+2021-10-21 10:35:59,Oxygen saturation,93.9,%
+2021-10-21 10:35:59,Water temperature,26.68,°C
+2021-10-21 10:35:59,Specific conductivity,67.03,mS/cm
+2021-10-21 10:35:59,Salinity,45.56,ppt
+2021-10-21 10:35:59,pH,7.94,pH
+2021-10-21 10:35:59,Turbidity,-4.9,NTU
+2021-10-21 10:35:59,Chlorophyll,-6.2,ug/L
+2021-10-21 10:35:59,Blue-green algae,125665,cells/mL
+2021-10-21 10:35:59,Dissolved oxygen,5.83,mg/L
+2021-10-21 10:35:59,Oxygen saturation,93.9,%
+2021-10-21 10:35:59,Water temperature,26.68,°C
+2021-10-21 10:35:59,Specific conductivity,67.03,mS/cm
+2021-10-21 10:35:59,Salinity,45.56,ppt
+2021-10-21 10:36:00,pH,7.94,pH
+2021-10-21 10:36:00,Turbidity,-4.1,NTU
+2021-10-21 10:36:00,Chlorophyll,-4,ug/L
+2021-10-21 10:36:00,Blue-green algae,13909,cells/mL
+2021-10-21 10:36:00,Dissolved oxygen,5.86,mg/L
+2021-10-21 10:36:00,Oxygen saturation,94.1,%
+2021-10-21 10:36:00,Water temperature,26.69,°C
+2021-10-21 10:36:00,Specific conductivity,65.98,mS/cm
+2021-10-21 10:36:00,Salinity,44.75,ppt
+2021-10-21 10:36:02,pH,7.94,pH
+2021-10-21 10:36:02,Turbidity,-5.3,NTU
+2021-10-21 10:36:02,Chlorophyll,-0.9,ug/L
+2021-10-21 10:36:02,Blue-green algae,-3110,cells/mL
+2021-10-21 10:36:02,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:36:02,Oxygen saturation,94.1,%
+2021-10-21 10:36:02,Water temperature,26.68,°C
+2021-10-21 10:36:02,Specific conductivity,68.22,mS/cm
+2021-10-21 10:36:02,Salinity,46.49,ppt
+2021-10-21 10:36:02,pH,7.94,pH
+2021-10-21 10:36:02,Turbidity,-5.3,NTU
+2021-10-21 10:36:02,Chlorophyll,-0.9,ug/L
+2021-10-21 10:36:02,Blue-green algae,-3110,cells/mL
+2021-10-21 10:36:02,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:36:02,Oxygen saturation,94.1,%
+2021-10-21 10:36:02,Water temperature,26.68,°C
+2021-10-21 10:36:02,Specific conductivity,68.22,mS/cm
+2021-10-21 10:36:02,Salinity,46.49,ppt
+2021-10-21 10:36:03,pH,7.94,pH
+2021-10-21 10:36:03,Turbidity,-5.6,NTU
+2021-10-21 10:36:03,Chlorophyll,-0.2,ug/L
+2021-10-21 10:36:03,Blue-green algae,-575,cells/mL
+2021-10-21 10:36:03,Dissolved oxygen,5.92,mg/L
+2021-10-21 10:36:03,Oxygen saturation,94.2,%
+2021-10-21 10:36:03,Water temperature,26.69,°C
+2021-10-21 10:36:03,Specific conductivity,63.85,mS/cm
+2021-10-21 10:36:03,Salinity,43.11,ppt
+2021-10-21 10:36:05,pH,7.93,pH
+2021-10-21 10:36:05,Turbidity,-5.2,NTU
+2021-10-21 10:36:05,Chlorophyll,-1.9,ug/L
+2021-10-21 10:36:05,Blue-green algae,-3143,cells/mL
+2021-10-21 10:36:05,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:36:05,Oxygen saturation,94.1,%
+2021-10-21 10:36:05,Water temperature,26.69,°C
+2021-10-21 10:36:05,Specific conductivity,68.02,mS/cm
+2021-10-21 10:36:05,Salinity,46.33,ppt
+2021-10-21 10:36:05,pH,7.93,pH
+2021-10-21 10:36:05,Turbidity,-5.2,NTU
+2021-10-21 10:36:05,Chlorophyll,-1.9,ug/L
+2021-10-21 10:36:05,Blue-green algae,-3143,cells/mL
+2021-10-21 10:36:05,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:36:05,Oxygen saturation,94.1,%
+2021-10-21 10:36:05,Water temperature,26.69,°C
+2021-10-21 10:36:05,Specific conductivity,68.02,mS/cm
+2021-10-21 10:36:05,Salinity,46.33,ppt
+2021-10-21 10:36:06,pH,7.93,pH
+2021-10-21 10:36:06,Turbidity,-4.7,NTU
+2021-10-21 10:36:06,Chlorophyll,-3.6,ug/L
+2021-10-21 10:36:06,Blue-green algae,55388,cells/mL
+2021-10-21 10:36:06,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:36:06,Oxygen saturation,94.1,%
+2021-10-21 10:36:06,Water temperature,26.7,°C
+2021-10-21 10:36:06,Specific conductivity,68.26,mS/cm
+2021-10-21 10:36:06,Salinity,46.52,ppt
+2021-10-21 10:36:08,pH,7.93,pH
+2021-10-21 10:36:08,Turbidity,-4.6,NTU
+2021-10-21 10:36:08,Chlorophyll,-3.7,ug/L
+2021-10-21 10:36:08,Blue-green algae,39158,cells/mL
+2021-10-21 10:36:08,Dissolved oxygen,5.92,mg/L
+2021-10-21 10:36:08,Oxygen saturation,93.9,%
+2021-10-21 10:36:08,Water temperature,26.71,°C
+2021-10-21 10:36:08,Specific conductivity,63.19,mS/cm
+2021-10-21 10:36:08,Salinity,42.6,ppt
+2021-10-21 10:36:08,pH,7.93,pH
+2021-10-21 10:36:08,Turbidity,-4.6,NTU
+2021-10-21 10:36:08,Chlorophyll,-3.7,ug/L
+2021-10-21 10:36:08,Blue-green algae,39158,cells/mL
+2021-10-21 10:36:08,Dissolved oxygen,5.92,mg/L
+2021-10-21 10:36:08,Oxygen saturation,93.9,%
+2021-10-21 10:36:08,Water temperature,26.71,°C
+2021-10-21 10:36:08,Specific conductivity,63.19,mS/cm
+2021-10-21 10:36:08,Salinity,42.6,ppt
+2021-10-21 10:36:10,pH,7.94,pH
+2021-10-21 10:36:10,Turbidity,-5.6,NTU
+2021-10-21 10:36:10,Chlorophyll,-7.5,ug/L
+2021-10-21 10:36:10,Blue-green algae,195867,cells/mL
+2021-10-21 10:36:10,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:36:10,Oxygen saturation,94,%
+2021-10-21 10:36:10,Water temperature,26.71,°C
+2021-10-21 10:36:10,Specific conductivity,68.1,mS/cm
+2021-10-21 10:36:10,Salinity,46.4,ppt
+2021-10-21 10:36:10,pH,7.94,pH
+2021-10-21 10:36:10,Turbidity,-5.6,NTU
+2021-10-21 10:36:10,Chlorophyll,-7.5,ug/L
+2021-10-21 10:36:10,Blue-green algae,195867,cells/mL
+2021-10-21 10:36:10,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:36:10,Oxygen saturation,94,%
+2021-10-21 10:36:10,Water temperature,26.71,°C
+2021-10-21 10:36:10,Specific conductivity,68.1,mS/cm
+2021-10-21 10:36:10,Salinity,46.4,ppt
+2021-10-21 10:36:12,pH,7.93,pH
+2021-10-21 10:36:12,Turbidity,-5.2,NTU
+2021-10-21 10:36:12,Chlorophyll,-8.9,ug/L
+2021-10-21 10:36:12,Blue-green algae,-7021,cells/mL
+2021-10-21 10:36:12,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:36:12,Oxygen saturation,94.2,%
+2021-10-21 10:36:12,Water temperature,26.72,°C
+2021-10-21 10:36:12,Specific conductivity,68.26,mS/cm
+2021-10-21 10:36:12,Salinity,46.52,ppt
+2021-10-21 10:36:12,pH,7.93,pH
+2021-10-21 10:36:12,Turbidity,-5.2,NTU
+2021-10-21 10:36:12,Chlorophyll,-8.9,ug/L
+2021-10-21 10:36:12,Blue-green algae,-7021,cells/mL
+2021-10-21 10:36:12,Dissolved oxygen,5.81,mg/L
+2021-10-21 10:36:12,Oxygen saturation,94.2,%
+2021-10-21 10:36:12,Water temperature,26.72,°C
+2021-10-21 10:36:12,Specific conductivity,68.26,mS/cm
+2021-10-21 10:36:12,Salinity,46.52,ppt
+2021-10-21 10:36:13,pH,7.94,pH
+2021-10-21 10:36:13,Turbidity,70.7,NTU
+2021-10-21 10:36:13,Chlorophyll,-3.9,ug/L
+2021-10-21 10:36:13,Blue-green algae,19505,cells/mL
+2021-10-21 10:36:13,Dissolved oxygen,6.72,mg/L
+2021-10-21 10:36:13,Oxygen saturation,93.9,%
+2021-10-21 10:36:13,Water temperature,26.73,°C
+2021-10-21 10:36:13,Specific conductivity,32.16,mS/cm
+2021-10-21 10:36:13,Salinity,20.02,ppt
+2021-10-21 10:36:15,pH,7.93,pH
+2021-10-21 10:36:15,Turbidity,-4.2,NTU
+2021-10-21 10:36:15,Chlorophyll,-0.4,ug/L
+2021-10-21 10:36:15,Blue-green algae,60960,cells/mL
+2021-10-21 10:36:15,Dissolved oxygen,5.85,mg/L
+2021-10-21 10:36:15,Oxygen saturation,94,%
+2021-10-21 10:36:15,Water temperature,26.7,°C
+2021-10-21 10:36:15,Specific conductivity,66.47,mS/cm
+2021-10-21 10:36:15,Salinity,45.12,ppt
+2021-10-21 10:36:15,pH,7.93,pH
+2021-10-21 10:36:15,Turbidity,-4.2,NTU
+2021-10-21 10:36:15,Chlorophyll,-0.4,ug/L
+2021-10-21 10:36:15,Blue-green algae,60960,cells/mL
+2021-10-21 10:36:15,Dissolved oxygen,5.85,mg/L
+2021-10-21 10:36:15,Oxygen saturation,94,%
+2021-10-21 10:36:15,Water temperature,26.7,°C
+2021-10-21 10:36:15,Specific conductivity,66.47,mS/cm
+2021-10-21 10:36:15,Salinity,45.12,ppt
+2021-10-21 10:36:17,pH,7.93,pH
+2021-10-21 10:36:17,Turbidity,-3.9,NTU
+2021-10-21 10:36:17,Chlorophyll,1.5,ug/L
+2021-10-21 10:36:17,Blue-green algae,27007,cells/mL
+2021-10-21 10:36:17,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:36:17,Oxygen saturation,93.8,%
+2021-10-21 10:36:17,Water temperature,26.7,°C
+2021-10-21 10:36:17,Specific conductivity,68.29,mS/cm
+2021-10-21 10:36:17,Salinity,46.54,ppt
+2021-10-21 10:36:17,pH,7.93,pH
+2021-10-21 10:36:17,Turbidity,-3.9,NTU
+2021-10-21 10:36:17,Chlorophyll,1.5,ug/L
+2021-10-21 10:36:17,Blue-green algae,27007,cells/mL
+2021-10-21 10:36:17,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:36:17,Oxygen saturation,93.8,%
+2021-10-21 10:36:17,Water temperature,26.7,°C
+2021-10-21 10:36:17,Specific conductivity,68.29,mS/cm
+2021-10-21 10:36:17,Salinity,46.54,ppt
+2021-10-21 10:36:19,pH,7.93,pH
+2021-10-21 10:36:19,Turbidity,-4.3,NTU
+2021-10-21 10:36:19,Chlorophyll,12,ug/L
+2021-10-21 10:36:19,Blue-green algae,111413,cells/mL
+2021-10-21 10:36:19,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:36:19,Oxygen saturation,93.7,%
+2021-10-21 10:36:19,Water temperature,26.72,°C
+2021-10-21 10:36:19,Specific conductivity,67.41,mS/cm
+2021-10-21 10:36:19,Salinity,45.86,ppt
+2021-10-21 10:36:19,pH,7.93,pH
+2021-10-21 10:36:19,Turbidity,-4.3,NTU
+2021-10-21 10:36:19,Chlorophyll,12,ug/L
+2021-10-21 10:36:19,Blue-green algae,111413,cells/mL
+2021-10-21 10:36:19,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:36:19,Oxygen saturation,93.7,%
+2021-10-21 10:36:19,Water temperature,26.72,°C
+2021-10-21 10:36:19,Specific conductivity,67.41,mS/cm
+2021-10-21 10:36:19,Salinity,45.86,ppt
+2021-10-21 10:36:20,pH,7.93,pH
+2021-10-21 10:36:20,Turbidity,-5.6,NTU
+2021-10-21 10:36:20,Chlorophyll,33.2,ug/L
+2021-10-21 10:36:20,Blue-green algae,123778,cells/mL
+2021-10-21 10:36:20,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:36:20,Oxygen saturation,93.6,%
+2021-10-21 10:36:20,Water temperature,26.72,°C
+2021-10-21 10:36:20,Specific conductivity,68.23,mS/cm
+2021-10-21 10:36:20,Salinity,46.49,ppt
+2021-10-21 10:36:22,pH,7.93,pH
+2021-10-21 10:36:22,Turbidity,-4.3,NTU
+2021-10-21 10:36:22,Chlorophyll,125.7,ug/L
+2021-10-21 10:36:22,Blue-green algae,179768,cells/mL
+2021-10-21 10:36:22,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:36:22,Oxygen saturation,93.6,%
+2021-10-21 10:36:22,Water temperature,26.72,°C
+2021-10-21 10:36:22,Specific conductivity,68.2,mS/cm
+2021-10-21 10:36:22,Salinity,46.47,ppt
+2021-10-21 10:36:22,pH,7.93,pH
+2021-10-21 10:36:22,Turbidity,-4.3,NTU
+2021-10-21 10:36:22,Chlorophyll,125.7,ug/L
+2021-10-21 10:36:22,Blue-green algae,179768,cells/mL
+2021-10-21 10:36:22,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:36:22,Oxygen saturation,93.6,%
+2021-10-21 10:36:22,Water temperature,26.72,°C
+2021-10-21 10:36:22,Specific conductivity,68.2,mS/cm
+2021-10-21 10:36:22,Salinity,46.47,ppt
+2021-10-21 10:36:23,pH,7.93,pH
+2021-10-21 10:36:23,Turbidity,-5.2,NTU
+2021-10-21 10:36:23,Chlorophyll,-5,ug/L
+2021-10-21 10:36:23,Blue-green algae,9336,cells/mL
+2021-10-21 10:36:23,Dissolved oxygen,5.78,mg/L
+2021-10-21 10:36:23,Oxygen saturation,93.6,%
+2021-10-21 10:36:23,Water temperature,26.71,°C
+2021-10-21 10:36:23,Specific conductivity,68.18,mS/cm
+2021-10-21 10:36:23,Salinity,46.46,ppt
+2021-10-21 10:36:24,pH,7.93,pH
+2021-10-21 10:36:24,Turbidity,-3.3,NTU
+2021-10-21 10:36:24,Chlorophyll,-2.4,ug/L
+2021-10-21 10:36:24,Blue-green algae,1285,cells/mL
+2021-10-21 10:36:24,Dissolved oxygen,5.91,mg/L
+2021-10-21 10:36:24,Oxygen saturation,93.5,%
+2021-10-21 10:36:24,Water temperature,26.72,°C
+2021-10-21 10:36:24,Specific conductivity,62.6,mS/cm
+2021-10-21 10:36:24,Salinity,42.14,ppt
+2021-10-21 10:36:26,pH,7.93,pH
+2021-10-21 10:36:26,Turbidity,-4.7,NTU
+2021-10-21 10:36:26,Chlorophyll,-4.2,ug/L
+2021-10-21 10:36:26,Blue-green algae,1069,cells/mL
+2021-10-21 10:36:26,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:36:26,Oxygen saturation,93.5,%
+2021-10-21 10:36:26,Water temperature,26.7,°C
+2021-10-21 10:36:26,Specific conductivity,68.22,mS/cm
+2021-10-21 10:36:26,Salinity,46.49,ppt
+2021-10-21 10:36:26,pH,7.93,pH
+2021-10-21 10:36:26,Turbidity,-4.7,NTU
+2021-10-21 10:36:26,Chlorophyll,-4.2,ug/L
+2021-10-21 10:36:26,Blue-green algae,1069,cells/mL
+2021-10-21 10:36:26,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:36:26,Oxygen saturation,93.5,%
+2021-10-21 10:36:26,Water temperature,26.7,°C
+2021-10-21 10:36:26,Specific conductivity,68.22,mS/cm
+2021-10-21 10:36:26,Salinity,46.49,ppt
+2021-10-21 10:36:28,pH,7.93,pH
+2021-10-21 10:36:28,Turbidity,-5.1,NTU
+2021-10-21 10:36:28,Chlorophyll,110.8,ug/L
+2021-10-21 10:36:28,Blue-green algae,113904,cells/mL
+2021-10-21 10:36:28,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:36:28,Oxygen saturation,93.5,%
+2021-10-21 10:36:28,Water temperature,26.69,°C
+2021-10-21 10:36:28,Specific conductivity,68.22,mS/cm
+2021-10-21 10:36:28,Salinity,46.49,ppt
+2021-10-21 10:36:28,pH,7.93,pH
+2021-10-21 10:36:28,Turbidity,-5.1,NTU
+2021-10-21 10:36:28,Chlorophyll,110.8,ug/L
+2021-10-21 10:36:28,Blue-green algae,113904,cells/mL
+2021-10-21 10:36:28,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:36:28,Oxygen saturation,93.5,%
+2021-10-21 10:36:28,Water temperature,26.69,°C
+2021-10-21 10:36:28,Specific conductivity,68.22,mS/cm
+2021-10-21 10:36:28,Salinity,46.49,ppt
+2021-10-21 10:36:29,pH,7.93,pH
+2021-10-21 10:36:29,Turbidity,-4.8,NTU
+2021-10-21 10:36:29,Chlorophyll,34.6,ug/L
+2021-10-21 10:36:29,Blue-green algae,85317,cells/mL
+2021-10-21 10:36:29,Dissolved oxygen,6.32,mg/L
+2021-10-21 10:36:29,Oxygen saturation,93.3,%
+2021-10-21 10:36:29,Water temperature,26.69,°C
+2021-10-21 10:36:29,Specific conductivity,46.4,mS/cm
+2021-10-21 10:36:29,Salinity,30.07,ppt
+2021-10-21 10:36:31,pH,7.92,pH
+2021-10-21 10:36:31,Turbidity,-5.7,NTU
+2021-10-21 10:36:31,Chlorophyll,48.1,ug/L
+2021-10-21 10:36:31,Blue-green algae,94208,cells/mL
+2021-10-21 10:36:31,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:36:31,Oxygen saturation,93.1,%
+2021-10-21 10:36:31,Water temperature,26.7,°C
+2021-10-21 10:36:31,Specific conductivity,68.21,mS/cm
+2021-10-21 10:36:31,Salinity,46.48,ppt
+2021-10-21 10:36:32,pH,7.92,pH
+2021-10-21 10:36:32,Turbidity,-4.1,NTU
+2021-10-21 10:36:32,Chlorophyll,-4.4,ug/L
+2021-10-21 10:36:32,Blue-green algae,20370,cells/mL
+2021-10-21 10:36:32,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:32,Oxygen saturation,93.1,%
+2021-10-21 10:36:32,Water temperature,26.71,°C
+2021-10-21 10:36:32,Specific conductivity,68.21,mS/cm
+2021-10-21 10:36:32,Salinity,46.48,ppt
+2021-10-21 10:36:32,pH,7.92,pH
+2021-10-21 10:36:32,Turbidity,-4.1,NTU
+2021-10-21 10:36:32,Chlorophyll,-4.4,ug/L
+2021-10-21 10:36:32,Blue-green algae,20370,cells/mL
+2021-10-21 10:36:32,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:32,Oxygen saturation,93.1,%
+2021-10-21 10:36:32,Water temperature,26.71,°C
+2021-10-21 10:36:32,Specific conductivity,68.21,mS/cm
+2021-10-21 10:36:32,Salinity,46.48,ppt
+2021-10-21 10:36:33,pH,7.92,pH
+2021-10-21 10:36:33,Turbidity,-2.4,NTU
+2021-10-21 10:36:33,Chlorophyll,9.5,ug/L
+2021-10-21 10:36:33,Blue-green algae,14476,cells/mL
+2021-10-21 10:36:33,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:36:33,Oxygen saturation,93.1,%
+2021-10-21 10:36:33,Water temperature,26.7,°C
+2021-10-21 10:36:33,Specific conductivity,66.09,mS/cm
+2021-10-21 10:36:33,Salinity,44.83,ppt
+2021-10-21 10:36:35,pH,7.92,pH
+2021-10-21 10:36:35,Turbidity,-4.8,NTU
+2021-10-21 10:36:35,Chlorophyll,-4.3,ug/L
+2021-10-21 10:36:35,Blue-green algae,1911,cells/mL
+2021-10-21 10:36:35,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:36:35,Oxygen saturation,93,%
+2021-10-21 10:36:35,Water temperature,26.71,°C
+2021-10-21 10:36:35,Specific conductivity,67.77,mS/cm
+2021-10-21 10:36:35,Salinity,46.14,ppt
+2021-10-21 10:36:36,pH,7.92,pH
+2021-10-21 10:36:36,Turbidity,-4.3,NTU
+2021-10-21 10:36:36,Chlorophyll,-3.2,ug/L
+2021-10-21 10:36:36,Blue-green algae,776,cells/mL
+2021-10-21 10:36:36,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:36:36,Oxygen saturation,93,%
+2021-10-21 10:36:36,Water temperature,26.71,°C
+2021-10-21 10:36:36,Specific conductivity,67.87,mS/cm
+2021-10-21 10:36:36,Salinity,46.21,ppt
+2021-10-21 10:36:36,pH,7.92,pH
+2021-10-21 10:36:36,Turbidity,-4.3,NTU
+2021-10-21 10:36:36,Chlorophyll,-3.2,ug/L
+2021-10-21 10:36:36,Blue-green algae,776,cells/mL
+2021-10-21 10:36:36,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:36:36,Oxygen saturation,93,%
+2021-10-21 10:36:36,Water temperature,26.71,°C
+2021-10-21 10:36:36,Specific conductivity,67.87,mS/cm
+2021-10-21 10:36:36,Salinity,46.21,ppt
+2021-10-21 10:36:38,pH,7.92,pH
+2021-10-21 10:36:38,Turbidity,-4.1,NTU
+2021-10-21 10:36:38,Chlorophyll,11.2,ug/L
+2021-10-21 10:36:38,Blue-green algae,7419,cells/mL
+2021-10-21 10:36:38,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:38,Oxygen saturation,93.1,%
+2021-10-21 10:36:38,Water temperature,26.7,°C
+2021-10-21 10:36:38,Specific conductivity,68.19,mS/cm
+2021-10-21 10:36:38,Salinity,46.47,ppt
+2021-10-21 10:36:38,pH,7.92,pH
+2021-10-21 10:36:38,Turbidity,-4.1,NTU
+2021-10-21 10:36:38,Chlorophyll,11.2,ug/L
+2021-10-21 10:36:38,Blue-green algae,7419,cells/mL
+2021-10-21 10:36:38,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:38,Oxygen saturation,93.1,%
+2021-10-21 10:36:38,Water temperature,26.7,°C
+2021-10-21 10:36:38,Specific conductivity,68.19,mS/cm
+2021-10-21 10:36:38,Salinity,46.47,ppt
+2021-10-21 10:36:39,pH,7.92,pH
+2021-10-21 10:36:39,Turbidity,-4.5,NTU
+2021-10-21 10:36:39,Chlorophyll,-2.5,ug/L
+2021-10-21 10:36:39,Blue-green algae,22126,cells/mL
+2021-10-21 10:36:39,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:39,Oxygen saturation,93,%
+2021-10-21 10:36:39,Water temperature,26.71,°C
+2021-10-21 10:36:39,Specific conductivity,68.13,mS/cm
+2021-10-21 10:36:39,Salinity,46.42,ppt
+2021-10-21 10:36:40,pH,7.92,pH
+2021-10-21 10:36:40,Turbidity,-4.6,NTU
+2021-10-21 10:36:40,Chlorophyll,-2.4,ug/L
+2021-10-21 10:36:40,Blue-green algae,-2018,cells/mL
+2021-10-21 10:36:40,Dissolved oxygen,6.01,mg/L
+2021-10-21 10:36:40,Oxygen saturation,93,%
+2021-10-21 10:36:40,Water temperature,26.71,°C
+2021-10-21 10:36:40,Specific conductivity,57.56,mS/cm
+2021-10-21 10:36:40,Salinity,38.32,ppt
+2021-10-21 10:36:42,pH,7.92,pH
+2021-10-21 10:36:42,Turbidity,-5.2,NTU
+2021-10-21 10:36:42,Chlorophyll,-3,ug/L
+2021-10-21 10:36:42,Blue-green algae,52939,cells/mL
+2021-10-21 10:36:42,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:36:42,Oxygen saturation,92.9,%
+2021-10-21 10:36:42,Water temperature,26.72,°C
+2021-10-21 10:36:42,Specific conductivity,68.16,mS/cm
+2021-10-21 10:36:42,Salinity,46.44,ppt
+2021-10-21 10:36:42,pH,7.92,pH
+2021-10-21 10:36:42,Turbidity,-5.2,NTU
+2021-10-21 10:36:42,Chlorophyll,-3,ug/L
+2021-10-21 10:36:42,Blue-green algae,52939,cells/mL
+2021-10-21 10:36:42,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:36:42,Oxygen saturation,92.9,%
+2021-10-21 10:36:42,Water temperature,26.72,°C
+2021-10-21 10:36:42,Specific conductivity,68.16,mS/cm
+2021-10-21 10:36:42,Salinity,46.44,ppt
+2021-10-21 10:36:43,pH,7.92,pH
+2021-10-21 10:36:43,Turbidity,-5.5,NTU
+2021-10-21 10:36:43,Chlorophyll,-8.6,ug/L
+2021-10-21 10:36:43,Blue-green algae,4101,cells/mL
+2021-10-21 10:36:43,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:43,Oxygen saturation,93,%
+2021-10-21 10:36:43,Water temperature,26.7,°C
+2021-10-21 10:36:43,Specific conductivity,68.13,mS/cm
+2021-10-21 10:36:43,Salinity,46.42,ppt
+2021-10-21 10:36:45,pH,7.92,pH
+2021-10-21 10:36:45,Turbidity,-6.3,NTU
+2021-10-21 10:36:45,Chlorophyll,-2.1,ug/L
+2021-10-21 10:36:45,Blue-green algae,57589,cells/mL
+2021-10-21 10:36:45,Dissolved oxygen,6.85,mg/L
+2021-10-21 10:36:45,Oxygen saturation,92.9,%
+2021-10-21 10:36:45,Water temperature,26.72,°C
+2021-10-21 10:36:45,Specific conductivity,24.57,mS/cm
+2021-10-21 10:36:45,Salinity,14.89,ppt
+2021-10-21 10:36:45,pH,7.92,pH
+2021-10-21 10:36:45,Turbidity,-6.3,NTU
+2021-10-21 10:36:45,Chlorophyll,-2.1,ug/L
+2021-10-21 10:36:45,Blue-green algae,57589,cells/mL
+2021-10-21 10:36:45,Dissolved oxygen,6.85,mg/L
+2021-10-21 10:36:45,Oxygen saturation,92.9,%
+2021-10-21 10:36:45,Water temperature,26.72,°C
+2021-10-21 10:36:45,Specific conductivity,24.57,mS/cm
+2021-10-21 10:36:45,Salinity,14.89,ppt
+2021-10-21 10:36:47,pH,7.92,pH
+2021-10-21 10:36:47,Turbidity,-3.8,NTU
+2021-10-21 10:36:47,Chlorophyll,-6.6,ug/L
+2021-10-21 10:36:47,Blue-green algae,54894,cells/mL
+2021-10-21 10:36:47,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:47,Oxygen saturation,93,%
+2021-10-21 10:36:47,Water temperature,26.7,°C
+2021-10-21 10:36:47,Specific conductivity,68.17,mS/cm
+2021-10-21 10:36:47,Salinity,46.45,ppt
+2021-10-21 10:36:47,pH,7.92,pH
+2021-10-21 10:36:47,Turbidity,-3.8,NTU
+2021-10-21 10:36:47,Chlorophyll,-6.6,ug/L
+2021-10-21 10:36:47,Blue-green algae,54894,cells/mL
+2021-10-21 10:36:47,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:47,Oxygen saturation,93,%
+2021-10-21 10:36:47,Water temperature,26.7,°C
+2021-10-21 10:36:47,Specific conductivity,68.17,mS/cm
+2021-10-21 10:36:47,Salinity,46.45,ppt
+2021-10-21 10:36:48,pH,7.92,pH
+2021-10-21 10:36:48,Turbidity,-5.1,NTU
+2021-10-21 10:36:48,Chlorophyll,-5.7,ug/L
+2021-10-21 10:36:48,Blue-green algae,13648,cells/mL
+2021-10-21 10:36:48,Dissolved oxygen,6.07,mg/L
+2021-10-21 10:36:48,Oxygen saturation,93,%
+2021-10-21 10:36:48,Water temperature,26.72,°C
+2021-10-21 10:36:48,Specific conductivity,55.12,mS/cm
+2021-10-21 10:36:48,Salinity,36.49,ppt
+2021-10-21 10:36:50,pH,7.92,pH
+2021-10-21 10:36:50,Turbidity,-3.9,NTU
+2021-10-21 10:36:50,Chlorophyll,-3.9,ug/L
+2021-10-21 10:36:50,Blue-green algae,-1712,cells/mL
+2021-10-21 10:36:50,Dissolved oxygen,6.51,mg/L
+2021-10-21 10:36:50,Oxygen saturation,93,%
+2021-10-21 10:36:50,Water temperature,26.72,°C
+2021-10-21 10:36:50,Specific conductivity,37.7,mS/cm
+2021-10-21 10:36:50,Salinity,23.86,ppt
+2021-10-21 10:36:50,pH,7.92,pH
+2021-10-21 10:36:50,Turbidity,-3.9,NTU
+2021-10-21 10:36:50,Chlorophyll,-3.9,ug/L
+2021-10-21 10:36:50,Blue-green algae,-1712,cells/mL
+2021-10-21 10:36:50,Dissolved oxygen,6.51,mg/L
+2021-10-21 10:36:50,Oxygen saturation,93,%
+2021-10-21 10:36:50,Water temperature,26.72,°C
+2021-10-21 10:36:50,Specific conductivity,37.7,mS/cm
+2021-10-21 10:36:50,Salinity,23.86,ppt
+2021-10-21 10:36:52,pH,7.92,pH
+2021-10-21 10:36:52,Turbidity,-3.7,NTU
+2021-10-21 10:36:52,Chlorophyll,-8.2,ug/L
+2021-10-21 10:36:52,Blue-green algae,-4993,cells/mL
+2021-10-21 10:36:52,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:36:52,Oxygen saturation,92.9,%
+2021-10-21 10:36:52,Water temperature,26.71,°C
+2021-10-21 10:36:52,Specific conductivity,68.14,mS/cm
+2021-10-21 10:36:52,Salinity,46.43,ppt
+2021-10-21 10:36:52,pH,7.92,pH
+2021-10-21 10:36:52,Turbidity,-3.7,NTU
+2021-10-21 10:36:52,Chlorophyll,-8.2,ug/L
+2021-10-21 10:36:52,Blue-green algae,-4993,cells/mL
+2021-10-21 10:36:52,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:36:52,Oxygen saturation,92.9,%
+2021-10-21 10:36:52,Water temperature,26.71,°C
+2021-10-21 10:36:52,Specific conductivity,68.14,mS/cm
+2021-10-21 10:36:52,Salinity,46.43,ppt
+2021-10-21 10:36:53,pH,7.91,pH
+2021-10-21 10:36:53,Turbidity,-4.8,NTU
+2021-10-21 10:36:53,Chlorophyll,1,ug/L
+2021-10-21 10:36:53,Blue-green algae,-698,cells/mL
+2021-10-21 10:36:53,Dissolved oxygen,5.96,mg/L
+2021-10-21 10:36:53,Oxygen saturation,92.8,%
+2021-10-21 10:36:53,Water temperature,26.69,°C
+2021-10-21 10:36:53,Specific conductivity,59.2,mS/cm
+2021-10-21 10:36:53,Salinity,39.56,ppt
+2021-10-21 10:36:55,pH,7.91,pH
+2021-10-21 10:36:55,Turbidity,-3.1,NTU
+2021-10-21 10:36:55,Chlorophyll,-3.2,ug/L
+2021-10-21 10:36:55,Blue-green algae,14505,cells/mL
+2021-10-21 10:36:55,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:36:55,Oxygen saturation,92.8,%
+2021-10-21 10:36:55,Water temperature,26.7,°C
+2021-10-21 10:36:55,Specific conductivity,68.14,mS/cm
+2021-10-21 10:36:55,Salinity,46.43,ppt
+2021-10-21 10:36:56,pH,7.91,pH
+2021-10-21 10:36:56,Turbidity,-5.4,NTU
+2021-10-21 10:36:56,Chlorophyll,-2.4,ug/L
+2021-10-21 10:36:56,Blue-green algae,9694,cells/mL
+2021-10-21 10:36:56,Dissolved oxygen,5.82,mg/L
+2021-10-21 10:36:56,Oxygen saturation,92.9,%
+2021-10-21 10:36:56,Water temperature,26.7,°C
+2021-10-21 10:36:56,Specific conductivity,64.78,mS/cm
+2021-10-21 10:36:56,Salinity,43.82,ppt
+2021-10-21 10:36:57,pH,7.91,pH
+2021-10-21 10:36:57,Turbidity,-6.4,NTU
+2021-10-21 10:36:57,Chlorophyll,-7.8,ug/L
+2021-10-21 10:36:57,Blue-green algae,110666,cells/mL
+2021-10-21 10:36:57,Dissolved oxygen,7.21,mg/L
+2021-10-21 10:36:57,Oxygen saturation,92.8,%
+2021-10-21 10:36:57,Water temperature,26.71,°C
+2021-10-21 10:36:57,Specific conductivity,9.957,mS/cm
+2021-10-21 10:36:57,Salinity,5.59,ppt
+2021-10-21 10:36:58,pH,7.91,pH
+2021-10-21 10:36:58,Turbidity,-3.8,NTU
+2021-10-21 10:36:58,Chlorophyll,-1.5,ug/L
+2021-10-21 10:36:58,Blue-green algae,92807,cells/mL
+2021-10-21 10:36:58,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:36:58,Oxygen saturation,92.8,%
+2021-10-21 10:36:58,Water temperature,26.69,°C
+2021-10-21 10:36:58,Specific conductivity,67.87,mS/cm
+2021-10-21 10:36:58,Salinity,46.22,ppt
+2021-10-21 10:36:59,pH,7.91,pH
+2021-10-21 10:36:59,Turbidity,-4.7,NTU
+2021-10-21 10:36:59,Chlorophyll,-4.8,ug/L
+2021-10-21 10:36:59,Blue-green algae,5724,cells/mL
+2021-10-21 10:36:59,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:36:59,Oxygen saturation,92.8,%
+2021-10-21 10:36:59,Water temperature,26.69,°C
+2021-10-21 10:36:59,Specific conductivity,68.16,mS/cm
+2021-10-21 10:36:59,Salinity,46.44,ppt
+2021-10-21 10:37:00,pH,7.91,pH
+2021-10-21 10:37:00,Turbidity,-4.8,NTU
+2021-10-21 10:37:00,Chlorophyll,0.3,ug/L
+2021-10-21 10:37:00,Blue-green algae,17921,cells/mL
+2021-10-21 10:37:00,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:37:00,Oxygen saturation,92.8,%
+2021-10-21 10:37:00,Water temperature,26.7,°C
+2021-10-21 10:37:00,Specific conductivity,68.13,mS/cm
+2021-10-21 10:37:00,Salinity,46.42,ppt
+2021-10-21 10:37:01,pH,7.91,pH
+2021-10-21 10:37:01,Turbidity,-4.2,NTU
+2021-10-21 10:37:01,Chlorophyll,-7.9,ug/L
+2021-10-21 10:37:01,Blue-green algae,4029,cells/mL
+2021-10-21 10:37:01,Dissolved oxygen,5.73,mg/L
+2021-10-21 10:37:01,Oxygen saturation,92.9,%
+2021-10-21 10:37:01,Water temperature,26.71,°C
+2021-10-21 10:37:01,Specific conductivity,68.09,mS/cm
+2021-10-21 10:37:01,Salinity,46.39,ppt
+2021-10-21 10:37:02,pH,7.91,pH
+2021-10-21 10:37:02,Turbidity,-5.1,NTU
+2021-10-21 10:37:02,Chlorophyll,19.3,ug/L
+2021-10-21 10:37:02,Blue-green algae,5766,cells/mL
+2021-10-21 10:37:02,Dissolved oxygen,5.77,mg/L
+2021-10-21 10:37:02,Oxygen saturation,92.8,%
+2021-10-21 10:37:02,Water temperature,26.68,°C
+2021-10-21 10:37:02,Specific conductivity,66.84,mS/cm
+2021-10-21 10:37:02,Salinity,45.42,ppt
+2021-10-21 10:37:03,pH,7.91,pH
+2021-10-21 10:37:03,Turbidity,-10.1,NTU
+2021-10-21 10:37:03,Chlorophyll,-1.6,ug/L
+2021-10-21 10:37:03,Blue-green algae,131940,cells/mL
+2021-10-21 10:37:03,Dissolved oxygen,5.95,mg/L
+2021-10-21 10:37:03,Oxygen saturation,92.7,%
+2021-10-21 10:37:03,Water temperature,26.68,°C
+2021-10-21 10:37:03,Specific conductivity,59.13,mS/cm
+2021-10-21 10:37:03,Salinity,39.5,ppt
+2021-10-21 10:37:04,pH,7.91,pH
+2021-10-21 10:37:04,Turbidity,-4.4,NTU
+2021-10-21 10:37:04,Chlorophyll,32.5,ug/L
+2021-10-21 10:37:04,Blue-green algae,31127,cells/mL
+2021-10-21 10:37:04,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:04,Oxygen saturation,92.7,%
+2021-10-21 10:37:04,Water temperature,26.67,°C
+2021-10-21 10:37:04,Specific conductivity,68.15,mS/cm
+2021-10-21 10:37:04,Salinity,46.43,ppt
+2021-10-21 10:37:05,pH,7.91,pH
+2021-10-21 10:37:05,Turbidity,-5.2,NTU
+2021-10-21 10:37:05,Chlorophyll,50.5,ug/L
+2021-10-21 10:37:05,Blue-green algae,52919,cells/mL
+2021-10-21 10:37:05,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:05,Oxygen saturation,92.6,%
+2021-10-21 10:37:05,Water temperature,26.69,°C
+2021-10-21 10:37:05,Specific conductivity,68.12,mS/cm
+2021-10-21 10:37:05,Salinity,46.41,ppt
+2021-10-21 10:37:06,pH,7.91,pH
+2021-10-21 10:37:06,Turbidity,5.5,NTU
+2021-10-21 10:37:06,Chlorophyll,83.9,ug/L
+2021-10-21 10:37:06,Blue-green algae,163807,cells/mL
+2021-10-21 10:37:06,Dissolved oxygen,5.86,mg/L
+2021-10-21 10:37:06,Oxygen saturation,92.7,%
+2021-10-21 10:37:06,Water temperature,26.69,°C
+2021-10-21 10:37:06,Specific conductivity,62.59,mS/cm
+2021-10-21 10:37:06,Salinity,42.13,ppt
+2021-10-21 10:37:07,pH,7.91,pH
+2021-10-21 10:37:07,Turbidity,-3,NTU
+2021-10-21 10:37:07,Chlorophyll,-0.1,ug/L
+2021-10-21 10:37:07,Blue-green algae,-1822,cells/mL
+2021-10-21 10:37:07,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:07,Oxygen saturation,92.7,%
+2021-10-21 10:37:07,Water temperature,26.7,°C
+2021-10-21 10:37:07,Specific conductivity,68.11,mS/cm
+2021-10-21 10:37:07,Salinity,46.41,ppt
+2021-10-21 10:37:08,pH,7.91,pH
+2021-10-21 10:37:08,Turbidity,-2.9,NTU
+2021-10-21 10:37:08,Chlorophyll,25.7,ug/L
+2021-10-21 10:37:08,Blue-green algae,104368,cells/mL
+2021-10-21 10:37:08,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:08,Oxygen saturation,92.5,%
+2021-10-21 10:37:08,Water temperature,26.7,°C
+2021-10-21 10:37:08,Specific conductivity,67.66,mS/cm
+2021-10-21 10:37:08,Salinity,46.06,ppt
+2021-10-21 10:37:09,pH,7.91,pH
+2021-10-21 10:37:09,Turbidity,-3.3,NTU
+2021-10-21 10:37:09,Chlorophyll,1.2,ug/L
+2021-10-21 10:37:09,Blue-green algae,76037,cells/mL
+2021-10-21 10:37:09,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:09,Oxygen saturation,92.4,%
+2021-10-21 10:37:09,Water temperature,26.7,°C
+2021-10-21 10:37:09,Specific conductivity,68.1,mS/cm
+2021-10-21 10:37:09,Salinity,46.4,ppt
+2021-10-21 10:37:10,pH,7.91,pH
+2021-10-21 10:37:10,Turbidity,-3.5,NTU
+2021-10-21 10:37:10,Chlorophyll,-0.8,ug/L
+2021-10-21 10:37:10,Blue-green algae,25965,cells/mL
+2021-10-21 10:37:10,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:10,Oxygen saturation,92.4,%
+2021-10-21 10:37:10,Water temperature,26.69,°C
+2021-10-21 10:37:10,Specific conductivity,68.1,mS/cm
+2021-10-21 10:37:10,Salinity,46.4,ppt
+2021-10-21 10:37:11,pH,7.91,pH
+2021-10-21 10:37:11,Turbidity,-3.9,NTU
+2021-10-21 10:37:11,Chlorophyll,-6.3,ug/L
+2021-10-21 10:37:11,Blue-green algae,39026,cells/mL
+2021-10-21 10:37:11,Dissolved oxygen,6.12,mg/L
+2021-10-21 10:37:11,Oxygen saturation,92.4,%
+2021-10-21 10:37:11,Water temperature,26.7,°C
+2021-10-21 10:37:11,Specific conductivity,51.73,mS/cm
+2021-10-21 10:37:11,Salinity,33.97,ppt
+2021-10-21 10:37:12,pH,7.91,pH
+2021-10-21 10:37:12,Turbidity,-2.3,NTU
+2021-10-21 10:37:12,Chlorophyll,5.6,ug/L
+2021-10-21 10:37:12,Blue-green algae,11527,cells/mL
+2021-10-21 10:37:12,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:12,Oxygen saturation,92.5,%
+2021-10-21 10:37:12,Water temperature,26.7,°C
+2021-10-21 10:37:12,Specific conductivity,68.1,mS/cm
+2021-10-21 10:37:12,Salinity,46.39,ppt
+2021-10-21 10:37:13,pH,7.91,pH
+2021-10-21 10:37:13,Turbidity,-4.1,NTU
+2021-10-21 10:37:13,Chlorophyll,69.6,ug/L
+2021-10-21 10:37:13,Blue-green algae,128017,cells/mL
+2021-10-21 10:37:13,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:13,Oxygen saturation,92.6,%
+2021-10-21 10:37:13,Water temperature,26.7,°C
+2021-10-21 10:37:13,Specific conductivity,68.1,mS/cm
+2021-10-21 10:37:13,Salinity,46.4,ppt
+2021-10-21 10:37:14,pH,7.91,pH
+2021-10-21 10:37:14,Turbidity,-3.6,NTU
+2021-10-21 10:37:14,Chlorophyll,-3.7,ug/L
+2021-10-21 10:37:14,Blue-green algae,28515,cells/mL
+2021-10-21 10:37:14,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:14,Oxygen saturation,92.5,%
+2021-10-21 10:37:14,Water temperature,26.7,°C
+2021-10-21 10:37:14,Specific conductivity,67.9,mS/cm
+2021-10-21 10:37:14,Salinity,46.24,ppt
+2021-10-21 10:37:15,pH,7.91,pH
+2021-10-21 10:37:15,Turbidity,-3.6,NTU
+2021-10-21 10:37:15,Chlorophyll,-13.3,ug/L
+2021-10-21 10:37:15,Blue-green algae,2112,cells/mL
+2021-10-21 10:37:15,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:15,Oxygen saturation,92.5,%
+2021-10-21 10:37:15,Water temperature,26.71,°C
+2021-10-21 10:37:15,Specific conductivity,68.07,mS/cm
+2021-10-21 10:37:15,Salinity,46.38,ppt
+2021-10-21 10:37:16,pH,7.9,pH
+2021-10-21 10:37:16,Turbidity,-2.4,NTU
+2021-10-21 10:37:16,Chlorophyll,34.8,ug/L
+2021-10-21 10:37:16,Blue-green algae,127457,cells/mL
+2021-10-21 10:37:16,Dissolved oxygen,5.98,mg/L
+2021-10-21 10:37:16,Oxygen saturation,92.5,%
+2021-10-21 10:37:16,Water temperature,26.71,°C
+2021-10-21 10:37:16,Specific conductivity,57.44,mS/cm
+2021-10-21 10:37:16,Salinity,38.22,ppt
+2021-10-21 10:37:17,pH,7.9,pH
+2021-10-21 10:37:17,Turbidity,-2.6,NTU
+2021-10-21 10:37:17,Chlorophyll,-3,ug/L
+2021-10-21 10:37:17,Blue-green algae,962,cells/mL
+2021-10-21 10:37:17,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:37:17,Oxygen saturation,92.4,%
+2021-10-21 10:37:17,Water temperature,26.71,°C
+2021-10-21 10:37:17,Specific conductivity,64.67,mS/cm
+2021-10-21 10:37:17,Salinity,43.73,ppt
+2021-10-21 10:37:18,pH,7.91,pH
+2021-10-21 10:37:18,Turbidity,-2,NTU
+2021-10-21 10:37:18,Chlorophyll,-2.1,ug/L
+2021-10-21 10:37:18,Blue-green algae,119687,cells/mL
+2021-10-21 10:37:18,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:18,Oxygen saturation,92.5,%
+2021-10-21 10:37:18,Water temperature,26.71,°C
+2021-10-21 10:37:18,Specific conductivity,67.81,mS/cm
+2021-10-21 10:37:18,Salinity,46.17,ppt
+2021-10-21 10:37:19,pH,7.9,pH
+2021-10-21 10:37:19,Turbidity,-2.9,NTU
+2021-10-21 10:37:19,Chlorophyll,42.5,ug/L
+2021-10-21 10:37:19,Blue-green algae,65391,cells/mL
+2021-10-21 10:37:19,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:19,Oxygen saturation,92.5,%
+2021-10-21 10:37:19,Water temperature,26.71,°C
+2021-10-21 10:37:19,Specific conductivity,68.09,mS/cm
+2021-10-21 10:37:19,Salinity,46.39,ppt
+2021-10-21 10:37:20,pH,7.9,pH
+2021-10-21 10:37:20,Turbidity,-2.9,NTU
+2021-10-21 10:37:20,Chlorophyll,31.1,ug/L
+2021-10-21 10:37:20,Blue-green algae,64659,cells/mL
+2021-10-21 10:37:20,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:20,Oxygen saturation,92.6,%
+2021-10-21 10:37:20,Water temperature,26.69,°C
+2021-10-21 10:37:20,Specific conductivity,67.87,mS/cm
+2021-10-21 10:37:20,Salinity,46.22,ppt
+2021-10-21 10:37:21,pH,7.9,pH
+2021-10-21 10:37:21,Turbidity,-2.9,NTU
+2021-10-21 10:37:21,Chlorophyll,9.2,ug/L
+2021-10-21 10:37:21,Blue-green algae,117323,cells/mL
+2021-10-21 10:37:21,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:21,Oxygen saturation,92.6,%
+2021-10-21 10:37:21,Water temperature,26.7,°C
+2021-10-21 10:37:21,Specific conductivity,68.08,mS/cm
+2021-10-21 10:37:21,Salinity,46.38,ppt
+2021-10-21 10:37:22,pH,7.9,pH
+2021-10-21 10:37:22,Turbidity,-1.5,NTU
+2021-10-21 10:37:22,Chlorophyll,-4,ug/L
+2021-10-21 10:37:22,Blue-green algae,-1780,cells/mL
+2021-10-21 10:37:22,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:22,Oxygen saturation,92.5,%
+2021-10-21 10:37:22,Water temperature,26.68,°C
+2021-10-21 10:37:22,Specific conductivity,68.11,mS/cm
+2021-10-21 10:37:22,Salinity,46.4,ppt
+2021-10-21 10:37:23,pH,7.9,pH
+2021-10-21 10:37:23,Turbidity,10.5,NTU
+2021-10-21 10:37:23,Chlorophyll,-2.4,ug/L
+2021-10-21 10:37:23,Blue-green algae,12349,cells/mL
+2021-10-21 10:37:23,Dissolved oxygen,6.79,mg/L
+2021-10-21 10:37:23,Oxygen saturation,92.5,%
+2021-10-21 10:37:23,Water temperature,26.69,°C
+2021-10-21 10:37:23,Specific conductivity,25.48,mS/cm
+2021-10-21 10:37:23,Salinity,15.5,ppt
+2021-10-21 10:37:24,pH,7.9,pH
+2021-10-21 10:37:24,Turbidity,-4.3,NTU
+2021-10-21 10:37:24,Chlorophyll,-2.3,ug/L
+2021-10-21 10:37:24,Blue-green algae,21705,cells/mL
+2021-10-21 10:37:24,Dissolved oxygen,5.97,mg/L
+2021-10-21 10:37:24,Oxygen saturation,92.4,%
+2021-10-21 10:37:24,Water temperature,26.69,°C
+2021-10-21 10:37:24,Specific conductivity,57.78,mS/cm
+2021-10-21 10:37:24,Salinity,38.48,ppt
+2021-10-21 10:37:25,pH,7.9,pH
+2021-10-21 10:37:25,Turbidity,-4,NTU
+2021-10-21 10:37:25,Chlorophyll,6.1,ug/L
+2021-10-21 10:37:25,Blue-green algae,14560,cells/mL
+2021-10-21 10:37:25,Dissolved oxygen,5.74,mg/L
+2021-10-21 10:37:25,Oxygen saturation,92.5,%
+2021-10-21 10:37:25,Water temperature,26.7,°C
+2021-10-21 10:37:25,Specific conductivity,66.68,mS/cm
+2021-10-21 10:37:25,Salinity,45.29,ppt
+2021-10-21 10:37:26,pH,7.9,pH
+2021-10-21 10:37:26,Turbidity,-2.6,NTU
+2021-10-21 10:37:26,Chlorophyll,-4.7,ug/L
+2021-10-21 10:37:26,Blue-green algae,51859,cells/mL
+2021-10-21 10:37:26,Dissolved oxygen,6.2,mg/L
+2021-10-21 10:37:26,Oxygen saturation,92.5,%
+2021-10-21 10:37:26,Water temperature,26.7,°C
+2021-10-21 10:37:26,Specific conductivity,48.86,mS/cm
+2021-10-21 10:37:26,Salinity,31.86,ppt
+2021-10-21 10:37:27,pH,7.9,pH
+2021-10-21 10:37:27,Turbidity,-2.8,NTU
+2021-10-21 10:37:27,Chlorophyll,62.9,ug/L
+2021-10-21 10:37:27,Blue-green algae,212493,cells/mL
+2021-10-21 10:37:27,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:27,Oxygen saturation,92.5,%
+2021-10-21 10:37:27,Water temperature,26.7,°C
+2021-10-21 10:37:27,Specific conductivity,68.07,mS/cm
+2021-10-21 10:37:27,Salinity,46.37,ppt
+2021-10-21 10:37:28,pH,7.9,pH
+2021-10-21 10:37:28,Turbidity,-3.5,NTU
+2021-10-21 10:37:28,Chlorophyll,0.4,ug/L
+2021-10-21 10:37:28,Blue-green algae,33430,cells/mL
+2021-10-21 10:37:28,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:28,Oxygen saturation,92.4,%
+2021-10-21 10:37:28,Water temperature,26.7,°C
+2021-10-21 10:37:28,Specific conductivity,68.06,mS/cm
+2021-10-21 10:37:28,Salinity,46.37,ppt
+2021-10-21 10:37:29,pH,7.9,pH
+2021-10-21 10:37:29,Turbidity,-1.9,NTU
+2021-10-21 10:37:29,Chlorophyll,59.9,ug/L
+2021-10-21 10:37:29,Blue-green algae,70043,cells/mL
+2021-10-21 10:37:29,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:29,Oxygen saturation,92.3,%
+2021-10-21 10:37:29,Water temperature,26.7,°C
+2021-10-21 10:37:29,Specific conductivity,68.02,mS/cm
+2021-10-21 10:37:29,Salinity,46.34,ppt
+2021-10-21 10:37:30,pH,7.89,pH
+2021-10-21 10:37:30,Turbidity,-3.9,NTU
+2021-10-21 10:37:30,Chlorophyll,2.1,ug/L
+2021-10-21 10:37:30,Blue-green algae,67996,cells/mL
+2021-10-21 10:37:30,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:30,Oxygen saturation,92.3,%
+2021-10-21 10:37:30,Water temperature,26.71,°C
+2021-10-21 10:37:30,Specific conductivity,67.91,mS/cm
+2021-10-21 10:37:30,Salinity,46.25,ppt
+2021-10-21 10:37:32,pH,7.89,pH
+2021-10-21 10:37:32,Turbidity,-6.3,NTU
+2021-10-21 10:37:32,Chlorophyll,-4.5,ug/L
+2021-10-21 10:37:32,Blue-green algae,126426,cells/mL
+2021-10-21 10:37:32,Dissolved oxygen,6.88,mg/L
+2021-10-21 10:37:32,Oxygen saturation,92.2,%
+2021-10-21 10:37:32,Water temperature,26.71,°C
+2021-10-21 10:37:32,Specific conductivity,21.07,mS/cm
+2021-10-21 10:37:32,Salinity,12.59,ppt
+2021-10-21 10:37:32,pH,7.89,pH
+2021-10-21 10:37:32,Turbidity,-6.3,NTU
+2021-10-21 10:37:32,Chlorophyll,-4.5,ug/L
+2021-10-21 10:37:32,Blue-green algae,126426,cells/mL
+2021-10-21 10:37:32,Dissolved oxygen,6.88,mg/L
+2021-10-21 10:37:32,Oxygen saturation,92.2,%
+2021-10-21 10:37:32,Water temperature,26.71,°C
+2021-10-21 10:37:32,Specific conductivity,21.07,mS/cm
+2021-10-21 10:37:32,Salinity,12.59,ppt
+2021-10-21 10:37:34,pH,7.9,pH
+2021-10-21 10:37:34,Turbidity,-3.9,NTU
+2021-10-21 10:37:34,Chlorophyll,-9.9,ug/L
+2021-10-21 10:37:34,Blue-green algae,127570,cells/mL
+2021-10-21 10:37:34,Dissolved oxygen,6.2,mg/L
+2021-10-21 10:37:34,Oxygen saturation,92.3,%
+2021-10-21 10:37:34,Water temperature,26.7,°C
+2021-10-21 10:37:34,Specific conductivity,48.1,mS/cm
+2021-10-21 10:37:34,Salinity,31.31,ppt
+2021-10-21 10:37:34,pH,7.9,pH
+2021-10-21 10:37:34,Turbidity,-3.9,NTU
+2021-10-21 10:37:34,Chlorophyll,-9.9,ug/L
+2021-10-21 10:37:34,Blue-green algae,127570,cells/mL
+2021-10-21 10:37:34,Dissolved oxygen,6.2,mg/L
+2021-10-21 10:37:34,Oxygen saturation,92.3,%
+2021-10-21 10:37:34,Water temperature,26.7,°C
+2021-10-21 10:37:34,Specific conductivity,48.1,mS/cm
+2021-10-21 10:37:34,Salinity,31.31,ppt
+2021-10-21 10:37:36,pH,7.9,pH
+2021-10-21 10:37:36,Turbidity,75,NTU
+2021-10-21 10:37:36,Chlorophyll,19.5,ug/L
+2021-10-21 10:37:36,Blue-green algae,36272,cells/mL
+2021-10-21 10:37:36,Dissolved oxygen,5.97,mg/L
+2021-10-21 10:37:36,Oxygen saturation,92.4,%
+2021-10-21 10:37:36,Water temperature,26.69,°C
+2021-10-21 10:37:36,Specific conductivity,57.78,mS/cm
+2021-10-21 10:37:36,Salinity,38.48,ppt
+2021-10-21 10:37:36,pH,7.9,pH
+2021-10-21 10:37:36,Turbidity,75,NTU
+2021-10-21 10:37:36,Chlorophyll,19.5,ug/L
+2021-10-21 10:37:36,Blue-green algae,36272,cells/mL
+2021-10-21 10:37:36,Dissolved oxygen,5.97,mg/L
+2021-10-21 10:37:36,Oxygen saturation,92.4,%
+2021-10-21 10:37:36,Water temperature,26.69,°C
+2021-10-21 10:37:36,Specific conductivity,57.78,mS/cm
+2021-10-21 10:37:36,Salinity,38.48,ppt
+2021-10-21 10:37:37,pH,7.89,pH
+2021-10-21 10:37:37,Turbidity,-3.1,NTU
+2021-10-21 10:37:37,Chlorophyll,-4,ug/L
+2021-10-21 10:37:37,Blue-green algae,12838,cells/mL
+2021-10-21 10:37:37,Dissolved oxygen,5.79,mg/L
+2021-10-21 10:37:37,Oxygen saturation,92.4,%
+2021-10-21 10:37:37,Water temperature,26.69,°C
+2021-10-21 10:37:37,Specific conductivity,64.82,mS/cm
+2021-10-21 10:37:37,Salinity,43.85,ppt
+2021-10-21 10:37:39,pH,7.89,pH
+2021-10-21 10:37:39,Turbidity,-2.5,NTU
+2021-10-21 10:37:39,Chlorophyll,-3.1,ug/L
+2021-10-21 10:37:39,Blue-green algae,-1148,cells/mL
+2021-10-21 10:37:39,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:39,Oxygen saturation,92.3,%
+2021-10-21 10:37:39,Water temperature,26.7,°C
+2021-10-21 10:37:39,Specific conductivity,67.43,mS/cm
+2021-10-21 10:37:39,Salinity,45.88,ppt
+2021-10-21 10:37:39,pH,7.89,pH
+2021-10-21 10:37:39,Turbidity,-2.5,NTU
+2021-10-21 10:37:39,Chlorophyll,-3.1,ug/L
+2021-10-21 10:37:39,Blue-green algae,-1148,cells/mL
+2021-10-21 10:37:39,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:39,Oxygen saturation,92.3,%
+2021-10-21 10:37:39,Water temperature,26.7,°C
+2021-10-21 10:37:39,Specific conductivity,67.43,mS/cm
+2021-10-21 10:37:39,Salinity,45.88,ppt
+2021-10-21 10:37:41,pH,7.89,pH
+2021-10-21 10:37:41,Turbidity,-3,NTU
+2021-10-21 10:37:41,Chlorophyll,0.6,ug/L
+2021-10-21 10:37:41,Blue-green algae,-2495,cells/mL
+2021-10-21 10:37:41,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:41,Oxygen saturation,92.3,%
+2021-10-21 10:37:41,Water temperature,26.7,°C
+2021-10-21 10:37:41,Specific conductivity,68.04,mS/cm
+2021-10-21 10:37:41,Salinity,46.35,ppt
+2021-10-21 10:37:42,pH,7.89,pH
+2021-10-21 10:37:42,Turbidity,-8.9,NTU
+2021-10-21 10:37:42,Chlorophyll,-7.3,ug/L
+2021-10-21 10:37:42,Blue-green algae,91524,cells/mL
+2021-10-21 10:37:42,Dissolved oxygen,6.97,mg/L
+2021-10-21 10:37:42,Oxygen saturation,92.3,%
+2021-10-21 10:37:42,Water temperature,26.7,°C
+2021-10-21 10:37:42,Specific conductivity,17.77,mS/cm
+2021-10-21 10:37:42,Salinity,10.46,ppt
+2021-10-21 10:37:43,pH,7.89,pH
+2021-10-21 10:37:43,Turbidity,-2.8,NTU
+2021-10-21 10:37:43,Chlorophyll,-1.3,ug/L
+2021-10-21 10:37:43,Blue-green algae,3627,cells/mL
+2021-10-21 10:37:43,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:43,Oxygen saturation,92.3,%
+2021-10-21 10:37:43,Water temperature,26.69,°C
+2021-10-21 10:37:43,Specific conductivity,68.04,mS/cm
+2021-10-21 10:37:43,Salinity,46.35,ppt
+2021-10-21 10:37:43,pH,7.89,pH
+2021-10-21 10:37:43,Turbidity,-2.8,NTU
+2021-10-21 10:37:43,Chlorophyll,-1.3,ug/L
+2021-10-21 10:37:43,Blue-green algae,3627,cells/mL
+2021-10-21 10:37:43,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:43,Oxygen saturation,92.3,%
+2021-10-21 10:37:43,Water temperature,26.69,°C
+2021-10-21 10:37:43,Specific conductivity,68.04,mS/cm
+2021-10-21 10:37:43,Salinity,46.35,ppt
+2021-10-21 10:37:45,pH,7.89,pH
+2021-10-21 10:37:45,Turbidity,-1.9,NTU
+2021-10-21 10:37:45,Chlorophyll,2.5,ug/L
+2021-10-21 10:37:45,Blue-green algae,125699,cells/mL
+2021-10-21 10:37:45,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:45,Oxygen saturation,92.3,%
+2021-10-21 10:37:45,Water temperature,26.71,°C
+2021-10-21 10:37:45,Specific conductivity,67.26,mS/cm
+2021-10-21 10:37:45,Salinity,45.74,ppt
+2021-10-21 10:37:45,pH,7.89,pH
+2021-10-21 10:37:45,Turbidity,-1.9,NTU
+2021-10-21 10:37:45,Chlorophyll,2.5,ug/L
+2021-10-21 10:37:45,Blue-green algae,125699,cells/mL
+2021-10-21 10:37:45,Dissolved oxygen,5.72,mg/L
+2021-10-21 10:37:45,Oxygen saturation,92.3,%
+2021-10-21 10:37:45,Water temperature,26.71,°C
+2021-10-21 10:37:45,Specific conductivity,67.26,mS/cm
+2021-10-21 10:37:45,Salinity,45.74,ppt
+2021-10-21 10:37:46,pH,7.89,pH
+2021-10-21 10:37:46,Turbidity,-3.9,NTU
+2021-10-21 10:37:46,Chlorophyll,-2,ug/L
+2021-10-21 10:37:46,Blue-green algae,93355,cells/mL
+2021-10-21 10:37:46,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:46,Oxygen saturation,92.3,%
+2021-10-21 10:37:46,Water temperature,26.69,°C
+2021-10-21 10:37:46,Specific conductivity,68.03,mS/cm
+2021-10-21 10:37:46,Salinity,46.34,ppt
+2021-10-21 10:37:48,pH,7.89,pH
+2021-10-21 10:37:48,Turbidity,-4.7,NTU
+2021-10-21 10:37:48,Chlorophyll,-1.5,ug/L
+2021-10-21 10:37:48,Blue-green algae,56408,cells/mL
+2021-10-21 10:37:48,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:48,Oxygen saturation,92.3,%
+2021-10-21 10:37:48,Water temperature,26.71,°C
+2021-10-21 10:37:48,Specific conductivity,67.96,mS/cm
+2021-10-21 10:37:48,Salinity,46.29,ppt
+2021-10-21 10:37:48,pH,7.89,pH
+2021-10-21 10:37:48,Turbidity,-4.7,NTU
+2021-10-21 10:37:48,Chlorophyll,-1.5,ug/L
+2021-10-21 10:37:48,Blue-green algae,56408,cells/mL
+2021-10-21 10:37:48,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:48,Oxygen saturation,92.3,%
+2021-10-21 10:37:48,Water temperature,26.71,°C
+2021-10-21 10:37:48,Specific conductivity,67.96,mS/cm
+2021-10-21 10:37:48,Salinity,46.29,ppt
+2021-10-21 10:37:49,pH,7.89,pH
+2021-10-21 10:37:49,Turbidity,-3.1,NTU
+2021-10-21 10:37:49,Chlorophyll,3.6,ug/L
+2021-10-21 10:37:49,Blue-green algae,31822,cells/mL
+2021-10-21 10:37:49,Dissolved oxygen,5.75,mg/L
+2021-10-21 10:37:49,Oxygen saturation,92.4,%
+2021-10-21 10:37:49,Water temperature,26.71,°C
+2021-10-21 10:37:49,Specific conductivity,66.28,mS/cm
+2021-10-21 10:37:49,Salinity,44.98,ppt
+2021-10-21 10:37:51,pH,7.89,pH
+2021-10-21 10:37:51,Turbidity,-9,NTU
+2021-10-21 10:37:51,Chlorophyll,-8.4,ug/L
+2021-10-21 10:37:51,Blue-green algae,144396,cells/mL
+2021-10-21 10:37:51,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:51,Oxygen saturation,92.4,%
+2021-10-21 10:37:51,Water temperature,26.72,°C
+2021-10-21 10:37:51,Specific conductivity,68,mS/cm
+2021-10-21 10:37:51,Salinity,46.32,ppt
+2021-10-21 10:37:51,pH,7.89,pH
+2021-10-21 10:37:51,Turbidity,-9,NTU
+2021-10-21 10:37:51,Chlorophyll,-8.4,ug/L
+2021-10-21 10:37:51,Blue-green algae,144396,cells/mL
+2021-10-21 10:37:51,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:51,Oxygen saturation,92.4,%
+2021-10-21 10:37:51,Water temperature,26.72,°C
+2021-10-21 10:37:51,Specific conductivity,68,mS/cm
+2021-10-21 10:37:51,Salinity,46.32,ppt
+2021-10-21 10:37:53,pH,7.89,pH
+2021-10-21 10:37:53,Turbidity,-2.9,NTU
+2021-10-21 10:37:53,Chlorophyll,-7.5,ug/L
+2021-10-21 10:37:53,Blue-green algae,18333,cells/mL
+2021-10-21 10:37:53,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:53,Oxygen saturation,92.5,%
+2021-10-21 10:37:53,Water temperature,26.71,°C
+2021-10-21 10:37:53,Specific conductivity,68,mS/cm
+2021-10-21 10:37:53,Salinity,46.32,ppt
+2021-10-21 10:37:53,pH,7.89,pH
+2021-10-21 10:37:53,Turbidity,-2.9,NTU
+2021-10-21 10:37:53,Chlorophyll,-7.5,ug/L
+2021-10-21 10:37:53,Blue-green algae,18333,cells/mL
+2021-10-21 10:37:53,Dissolved oxygen,5.71,mg/L
+2021-10-21 10:37:53,Oxygen saturation,92.5,%
+2021-10-21 10:37:53,Water temperature,26.71,°C
+2021-10-21 10:37:53,Specific conductivity,68,mS/cm
+2021-10-21 10:37:53,Salinity,46.32,ppt
+2021-10-21 10:37:55,pH,7.89,pH
+2021-10-21 10:37:55,Turbidity,-3.1,NTU
+2021-10-21 10:37:55,Chlorophyll,-5.1,ug/L
+2021-10-21 10:37:55,Blue-green algae,217656,cells/mL
+2021-10-21 10:37:55,Dissolved oxygen,6.15,mg/L
+2021-10-21 10:37:55,Oxygen saturation,92.3,%
+2021-10-21 10:37:55,Water temperature,26.71,°C
+2021-10-21 10:37:55,Specific conductivity,50.04,mS/cm
+2021-10-21 10:37:55,Salinity,32.72,ppt
+2021-10-21 10:37:55,pH,7.89,pH
+2021-10-21 10:37:55,Turbidity,-3.1,NTU
+2021-10-21 10:37:55,Chlorophyll,-5.1,ug/L
+2021-10-21 10:37:55,Blue-green algae,217656,cells/mL
+2021-10-21 10:37:55,Dissolved oxygen,6.15,mg/L
+2021-10-21 10:37:55,Oxygen saturation,92.3,%
+2021-10-21 10:37:55,Water temperature,26.71,°C
+2021-10-21 10:37:55,Specific conductivity,50.04,mS/cm
+2021-10-21 10:37:55,Salinity,32.72,ppt
+2021-10-21 10:37:57,pH,7.89,pH
+2021-10-21 10:37:57,Turbidity,-10.1,NTU
+2021-10-21 10:37:57,Chlorophyll,231.6,ug/L
+2021-10-21 10:37:57,Blue-green algae,188390,cells/mL
+2021-10-21 10:37:57,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:37:57,Oxygen saturation,92.3,%
+2021-10-21 10:37:57,Water temperature,26.7,°C
+2021-10-21 10:37:57,Specific conductivity,64.09,mS/cm
+2021-10-21 10:37:57,Salinity,43.29,ppt
+2021-10-21 10:37:57,pH,7.89,pH
+2021-10-21 10:37:57,Turbidity,-10.1,NTU
+2021-10-21 10:37:57,Chlorophyll,231.6,ug/L
+2021-10-21 10:37:57,Blue-green algae,188390,cells/mL
+2021-10-21 10:37:57,Dissolved oxygen,5.8,mg/L
+2021-10-21 10:37:57,Oxygen saturation,92.3,%
+2021-10-21 10:37:57,Water temperature,26.7,°C
+2021-10-21 10:37:57,Specific conductivity,64.09,mS/cm
+2021-10-21 10:37:57,Salinity,43.29,ppt
+2021-10-21 10:37:59,pH,7.89,pH
+2021-10-21 10:37:59,Turbidity,-2.4,NTU
+2021-10-21 10:37:59,Chlorophyll,2.8,ug/L
+2021-10-21 10:37:59,Blue-green algae,105528,cells/mL
+2021-10-21 10:37:59,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:37:59,Oxygen saturation,92.3,%
+2021-10-21 10:37:59,Water temperature,26.7,°C
+2021-10-21 10:37:59,Specific conductivity,67.99,mS/cm
+2021-10-21 10:37:59,Salinity,46.31,ppt
+2021-10-21 10:38:00,pH,7.89,pH
+2021-10-21 10:38:00,Turbidity,-4.8,NTU
+2021-10-21 10:38:00,Chlorophyll,1,ug/L
+2021-10-21 10:38:00,Blue-green algae,194140,cells/mL
+2021-10-21 10:38:00,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:38:00,Oxygen saturation,92.3,%
+2021-10-21 10:38:00,Water temperature,26.71,°C
+2021-10-21 10:38:00,Specific conductivity,67.78,mS/cm
+2021-10-21 10:38:00,Salinity,46.14,ppt
+2021-10-21 10:38:01,pH,7.88,pH
+2021-10-21 10:38:01,Turbidity,-3.7,NTU
+2021-10-21 10:38:01,Chlorophyll,-16,ug/L
+2021-10-21 10:38:01,Blue-green algae,151125,cells/mL
+2021-10-21 10:38:01,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:38:01,Oxygen saturation,92.3,%
+2021-10-21 10:38:01,Water temperature,26.7,°C
+2021-10-21 10:38:01,Specific conductivity,68.01,mS/cm
+2021-10-21 10:38:01,Salinity,46.32,ppt
+2021-10-21 10:38:01,pH,7.88,pH
+2021-10-21 10:38:01,Turbidity,-3.7,NTU
+2021-10-21 10:38:01,Chlorophyll,-16,ug/L
+2021-10-21 10:38:01,Blue-green algae,151125,cells/mL
+2021-10-21 10:38:01,Dissolved oxygen,5.7,mg/L
+2021-10-21 10:38:01,Oxygen saturation,92.3,%
+2021-10-21 10:38:01,Water temperature,26.7,°C
+2021-10-21 10:38:01,Specific conductivity,68.01,mS/cm
+2021-10-21 10:38:01,Salinity,46.32,ppt
+2021-10-21 10:38:03,pH,7.89,pH
+2021-10-21 10:38:03,Turbidity,-4.4,NTU
+2021-10-21 10:38:03,Chlorophyll,0.6,ug/L
+2021-10-21 10:38:03,Blue-green algae,41717,cells/mL
+2021-10-21 10:38:03,Dissolved oxygen,6.14,mg/L
+2021-10-21 10:38:03,Oxygen saturation,92.3,%
+2021-10-21 10:38:03,Water temperature,26.7,°C
+2021-10-21 10:38:03,Specific conductivity,50.72,mS/cm
+2021-10-21 10:38:03,Salinity,33.23,ppt
+2021-10-21 10:38:03,pH,7.89,pH
+2021-10-21 10:38:03,Turbidity,-4.4,NTU
+2021-10-21 10:38:03,Chlorophyll,0.6,ug/L
+2021-10-21 10:38:03,Blue-green algae,41717,cells/mL
+2021-10-21 10:38:03,Dissolved oxygen,6.14,mg/L
+2021-10-21 10:38:03,Oxygen saturation,92.3,%
+2021-10-21 10:38:03,Water temperature,26.7,°C
+2021-10-21 10:38:03,Specific conductivity,50.72,mS/cm
+2021-10-21 10:38:03,Salinity,33.23,ppt
+2021-10-21 10:38:04,pH,7.88,pH
+2021-10-21 10:38:04,Turbidity,-2.5,NTU
+2021-10-21 10:38:04,Chlorophyll,105.4,ug/L
+2021-10-21 10:38:04,Blue-green algae,157925,cells/mL
+2021-10-21 10:38:04,Dissolved oxygen,7.06,mg/L
+2021-10-21 10:38:04,Oxygen saturation,92.5,%
+2021-10-21 10:38:04,Water temperature,26.65,°C
+2021-10-21 10:38:04,Specific conductivity,15.06,mS/cm
+2021-10-21 10:38:04,Salinity,8.74,ppt
+2021-10-21 10:38:05,pH,7.88,pH
+2021-10-21 10:38:05,Turbidity,-8.9,NTU
+2021-10-21 10:38:05,Chlorophyll,-2.8,ug/L
+2021-10-21 10:38:05,Blue-green algae,98676,cells/mL
+2021-10-21 10:38:05,Dissolved oxygen,7.16,mg/L
+2021-10-21 10:38:05,Oxygen saturation,92.4,%
+2021-10-21 10:38:05,Water temperature,26.63,°C
+2021-10-21 10:38:05,Specific conductivity,10.93,mS/cm
+2021-10-21 10:38:05,Salinity,6.18,ppt
+2021-10-21 10:38:07,pH,7.88,pH
+2021-10-21 10:38:07,Turbidity,-7.7,NTU
+2021-10-21 10:38:07,Chlorophyll,-1.1,ug/L
+2021-10-21 10:38:07,Blue-green algae,198503,cells/mL
+2021-10-21 10:38:07,Dissolved oxygen,7.31,mg/L
+2021-10-21 10:38:07,Oxygen saturation,92.3,%
+2021-10-21 10:38:07,Water temperature,26.28,°C
+2021-10-21 10:38:07,Specific conductivity,6.11,mS/cm
+2021-10-21 10:38:07,Salinity,3.31,ppt
+2021-10-21 10:38:07,pH,7.88,pH
+2021-10-21 10:38:07,Turbidity,-7.7,NTU
+2021-10-21 10:38:07,Chlorophyll,-1.1,ug/L
+2021-10-21 10:38:07,Blue-green algae,198503,cells/mL
+2021-10-21 10:38:07,Dissolved oxygen,7.31,mg/L
+2021-10-21 10:38:07,Oxygen saturation,92.3,%
+2021-10-21 10:38:07,Water temperature,26.28,°C
+2021-10-21 10:38:07,Specific conductivity,6.11,mS/cm
+2021-10-21 10:38:07,Salinity,3.31,ppt
+2021-10-21 10:38:08,pH,7.86,pH
+2021-10-21 10:38:08,Turbidity,-8.5,NTU
+2021-10-21 10:38:08,Chlorophyll,-6.4,ug/L
+2021-10-21 10:38:08,Blue-green algae,132907,cells/mL
+2021-10-21 10:38:08,Dissolved oxygen,7.26,mg/L
+2021-10-21 10:38:08,Oxygen saturation,92.2,%
+2021-10-21 10:38:08,Water temperature,26.15,°C
+2021-10-21 10:38:08,Specific conductivity,8.923,mS/cm
+2021-10-21 10:38:08,Salinity,4.97,ppt
+2021-10-21 10:38:10,pH,7.88,pH
+2021-10-21 10:38:10,Turbidity,-8.5,NTU
+2021-10-21 10:38:10,Chlorophyll,-7.7,ug/L
+2021-10-21 10:38:10,Blue-green algae,171091,cells/mL
+2021-10-21 10:38:10,Dissolved oxygen,7.34,mg/L
+2021-10-21 10:38:10,Oxygen saturation,92.6,%
+2021-10-21 10:38:10,Water temperature,25.97,°C
+2021-10-21 10:38:10,Specific conductivity,7.481,mS/cm
+2021-10-21 10:38:10,Salinity,4.12,ppt
+2021-10-21 10:38:10,pH,7.88,pH
+2021-10-21 10:38:10,Turbidity,-8.5,NTU
+2021-10-21 10:38:10,Chlorophyll,-7.7,ug/L
+2021-10-21 10:38:10,Blue-green algae,171091,cells/mL
+2021-10-21 10:38:10,Dissolved oxygen,7.34,mg/L
+2021-10-21 10:38:10,Oxygen saturation,92.6,%
+2021-10-21 10:38:10,Water temperature,25.97,°C
+2021-10-21 10:38:10,Specific conductivity,7.481,mS/cm
+2021-10-21 10:38:10,Salinity,4.12,ppt
+2021-10-21 10:38:12,pH,7.87,pH
+2021-10-21 10:38:12,Turbidity,-7.6,NTU
+2021-10-21 10:38:12,Chlorophyll,0.2,ug/L
+2021-10-21 10:38:12,Blue-green algae,154659,cells/mL
+2021-10-21 10:38:12,Dissolved oxygen,7.49,mg/L
+2021-10-21 10:38:12,Oxygen saturation,93.7,%
+2021-10-21 10:38:12,Water temperature,25.73,°C
+2021-10-21 10:38:12,Specific conductivity,6.617,mS/cm
+2021-10-21 10:38:12,Salinity,3.61,ppt
+2021-10-21 10:38:12,pH,7.87,pH
+2021-10-21 10:38:12,Turbidity,-7.6,NTU
+2021-10-21 10:38:12,Chlorophyll,0.2,ug/L
+2021-10-21 10:38:12,Blue-green algae,154659,cells/mL
+2021-10-21 10:38:12,Dissolved oxygen,7.49,mg/L
+2021-10-21 10:38:12,Oxygen saturation,93.7,%
+2021-10-21 10:38:12,Water temperature,25.73,°C
+2021-10-21 10:38:12,Specific conductivity,6.617,mS/cm
+2021-10-21 10:38:12,Salinity,3.61,ppt
+2021-10-21 10:38:13,pH,7.87,pH
+2021-10-21 10:38:13,Turbidity,-7.3,NTU
+2021-10-21 10:38:13,Chlorophyll,-6.1,ug/L
+2021-10-21 10:38:13,Blue-green algae,158751,cells/mL
+2021-10-21 10:38:13,Dissolved oxygen,7.59,mg/L
+2021-10-21 10:38:13,Oxygen saturation,94.4,%
+2021-10-21 10:38:13,Water temperature,25.66,°C
+2021-10-21 10:38:13,Specific conductivity,5.141,mS/cm
+2021-10-21 10:38:13,Salinity,2.76,ppt
+2021-10-21 10:38:15,pH,7.87,pH
+2021-10-21 10:38:15,Turbidity,-8.7,NTU
+2021-10-21 10:38:15,Chlorophyll,-5.5,ug/L
+2021-10-21 10:38:15,Blue-green algae,142160,cells/mL
+2021-10-21 10:38:15,Dissolved oxygen,7.64,mg/L
+2021-10-21 10:38:15,Oxygen saturation,95.5,%
+2021-10-21 10:38:15,Water temperature,25.63,°C
+2021-10-21 10:38:15,Specific conductivity,6.999,mS/cm
+2021-10-21 10:38:15,Salinity,3.83,ppt
+2021-10-21 10:38:15,pH,7.87,pH
+2021-10-21 10:38:15,Turbidity,-8.7,NTU
+2021-10-21 10:38:15,Chlorophyll,-5.5,ug/L
+2021-10-21 10:38:15,Blue-green algae,142160,cells/mL
+2021-10-21 10:38:15,Dissolved oxygen,7.64,mg/L
+2021-10-21 10:38:15,Oxygen saturation,95.5,%
+2021-10-21 10:38:15,Water temperature,25.63,°C
+2021-10-21 10:38:15,Specific conductivity,6.999,mS/cm
+2021-10-21 10:38:15,Salinity,3.83,ppt
+2021-10-21 10:38:17,pH,7.87,pH
+2021-10-21 10:38:17,Turbidity,-9.1,NTU
+2021-10-21 10:38:17,Chlorophyll,0.1,ug/L
+2021-10-21 10:38:17,Blue-green algae,192634,cells/mL
+2021-10-21 10:38:17,Dissolved oxygen,7.82,mg/L
+2021-10-21 10:38:17,Oxygen saturation,97.2,%
+2021-10-21 10:38:17,Water temperature,25.57,°C
+2021-10-21 10:38:17,Specific conductivity,5.35,mS/cm
+2021-10-21 10:38:17,Salinity,2.88,ppt
+2021-10-21 10:38:17,pH,7.87,pH
+2021-10-21 10:38:17,Turbidity,-9.1,NTU
+2021-10-21 10:38:17,Chlorophyll,0.1,ug/L
+2021-10-21 10:38:17,Blue-green algae,192634,cells/mL
+2021-10-21 10:38:17,Dissolved oxygen,7.82,mg/L
+2021-10-21 10:38:17,Oxygen saturation,97.2,%
+2021-10-21 10:38:17,Water temperature,25.57,°C
+2021-10-21 10:38:17,Specific conductivity,5.35,mS/cm
+2021-10-21 10:38:17,Salinity,2.88,ppt
+2021-10-21 10:38:18,pH,7.87,pH
+2021-10-21 10:38:18,Turbidity,-8.2,NTU
+2021-10-21 10:38:18,Chlorophyll,-0.2,ug/L
+2021-10-21 10:38:18,Blue-green algae,122650,cells/mL
+2021-10-21 10:38:18,Dissolved oxygen,7.88,mg/L
+2021-10-21 10:38:18,Oxygen saturation,97.9,%
+2021-10-21 10:38:18,Water temperature,25.58,°C
+2021-10-21 10:38:18,Specific conductivity,5.312,mS/cm
+2021-10-21 10:38:18,Salinity,2.86,ppt
+2021-10-21 10:38:20,pH,7.87,pH
+2021-10-21 10:38:20,Turbidity,-8.3,NTU
+2021-10-21 10:38:20,Chlorophyll,-1,ug/L
+2021-10-21 10:38:20,Blue-green algae,140824,cells/mL
+2021-10-21 10:38:20,Dissolved oxygen,7.91,mg/L
+2021-10-21 10:38:20,Oxygen saturation,99.3,%
+2021-10-21 10:38:20,Water temperature,25.76,°C
+2021-10-21 10:38:20,Specific conductivity,7.495,mS/cm
+2021-10-21 10:38:20,Salinity,4.13,ppt
+2021-10-21 10:38:21,pH,7.87,pH
+2021-10-21 10:38:21,Turbidity,-6.5,NTU
+2021-10-21 10:38:21,Chlorophyll,-5.1,ug/L
+2021-10-21 10:38:21,Blue-green algae,55704,cells/mL
+2021-10-21 10:38:21,Dissolved oxygen,7.94,mg/L
+2021-10-21 10:38:21,Oxygen saturation,99.7,%
+2021-10-21 10:38:21,Water temperature,25.92,°C
+2021-10-21 10:38:21,Specific conductivity,6.683,mS/cm
+2021-10-21 10:38:21,Salinity,3.65,ppt
+2021-10-21 10:38:21,pH,7.87,pH
+2021-10-21 10:38:21,Turbidity,-6.5,NTU
+2021-10-21 10:38:21,Chlorophyll,-5.1,ug/L
+2021-10-21 10:38:21,Blue-green algae,55704,cells/mL
+2021-10-21 10:38:21,Dissolved oxygen,7.94,mg/L
+2021-10-21 10:38:21,Oxygen saturation,99.7,%
+2021-10-21 10:38:21,Water temperature,25.92,°C
+2021-10-21 10:38:21,Specific conductivity,6.683,mS/cm
+2021-10-21 10:38:21,Salinity,3.65,ppt
+2021-10-21 10:38:23,pH,7.86,pH
+2021-10-21 10:38:23,Turbidity,-7.6,NTU
+2021-10-21 10:38:23,Chlorophyll,-9.5,ug/L
+2021-10-21 10:38:23,Blue-green algae,43390,cells/mL
+2021-10-21 10:38:23,Dissolved oxygen,7.98,mg/L
+2021-10-21 10:38:23,Oxygen saturation,99.9,%
+2021-10-21 10:38:23,Water temperature,26.03,°C
+2021-10-21 10:38:23,Specific conductivity,5.094,mS/cm
+2021-10-21 10:38:23,Salinity,2.73,ppt
+2021-10-21 10:38:23,pH,7.86,pH
+2021-10-21 10:38:23,Turbidity,-7.6,NTU
+2021-10-21 10:38:23,Chlorophyll,-9.5,ug/L
+2021-10-21 10:38:23,Blue-green algae,43390,cells/mL
+2021-10-21 10:38:23,Dissolved oxygen,7.98,mg/L
+2021-10-21 10:38:23,Oxygen saturation,99.9,%
+2021-10-21 10:38:23,Water temperature,26.03,°C
+2021-10-21 10:38:23,Specific conductivity,5.094,mS/cm
+2021-10-21 10:38:23,Salinity,2.73,ppt
+2021-10-21 10:38:25,pH,7.86,pH
+2021-10-21 10:38:25,Turbidity,-8.8,NTU
+2021-10-21 10:38:25,Chlorophyll,-3.6,ug/L
+2021-10-21 10:38:25,Blue-green algae,25487,cells/mL
+2021-10-21 10:38:25,Dissolved oxygen,7.98,mg/L
+2021-10-21 10:38:25,Oxygen saturation,100,%
+2021-10-21 10:38:25,Water temperature,26.11,°C
+2021-10-21 10:38:25,Specific conductivity,4.927,mS/cm
+2021-10-21 10:38:25,Salinity,2.63,ppt
+2021-10-21 10:38:25,pH,7.86,pH
+2021-10-21 10:38:25,Turbidity,-8.8,NTU
+2021-10-21 10:38:25,Chlorophyll,-3.6,ug/L
+2021-10-21 10:38:25,Blue-green algae,25487,cells/mL
+2021-10-21 10:38:25,Dissolved oxygen,7.98,mg/L
+2021-10-21 10:38:25,Oxygen saturation,100,%
+2021-10-21 10:38:25,Water temperature,26.11,°C
+2021-10-21 10:38:25,Specific conductivity,4.927,mS/cm
+2021-10-21 10:38:25,Salinity,2.63,ppt
+2021-10-21 10:38:26,pH,7.86,pH
+2021-10-21 10:38:26,Turbidity,-8.7,NTU
+2021-10-21 10:38:26,Chlorophyll,-3.5,ug/L
+2021-10-21 10:38:26,Blue-green algae,30902,cells/mL
+2021-10-21 10:38:26,Dissolved oxygen,7.96,mg/L
+2021-10-21 10:38:26,Oxygen saturation,99.9,%
+2021-10-21 10:38:26,Water temperature,26.14,°C
+2021-10-21 10:38:26,Specific conductivity,4.913,mS/cm
+2021-10-21 10:38:26,Salinity,2.63,ppt
